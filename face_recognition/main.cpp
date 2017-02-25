@@ -66,12 +66,12 @@ void PCA_training(int TRAINNO, Face* trainFace, MatrixXf & trainCoef, MatrixXf &
 	}
 	MatrixXf covFace(TRAINNO, TRAINNO);
 	covFace = trainingset.transpose()*trainingset;
-	//cout << "Here is the matrix m:\n" << covFace << std::endl;
-	//cout << "The matrix m is of size " << covFace.rows() << "x" << covFace.cols() << std::endl;
+	cout << "Here is the matrix m:\n" << covFace << std::endl;
+	cout << "The matrix m is of size " << covFace.rows() << "x" << covFace.cols() << std::endl;
 	//Get the eigen value and eigen vector of the covFace
 	SelfAdjointEigenSolver<MatrixXf> eigensolver(covFace);
 	if (eigensolver.info() != Success) abort();
-	//cout << "The eigenvalues of covFace are:\n" << eigensolver.eigenvalues() << endl;
+	cout << "The eigenvalues of covFace are:\n" << eigensolver.eigenvalues() << endl;
 
 	MatrixXf eigenValue(TRAINNO - 1, 1);
 	MatrixXf eigenVector(WIDTH*HEIGHT, TRAINNO - 1);
