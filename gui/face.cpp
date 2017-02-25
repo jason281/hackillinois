@@ -136,7 +136,8 @@ bool Face::detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* orig
 	*originalRightEye = Point(faceRect.x + rightEye.x, faceRect.y + rightEye.y);
 	cout << "Position of left eye:" << originalLeftEye->x << "," << originalLeftEye->y << endl;
 	cout << "Position of right eye:" << originalRightEye->x << "," << originalRightEye->y << endl;
-
+	rect_face=faceRect;
+	
 	bool gotFaceAndEyes = false;
 	if (preprocessedFace.data)
 		gotFaceAndEyes = true;

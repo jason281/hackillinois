@@ -32,6 +32,7 @@ public:
 	float** getdata2D();
 	bool savedata(string filename);
 	bool savedata2D(string filename);
+	Rect rect_face;
 
 private:
 	/** member functions **/

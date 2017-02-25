@@ -54,7 +54,7 @@ void analyzeThread::run(){
 	while(1){
 		Face tmp;
 		if(tmp.faceNormalization(mw->frame)){
-			mw->rect_face=cv::Rect(0,0,0,0);
+			mw->rect_face=tmp.rect_face;
 			float distance=100;
 			cout<<"=========test==========\n";
 			PCA_testing(mw->f, &tmp, mw->trainCoef, mw->eigenFace, mw->meanFace, distance);
