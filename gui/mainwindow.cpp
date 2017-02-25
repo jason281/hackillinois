@@ -1,5 +1,6 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
+#include "train.cpp"
 
 MainWindow::MainWindow(QWidget* parent) : QMainWindow(parent), ui(new Ui::MainWindow){
 	ui->setupUi(this);
@@ -28,7 +29,7 @@ void MainWindow::connect_cam(){
 }
 void MainWindow::ana(){
 	imshow(std::string("Origin"), frame);
-	char keypress = waitKey(40); 
+	char keypress = waitKey(40);
 	f.faceNormalization(frame);
 	char c[10]="abcd";
 	f.setID(c);

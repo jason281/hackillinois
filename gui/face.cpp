@@ -160,12 +160,14 @@ void Face::faceNormalization(Mat & inputFace){
 	warpAffine(inputFace, normalizedFace, rot_mat, inputFace.size());
 	normalizedFace = cv::Mat(normalizedFace, cv::Rect((origin_x - eyeDistance * 1), (origin_y - eyeDistance * 0.5), eyeDistance * 2, eyeDistance * 2));
 	cv::resize(normalizedFace, normalizedFace, cv::Size(HEIGHT, WIDTH), 0, 0, CV_INTER_LINEAR);
+	colorFace = normalizedFace;
+	cvtColor(colorFace,normalizedFace,CV_RGB2GRAY);
 
-	//// Show the camera frame on the screen.
-	//imshow("face", normalizedFace);
-	//// IMPORTANT: Wait for at least 20 milliseconds, so that the image can be displayed on the screen!
-	//// Also checks if a key was pressed in the GUI window. Note that it should be a "char" to support Linux.
-	//char keypress = waitKey(20);  // This is needed if you want to see anything!
+	// Show the camera frame on the screen.
+	imshow("face", normalizedFace);
+	// IMPORTANT: Wait for at least 20 milliseconds, so that the image can be displayed on the screen!
+	// Also checks if a key was pressed in the GUI window. Note that it should be a "char" to support Linux.
+	char keypress = waitKey(20);  // This is needed if you want to see anything!
 	
 	//float* p;
 	//for (int i = 0; i < WIDTH; i++) {

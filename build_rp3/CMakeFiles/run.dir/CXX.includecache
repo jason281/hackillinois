@@ -1105,6 +1105,8 @@ mainwindow.h
 /home/pi/Desktop/hackillinois/gui/mainwindow.h
 ui_mainwindow.h
 /home/pi/Desktop/hackillinois/gui/ui_mainwindow.h
+train.cpp
+/home/pi/Desktop/hackillinois/gui/train.cpp
 
 /home/pi/Desktop/hackillinois/gui/mainwindow.h
 QMainWindow
@@ -1137,6 +1139,16 @@ vector
 -
 opencv2/opencv.hpp
 /home/pi/Desktop/hackillinois/gui/opencv2/opencv.hpp
+
+/home/pi/Desktop/hackillinois/gui/train.cpp
+face.h
+/home/pi/Desktop/hackillinois/gui/face.h
+Eigen/Dense
+-
+iostream
+-
+string.h
+-
 
 /home/pi/Desktop/hackillinois/gui/ui_mainwindow.h
 QtCore/QVariant

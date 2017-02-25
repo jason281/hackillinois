@@ -40,7 +40,7 @@ private:
 	char faceID[IDsize];
 	float* data;
 	float** data2D;
-	
+	Mat colorFace;
 };
 
 #endif /* FACE_H_ */
