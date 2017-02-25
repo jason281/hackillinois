@@ -16,6 +16,8 @@ find_package(Qt5Core)
 
 find_package( OpenCV REQUIRED )
 
+find_package( Eigen3 REQUIRED )
+
 ADD_EXECUTABLE(run main.cpp mainwindow.cpp)
 if(WIN32)
 	TARGET_LINK_LIBRARIES(run wsock32 ws2_32)
