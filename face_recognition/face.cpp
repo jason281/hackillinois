@@ -211,7 +211,7 @@ void Face::show(string windowname){
 	imshow(windowname, showFace/255);
 	// IMPORTANT: Wait for at least 20 milliseconds, so that the image can be displayed on the screen!
 	// Also checks if a key was pressed in the GUI window. Note that it should be a "char" to support Linux.
-	char keypress = waitKey(40);  // This is needed if you want to see anything!
+	char keypress = waitKey(2);  // This is needed if you want to see anything!
 }
 
 void Face::save(string filename){
