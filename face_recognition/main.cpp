@@ -26,10 +26,8 @@ using namespace cv;
 using namespace std;
 using namespace Eigen;
 
-void FR_onlyPCA(int TRAINNO, int TESTNO, Face* trainFace, Face* testFace, int deleteEigenNo, bool deleteEigenOrder, MatrixXf* trainCoef, MatrixXf* testCoef){
+void PCA_training(int TRAINNO, Face* trainFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace){
 	//dimension of trainCoef is (TRAINNO-1,TRAINNO), dimension of trainCoef is (TRAINNO-1,TESTNO)
-	//initiate local variables
-	float meanFace[HEIGHT*WIDTH];
 	for (int i = 0; i < HEIGHT*WIDTH; i++){
 		meanFace[i] = 0;
 	}
@@ -94,79 +92,47 @@ void FR_onlyPCA(int TRAINNO, int TESTNO, Face* trainFace, Face* testFace, int de
 	//	cout << "The eigenvectors of covFace are:\n" << eigenVector(i, 0) << endl;
 	//}
 
-	MatrixXf testingset(WIDTH*HEIGHT, TESTNO);
-	for (int i = 0; i < TESTNO; i++){
-		for (int j = 0; j < HEIGHT * WIDTH; j++){
-			testingset(j, i) = testFace[i].getdata()[j] - meanFace[j];
-		}
-	}
-
-	if (deleteEigenOrder){		//if delete several eigenvectors of large eigenvalue
-		*trainCoef = (eigenVector.transpose() * trainingset).block(0, 0, TRAINNO - 1 - deleteEigenNo, TRAINNO);
-		*testCoef = (eigenVector.transpose() * testingset).block(0, 0, TRAINNO - 1 - deleteEigenNo, TESTNO);
-	}
-	else{						//if delete the first several eigenvectors of small eigenvalue
-		*trainCoef = (eigenVector.transpose() * trainingset).block(deleteEigenNo, 0, TRAINNO - 1 - deleteEigenNo, TRAINNO);
-		*testCoef = (eigenVector.transpose() * testingset).block(deleteEigenNo, 0, TRAINNO - 1 - deleteEigenNo, TESTNO);
-	}
-
+	trainCoef = eigenVector.transpose() * trainingset;
+	eigenFace = eigenVector;
 	delete demeanedFace;
 }
 
-float FR_euclideanDistance(int TRAINNO, int TESTNO, Face* trainFace, Face* testFace, MatrixXf* train, MatrixXf* test){
+int PCA_testing(int TRAINNO, Face* trainFace, Face* testFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace){
 
-	if ((train->cols() != TRAINNO) || (test->cols() != TESTNO)){
-		std::cout << "the column numbers of the matrice pass to the distance calculation is incorrect!" << endl;
-		return 0;
+	int coefNo = TRAINNO-1;
+	MatrixXf testingset(WIDTH*HEIGHT, 1);
+	for (int j = 0; j < HEIGHT * WIDTH; j++){
+		testingset(j, 1) = testFace->getdata()[j] - meanFace[j];
 	}
-	if (test->rows() != train->rows()){
-		std::cout << "the row numbers of the matrice pass to the distance calculation is incorrect!" << endl;
-		return 0;
-	}
-	int coefNo = train->rows();
-	cout << "Number of coefficients:" << coefNo << endl;
+	MatrixXf testCoef(coefNo, 1);
+	testCoef = (eigenFace.transpose() * testingset));
 
 	//Calcuate the distance
-	int* matchedFace = new int[TESTNO];
-	int matchCounter = 0;
+	int matchedFace;
+	bool correct = 0;
 	float euclideanDistance_min;
 
-	for (int i = 0; i < TESTNO; i++){
-		euclideanDistance_min = 1000000000;
-		for (int j = 0; j < TRAINNO; j++){
-			VectorXf distance(coefNo);
-			distance = test->col(i) - train->col(j);
-			float euclideanDistance = 0;
-			for (int k = 0; k < coefNo; k++){
-				euclideanDistance += (distance(k) * distance(k));
-			}
-			euclideanDistance = sqrt(euclideanDistance);
-			if (euclideanDistance < euclideanDistance_min){
-				matchedFace[i] = j;
-				euclideanDistance_min = euclideanDistance;
-			}
+	euclideanDistance_min = 1000000000;
+	for (int j = 0; j < TRAINNO; j++){
+		VectorXf distance(coefNo);
+		distance = testCoef - trainCoef.col(j);
+		float euclideanDistance = 0;
+		for (int k = 0; k < coefNo; k++){
+			euclideanDistance += (distance(k) * distance(k));
 		}
-		if (!strcmp(trainFace[matchedFace[i]].getID(), testFace[i].getID())){
-			matchCounter++;
+		euclideanDistance = sqrt(euclideanDistance);
+		if (euclideanDistance < euclideanDistance_min){
+			matchedFace = j;
+			euclideanDistance_min = euclideanDistance;
 		}
 	}
-
-	float accuracy = (float)matchCounter / TESTNO;
-	std::cout << "Accuracy: " << accuracy << endl;
-
-	string file = "./Info/ClassificationResults.txt";
-	ofstream ff(file.c_str());
-	if (!ff) {
-		std::cout << "Cannot create " << file << endl;
+	if (!strcmp(trainFace[matchedFace].getID(), testFace->getID())){
+		correct = true;
 	}
-	ff << "Face" << endl;
-	for (int i = 0; i < TESTNO; i++) {
-		ff << "Test face " << i << " :\t" << testFace[i].getID() << "\t" << trainFace[matchedFace[i]].getID() << endl;
-	}
-	ff.close();
 
-	delete matchedFace;
-	return accuracy;
+	cout << "Test face " << i << " :    " << testFace->getID() << "    " << trainFace[matchedFace].getID() << endl;
+
+	return matchedFace;
 }
 
 
@@ -308,34 +274,19 @@ int main()
 		//delay N millis, usually long enough to display and capture input
 		printf("\nafter detection time=%d\ncorrect=%d %d",time_det,frame_det*100/frame_process,frame_process);
 
-		
-
-
-
 		int TRAINNO = 20;
 		int TESTNO = 20;
 
 		// PCA + Euclidean Distance Calculation
-		float accuracy[20];
-		for (int i = 0; i < 20; i++){		//max: i < TRAINNO - 1
-			//Get the low-dimenstional face images
-			MatrixXf *trainCoef = new MatrixXf(TRAINNO - 1 - i, TRAINNO);
-			MatrixXf *testCoef = new MatrixXf(TRAINNO - 1 - i, TESTNO);
-			FR_onlyPCA(TRAINNO, TESTNO, trainFace, testFace, i, true, trainCoef, testCoef);
-			accuracy[i] = FR_euclideanDistance(TRAINNO, TESTNO,trainFace, testFace, trainCoef, testCoef);
-			delete trainCoef, testCoef;
-		}
-		string file = "./Info/Accuracy.txt";
-		ofstream ff(file.c_str());
-		if (!ff) {
-			std::cout << "Cannot create " << file << endl;
-		}
-		ff << "Accuracy List" << endl;
-		for (int i = 0; i < 20; i++){		//max: i < TRAINNO - 1
-			ff << "delete eigen no: " << i << "       accuracy: " << accuracy[i] << endl;
-		}
-		ff.close();
+		float accuracy;
+		//Get the low-dimenstional face images
+		MatrixXf *trainCoef = new MatrixXf(TRAINNO - 1 - i, TRAINNO);
+		MatrixXf *testCoef = new MatrixXf(TRAINNO - 1 - i, TESTNO);
+		FR_onlyPCA(TRAINNO, TESTNO, trainFace, testFace, i, true, trainCoef, testCoef);
+		accuracy[i] = FR_euclideanDistance(TRAINNO, TESTNO,trainFace, testFace, trainCoef, testCoef);
+		delete trainCoef, testCoef;
 
+		cout << "Accuracy: " << accuracy << endl;
 
 	}//while			 		 
 	
