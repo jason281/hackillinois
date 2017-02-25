@@ -33,7 +33,8 @@ private:
 	std::vector<Face> f;
 	Eigen::MatrixXf trainCoef;
 	Eigen::MatrixXf eigenFace;
-	float	meanFace;
+	float*	meanFace;
+	cv::Rect rect_face;
 private slots:
 	void connect_cam();
 };

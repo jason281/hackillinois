@@ -13,10 +13,7 @@ void PCA_training(vector<Face> trainFace, MatrixXf & trainCoef, MatrixXf & eigen
 	for (int i = 0; i < HEIGHT*WIDTH; i++){
 		meanFace[i] = 0;
 	}
-	float** demeanedFace = new float*[TRAINNO];
-	for (int i = 0; i < TRAINNO; i++){
-		demeanedFace[i] = new float[HEIGHT*WIDTH];
-	}
+	std::vector<std::vector<float>> demeanedFace(TRAINNO, std::vector<float>(HEIGHT*WIDTH));
 	for (int i = 0; i < TRAINNO; i++){
 		for (int j = 0; j < HEIGHT*WIDTH; j++){
 			meanFace[j] += trainFace[i].getdata()[j];
@@ -35,9 +32,9 @@ void PCA_training(vector<Face> trainFace, MatrixXf & trainCoef, MatrixXf & eigen
 	}
 
 	Face mean(meanFace);
-	mean.show("meanFace");
-	mean.save("./PCA/meanFace.bmp");
-	mean.savedata("./PCA/meanFace.txt");
+	//mean.show("meanFace");
+	//mean.save("./PCA/meanFace.bmp");
+	//mean.savedata("./PCA/meanFace.txt");
 
 	//Save the training face matrix into the format used in Eigen library
 	MatrixXf trainingset(WIDTH*HEIGHT, TRAINNO);
@@ -76,7 +73,7 @@ void PCA_training(vector<Face> trainFace, MatrixXf & trainCoef, MatrixXf & eigen
 
 	trainCoef = eigenVector.transpose() * trainingset;
 	eigenFace = eigenVector;
-	delete demeanedFace;
+	
 }
 
 int PCA_testing(vector<Face> trainFace, Face* testFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace, float& euclideanDistance_min){

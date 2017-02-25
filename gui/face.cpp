@@ -170,10 +170,10 @@ bool Face::faceNormalization(Mat & inputFace){
 	cvtColor(colorFace,normalizedFace,CV_RGB2GRAY);
 
 	// Show the camera frame on the screen.
-	imshow("face", normalizedFace);
+	//imshow("face", normalizedFace);
 	// IMPORTANT: Wait for at least 20 milliseconds, so that the image can be displayed on the screen!
 	// Also checks if a key was pressed in the GUI window. Note that it should be a "char" to support Linux.
-	char keypress = waitKey(20);  // This is needed if you want to see anything!
+	//char keypress = waitKey(1);  // This is needed if you want to see anything!
 	
 	//float* p;
 	//for (int i = 0; i < WIDTH; i++) {

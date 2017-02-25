@@ -6,6 +6,7 @@ MainWindow::MainWindow(QWidget* parent) : QMainWindow(parent), ui(new Ui::MainWi
 	ui->setupUi(this);
 	video = new workerThread(this);
 	analyze = new analyzeThread(this);
+	meanFace = new float[WIDTH*HEIGHT];
 	connect(ui->connect_button, SIGNAL(clicked()), this, SLOT(connect_cam()));
 	connect(ui->capture_button, SIGNAL(clicked()), video, SLOT(start()));
 	connect(ui->stop_button,    SIGNAL(clicked()), video, SLOT(terminate()));
@@ -38,6 +39,10 @@ void workerThread::run(){
 			mw->statusBar()->showMessage("camera error");
 			return;
 		}
+		if(rect_face.x!=0)
+ 		{
+ 			rectangle(mw->frame,cv::Point(rect_face.x,rect_face.y),cv::Point(rect_face.x+rect_face.width,rect_face.y+rect_face.height));
+ 		}
 		cv::resize(mw->frame,framesmall,cv::Size(640,480),CV_INTER_AREA);
 		cv::cvtColor(framesmall,framesmall,cv::COLOR_BGR2RGB);
 		mw->ui->monitor->setPixmap(QPixmap::fromImage(QImage((const uchar*)framesmall.data, framesmall.cols, framesmall.rows, QImage::Format_RGB888)));
@@ -49,12 +54,19 @@ void analyzeThread::run(){
 	while(1){
 		Face tmp;
 		if(tmp.faceNormalization(mw->frame)){
-			float distance=-1;
-			PCA_testing(mw->f, &tmp, mw->trainCoef, mw->eigenFace, &mw->meanFace, distance);
-			if(distance<0){
+			rect_face=new Rect(0,0);
+			float distance=100;
+			cout<<"=========test==========\n";
+			PCA_testing(mw->f, &tmp, mw->trainCoef, mw->eigenFace, mw->meanFace, distance);
+			cout<<"=========HERE==========\n";
+			if(distance>50){
+				std::cout<<"==========train==========\n";
 				mw->f.push_back(tmp);
-				PCA_training(mw->f, mw->trainCoef, mw->eigenFace, &mw->meanFace);
+				mw->trainCoef = Eigen::MatrixXf(mw->f.size() - 1, mw->f.size() );
+				mw->eigenFace = Eigen::MatrixXf(WIDTH*HEIGHT, mw->f.size() - 1);
+				PCA_training(mw->f, mw->trainCoef, mw->eigenFace, mw->meanFace);
 			}
+			cout<<"=========HERE==========\n";
 			sleep(1);
 		}
 	}

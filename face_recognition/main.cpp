@@ -105,7 +105,7 @@ int PCA_testing(int TRAINNO, Face* trainFace, Face* testFace, MatrixXf & trainCo
 		testingset(j, 1) = testFace->getdata()[j] - meanFace[j];
 	}
 	MatrixXf testCoef(coefNo, 1);
-	testCoef = (eigenFace.transpose() * testingset));
+	testCoef = (eigenFace.transpose() * testingset);
 
 	//Calcuate the distance
 	int matchedFace;
@@ -130,7 +130,7 @@ int PCA_testing(int TRAINNO, Face* trainFace, Face* testFace, MatrixXf & trainCo
 		correct = true;
 	}
 
-	cout << "Test face " << i << " :    " << testFace->getID() << "    " << trainFace[matchedFace].getID() << endl;
+	cout << "Test face  :    " << testFace->getID() << "    " << trainFace[matchedFace].getID() << endl;
 
 	return matchedFace;
 }
@@ -275,48 +275,50 @@ int main()
 	// 	printf("\nafter detection time=%d\ncorrect=%d %d",time_det,frame_det*100/frame_process,frame_process);
 
 		//testing the functions of face recognition
-		int TRAINNO = 10;
+		int TRAINNO = 7;
 		Face * trainFace = new Face[TRAINNO];
 		for(int i=0; i<TRAINNO; i++){
-			string filename = "./trainingFaces/" + itoa(i) + ".jpg";
+			string filename = "./trainingFaces/" + std::to_string(i) + ".jpg";
+			Mat face;
 			//open an image and load it to the Mat inputFace
 			try {   // Surround the OpenCV call by a try/catch block so we can give a useful error message!
-				 Mat face = imread(filename, CV_LOAD_IMAGE_COLOR);   // Read the file
-				 trainFace[i].faceNormalization(face);
+				 face = imread(filename, CV_LOAD_IMAGE_COLOR);   // Read the file
 			}
 			catch (cv::Exception &e) {}
-			if (!inputFace.data){                              // Check for invalid input
+			if (!face.data){                              // Check for invalid input
 				cout << "Could not open or find the image" << endl;
 				exit(1);
 			}
+			trainFace[i].faceNormalization(face);
 		}
 
 		Face * testFace = new Face;
+		Mat face;
 		try {   // Surround the OpenCV call by a try/catch block so we can give a useful error message!
 			 string filename = "./testingFaces/0.jpg";
-			 Mat face = imread(filename, CV_LOAD_IMAGE_COLOR);   // Read the file
+			 face = imread(filename, CV_LOAD_IMAGE_COLOR);   // Read the file
 			 testFace->faceNormalization(face);
 		}
 		catch (cv::Exception &e) {}
-		if (!inputFace.data){                              // Check for invalid input
+		if (!face.data){                              // Check for invalid input
 			cout << "Could not open or find the image" << endl;
 			exit(1);
 		}
 
 		// PCA + Euclidean Distance Calculation
 		//Get the low-dimenstional face images
-		MatrixXf trainCoef(TRAINNO - 1 - i, TRAINNO);
+		MatrixXf trainCoef(TRAINNO - 1, TRAINNO);
 		MatrixXf eigenFace(WIDTH*HEIGHT, TRAINNO - 1);
 		float* meanFace = new float[WIDTH*HEIGHT];
 		PCA_training(TRAINNO, trainFace, trainCoef, eigenFace, meanFace);
-		int match = PCA_training(TRAINNO, trainFace, testFace, trainCoef, eigenFace, meanFace);
+		int match = PCA_testing(TRAINNO, trainFace, testFace, trainCoef, eigenFace, meanFace);
 
 		cout << match << endl;
 
 		delete [] trainFace, meanFace;
 		delete testFace;
 
-	}//while			 		 
+	//}//while			 		 
 	
 	return 0;	
 }
