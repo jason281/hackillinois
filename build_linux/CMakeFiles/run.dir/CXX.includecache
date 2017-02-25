@@ -23,6 +23,8 @@ mainwindow.h
 /home/admin/Desktop/hackillinois/gui/mainwindow.h
 QApplication
 -
+Eigen/Dense
+-
 
 /home/admin/Desktop/hackillinois/gui/mainwindow.cpp
 mainwindow.h
