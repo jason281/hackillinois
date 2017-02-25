@@ -1,0 +1,500 @@
+The system is: Windows - 10.0.10586 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine 版本 12.0.40629.0
+[Microsoft .NET Framework，版本 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2016/7/10 下午 05:09:07。
+節點 1 (預設目標) 上的專案 "D:\cssp\dlib-19.0\build\CMakeFiles\3.6.0-rc1\CompilerIdC\CompilerIdC.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "Debug\"。
+  正在建立目錄 "Debug\CompilerIdC.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "Debug\CompilerIdC.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> D:\cssp\dlib-19.0\build\CMakeFiles\3.6.0-rc1\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  正在刪除檔案 "Debug\CompilerIdC.tlog\unsuccessfulbuild"。
+  正在變更時間戳記 "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate"。
+專案 "D:\cssp\dlib-19.0\build\CMakeFiles\3.6.0-rc1\CompilerIdC\CompilerIdC.vcxproj" (預設目標) 建置完成。
+
+建置成功。
+    0 個警告
+    0 個錯誤
+
+經過時間 00:00:00.81
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "D:/cssp/dlib-19.0/build/CMakeFiles/3.6.0-rc1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine 版本 12.0.40629.0
+[Microsoft .NET Framework，版本 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2016/7/10 下午 05:09:09。
+節點 1 (預設目標) 上的專案 "D:\cssp\dlib-19.0\build\CMakeFiles\3.6.0-rc1\CompilerIdCXX\CompilerIdCXX.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "Debug\"。
+  正在建立目錄 "Debug\CompilerIdCXX.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "Debug\CompilerIdCXX.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> D:\cssp\dlib-19.0\build\CMakeFiles\3.6.0-rc1\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  正在刪除檔案 "Debug\CompilerIdCXX.tlog\unsuccessfulbuild"。
+  正在變更時間戳記 "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate"。
+專案 "D:\cssp\dlib-19.0\build\CMakeFiles\3.6.0-rc1\CompilerIdCXX\CompilerIdCXX.vcxproj" (預設目標) 建置完成。
+
+建置成功。
+    0 個警告
+    0 個錯誤
+
+經過時間 00:00:00.62
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "D:/cssp/dlib-19.0/build/CMakeFiles/3.6.0-rc1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_2bf56.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 版本 12.0.40629.0
+[Microsoft .NET Framework，版本 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2016/7/10 下午 05:09:10。
+節點 1 (預設目標) 上的專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_2bf56.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "cmTC_2bf56.dir\Debug\"。
+  正在建立目錄 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\"。
+  正在建立目錄 "cmTC_2bf56.dir\Debug\cmTC_2bf56.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "cmTC_2bf56.dir\Debug\cmTC_2bf56.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_2bf56.dir\Debug\\" /Fd"cmTC_2bf56.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x64
+  Copyright (C) Microsoft Corporation.  著作權所有，並保留一切權利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_2bf56.dir\Debug\\" /Fd"cmTC_2bf56.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_2bf56.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_2bf56.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_2bf56.lib" /MACHINE:X64  /machine:x64 cmTC_2bf56.dir\Debug\testCCompiler.obj
+  cmTC_2bf56.vcxproj -> D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_2bf56.exe
+FinalizeBuildStatus:
+  正在刪除檔案 "cmTC_2bf56.dir\Debug\cmTC_2bf56.tlog\unsuccessfulbuild"。
+  正在變更時間戳記 "cmTC_2bf56.dir\Debug\cmTC_2bf56.tlog\cmTC_2bf56.lastbuildstate"。
+專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_2bf56.vcxproj" (預設目標) 建置完成。
+
+建置成功。
+    0 個警告
+    0 個錯誤
+
+經過時間 00:00:00.87
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_733bb.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 版本 12.0.40629.0
+[Microsoft .NET Framework，版本 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2016/7/10 下午 05:09:11。
+節點 1 (預設目標) 上的專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_733bb.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "cmTC_733bb.dir\Debug\"。
+  正在建立目錄 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\"。
+  正在建立目錄 "cmTC_733bb.dir\Debug\cmTC_733bb.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "cmTC_733bb.dir\Debug\cmTC_733bb.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_733bb.dir\Debug\\" /Fd"cmTC_733bb.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x64
+  Copyright (C) Microsoft Corporation.  著作權所有，並保留一切權利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_733bb.dir\Debug\\" /Fd"cmTC_733bb.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_733bb.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_733bb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_733bb.lib" /MACHINE:X64  /machine:x64 cmTC_733bb.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_733bb.vcxproj -> D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_733bb.exe
+FinalizeBuildStatus:
+  正在刪除檔案 "cmTC_733bb.dir\Debug\cmTC_733bb.tlog\unsuccessfulbuild"。
+  正在變更時間戳記 "cmTC_733bb.dir\Debug\cmTC_733bb.tlog\cmTC_733bb.lastbuildstate"。
+專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_733bb.vcxproj" (預設目標) 建置完成。
+
+建置成功。
+    0 個警告
+    0 個錯誤
+
+經過時間 00:00:00.75
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_9ef8a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 版本 12.0.40629.0
+[Microsoft .NET Framework，版本 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2016/7/10 下午 05:09:12。
+節點 1 (預設目標) 上的專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_9ef8a.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "cmTC_9ef8a.dir\Debug\"。
+  正在建立目錄 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\"。
+  正在建立目錄 "cmTC_9ef8a.dir\Debug\cmTC_9ef8a.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "cmTC_9ef8a.dir\Debug\cmTC_9ef8a.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_9ef8a.dir\Debug\\" /Fd"cmTC_9ef8a.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x64
+  Copyright (C) Microsoft Corporation.  著作權所有，並保留一切權利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_9ef8a.dir\Debug\\" /Fd"cmTC_9ef8a.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_9ef8a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_9ef8a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_9ef8a.lib" /MACHINE:X64  /machine:x64 cmTC_9ef8a.dir\Debug\testCXXCompiler.obj
+  cmTC_9ef8a.vcxproj -> D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_9ef8a.exe
+FinalizeBuildStatus:
+  正在刪除檔案 "cmTC_9ef8a.dir\Debug\cmTC_9ef8a.tlog\unsuccessfulbuild"。
+  正在變更時間戳記 "cmTC_9ef8a.dir\Debug\cmTC_9ef8a.tlog\cmTC_9ef8a.lastbuildstate"。
+專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_9ef8a.vcxproj" (預設目標) 建置完成。
+
+建置成功。
+    0 個警告
+    0 個錯誤
+
+經過時間 00:00:00.73
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_21476.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 版本 12.0.40629.0
+[Microsoft .NET Framework，版本 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2016/7/10 下午 05:09:13。
+節點 1 (預設目標) 上的專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_21476.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "cmTC_21476.dir\Debug\"。
+  正在建立目錄 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\"。
+  正在建立目錄 "cmTC_21476.dir\Debug\cmTC_21476.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "cmTC_21476.dir\Debug\cmTC_21476.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_21476.dir\Debug\\" /Fd"cmTC_21476.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x64
+  Copyright (C) Microsoft Corporation.  著作權所有，並保留一切權利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_21476.dir\Debug\\" /Fd"cmTC_21476.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_21476.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_21476.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_21476.lib" /MACHINE:X64  /machine:x64 cmTC_21476.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_21476.vcxproj -> D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_21476.exe
+FinalizeBuildStatus:
+  正在刪除檔案 "cmTC_21476.dir\Debug\cmTC_21476.tlog\unsuccessfulbuild"。
+  正在變更時間戳記 "cmTC_21476.dir\Debug\cmTC_21476.tlog\cmTC_21476.lastbuildstate"。
+專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_21476.vcxproj" (預設目標) 建置完成。
+
+建置成功。
+    0 個警告
+    0 個錯誤
+
+經過時間 00:00:00.61
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_7741f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 版本 12.0.40629.0
+[Microsoft .NET Framework，版本 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2016/7/10 下午 05:09:14。
+節點 1 (預設目標) 上的專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_7741f.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "cmTC_7741f.dir\Debug\"。
+  正在建立目錄 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\"。
+  正在建立目錄 "cmTC_7741f.dir\Debug\cmTC_7741f.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "cmTC_7741f.dir\Debug\cmTC_7741f.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_7741f.dir\Debug\\" /Fd"cmTC_7741f.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "D:\cssp\dlib-19.0\build\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x64
+  Copyright (C) Microsoft Corporation.  著作權所有，並保留一切權利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_7741f.dir\Debug\\" /Fd"cmTC_7741f.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "D:\cssp\dlib-19.0\build\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_7741f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_7741f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_7741f.lib" /MACHINE:X64  /machine:x64 cmTC_7741f.dir\Debug\feature_tests.obj
+  cmTC_7741f.vcxproj -> D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_7741f.exe
+FinalizeBuildStatus:
+  正在刪除檔案 "cmTC_7741f.dir\Debug\cmTC_7741f.tlog\unsuccessfulbuild"。
+  正在變更時間戳記 "cmTC_7741f.dir\Debug\cmTC_7741f.tlog\cmTC_7741f.lastbuildstate"。
+專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_7741f.vcxproj" (預設目標) 建置完成。
+
+建置成功。
+    0 個警告
+    0 個錯誤
+
+經過時間 00:00:00.59
+
+
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_c641a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 版本 12.0.40629.0
+[Microsoft .NET Framework，版本 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2016/7/10 下午 05:09:16。
+節點 1 (預設目標) 上的專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_c641a.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "cmTC_c641a.dir\Debug\"。
+  正在建立目錄 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\"。
+  正在建立目錄 "cmTC_c641a.dir\Debug\cmTC_c641a.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "cmTC_c641a.dir\Debug\cmTC_c641a.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_c641a.dir\Debug\\" /Fd"cmTC_c641a.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x64
+  Copyright (C) Microsoft Corporation.  著作權所有，並保留一切權利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_c641a.dir\Debug\\" /Fd"cmTC_c641a.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_c641a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_c641a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_c641a.lib" /MACHINE:X64  /machine:x64 cmTC_c641a.dir\Debug\CheckIncludeFile.obj
+  cmTC_c641a.vcxproj -> D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_c641a.exe
+FinalizeBuildStatus:
+  正在刪除檔案 "cmTC_c641a.dir\Debug\cmTC_c641a.tlog\unsuccessfulbuild"。
+  正在變更時間戳記 "cmTC_c641a.dir\Debug\cmTC_c641a.tlog\cmTC_c641a.lastbuildstate"。
+專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_c641a.vcxproj" (預設目標) 建置完成。
+
+建置成功。
+    0 個警告
+    0 個錯誤
+
+經過時間 00:00:00.66
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_71d62.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 版本 12.0.40629.0
+[Microsoft .NET Framework，版本 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2016/7/10 下午 05:09:17。
+節點 1 (預設目標) 上的專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_71d62.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "cmTC_71d62.dir\Debug\"。
+  正在建立目錄 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\"。
+  正在建立目錄 "cmTC_71d62.dir\Debug\cmTC_71d62.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "cmTC_71d62.dir\Debug\cmTC_71d62.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_71d62.dir\Debug\\" /Fd"cmTC_71d62.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x64
+  Copyright (C) Microsoft Corporation.  著作權所有，並保留一切權利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_71d62.dir\Debug\\" /Fd"cmTC_71d62.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_71d62.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_71d62.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_71d62.lib" /MACHINE:X64  /machine:x64 cmTC_71d62.dir\Debug\CheckIncludeFile.obj
+  cmTC_71d62.vcxproj -> D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_71d62.exe
+FinalizeBuildStatus:
+  正在刪除檔案 "cmTC_71d62.dir\Debug\cmTC_71d62.tlog\unsuccessfulbuild"。
+  正在變更時間戳記 "cmTC_71d62.dir\Debug\cmTC_71d62.tlog\cmTC_71d62.lastbuildstate"。
+專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_71d62.vcxproj" (預設目標) 建置完成。
+
+建置成功。
+    0 個警告
+    0 個錯誤
+
+經過時間 00:00:00.55
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_01232.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 版本 12.0.40629.0
+[Microsoft .NET Framework，版本 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2016/7/10 下午 05:09:18。
+節點 1 (預設目標) 上的專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_01232.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "cmTC_01232.dir\Debug\"。
+  正在建立目錄 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\"。
+  正在建立目錄 "cmTC_01232.dir\Debug\cmTC_01232.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "cmTC_01232.dir\Debug\cmTC_01232.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_01232.dir\Debug\\" /Fd"cmTC_01232.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x64
+  Copyright (C) Microsoft Corporation.  著作權所有，並保留一切權利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_01232.dir\Debug\\" /Fd"cmTC_01232.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_01232.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_01232.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_01232.lib" /MACHINE:X64  /machine:x64 cmTC_01232.dir\Debug\CheckIncludeFile.obj
+  cmTC_01232.vcxproj -> D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_01232.exe
+FinalizeBuildStatus:
+  正在刪除檔案 "cmTC_01232.dir\Debug\cmTC_01232.tlog\unsuccessfulbuild"。
+  正在變更時間戳記 "cmTC_01232.dir\Debug\cmTC_01232.tlog\cmTC_01232.lastbuildstate"。
+專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_01232.vcxproj" (預設目標) 建置完成。
+
+建置成功。
+    0 個警告
+    0 個錯誤
+
+經過時間 00:00:00.61
+
+
+Determining size of void* passed with the following output:
+Change Dir: D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_e3791.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine 版本 12.0.40629.0
+[Microsoft .NET Framework，版本 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+已經開始建置於 2016/7/10 下午 05:09:19。
+節點 1 (預設目標) 上的專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_e3791.vcxproj"。
+PrepareForBuild:
+  正在建立目錄 "cmTC_e3791.dir\Debug\"。
+  正在建立目錄 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\"。
+  正在建立目錄 "cmTC_e3791.dir\Debug\cmTC_e3791.tlog\"。
+InitializeBuildStatus:
+  由於指定了 "AlwaysCreate"，因此正在建立 "cmTC_e3791.dir\Debug\cmTC_e3791.tlog\unsuccessfulbuild"。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_e3791.dir\Debug\\" /Fd"cmTC_e3791.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "D:\cssp\dlib-19.0\build\CMakeFiles\CheckTypeSize\SIZE_OF_VOID_PTR.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x64
+  Copyright (C) Microsoft Corporation.  著作權所有，並保留一切權利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_e3791.dir\Debug\\" /Fd"cmTC_e3791.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "D:\cssp\dlib-19.0\build\CMakeFiles\CheckTypeSize\SIZE_OF_VOID_PTR.c"
+  
+  SIZE_OF_VOID_PTR.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_e3791.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_e3791.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/cssp/dlib-19.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_e3791.lib" /MACHINE:X64  /machine:x64 cmTC_e3791.dir\Debug\SIZE_OF_VOID_PTR.obj
+  cmTC_e3791.vcxproj -> D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_e3791.exe
+FinalizeBuildStatus:
+  正在刪除檔案 "cmTC_e3791.dir\Debug\cmTC_e3791.tlog\unsuccessfulbuild"。
+  正在變更時間戳記 "cmTC_e3791.dir\Debug\cmTC_e3791.tlog\cmTC_e3791.lastbuildstate"。
+專案 "D:\cssp\dlib-19.0\build\CMakeFiles\CMakeTmp\cmTC_e3791.vcxproj" (預設目標) 建置完成。
+
+建置成功。
+    0 個警告
+    0 個錯誤
+
+經過時間 00:00:00.65
+
+
