@@ -143,25 +143,15 @@ void Face::detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* orig
 
 }
 
-void Face::faceNormalization(string filename, Point leftEye, Point rightEye){
-	Mat inputFace;
+void Face::faceNormalization(Mat & inputFace){
+	Point leftEye, rightEye;
+	detectAndRecognize(inputFace, &leftEye, &rightEye);
+
 	Mat normalizedFace;
 	int origin_x = (leftEye.x + rightEye.x) / 2;
 	int origin_y = (leftEye.y + rightEye.y) / 2;
 	int angle = 180 * atan(((float)leftEye.y - (float)rightEye.y) / ((float)leftEye.x - (float)rightEye.x)) / 3.1415926;
 	int eyeDistance = sqrt((leftEye.y - rightEye.y) * (leftEye.y - rightEye.y) + (leftEye.x - rightEye.x) * (leftEye.x - rightEye.x));
-
-	//cout << "Do normalization for the input face..." << endl;
-
-	//open an image and load it to the Mat inputFace
-	try {   // Surround the OpenCV call by a try/catch block so we can give a useful error message!
-		inputFace = imread(filename, CV_LOAD_IMAGE_GRAYSCALE);   // Read the file
-	}
-	catch (cv::Exception &e) {}
-	if (!inputFace.data){                              // Check for invalid input
-		cout << "Could not open or find the image" << endl;
-		exit(1);
-	}
 
 	//Cut the face region
 	//cout << "Angle: " << angle << endl;
