@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{68EE7B46-5C4E-3F9A-89DB-48FA7E95E53B}</ProjectGUID>
+    <WindowsTargetPlatformVersion>10.0.10586.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\cssp\dlib-19.0\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\cssp\dlib-19.0\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\cssp\dlib-19.0\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\cssp\dlib-19.0\dlib\..;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\cssp\dlib-19.0\examples\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule D:/cssp/dlib-19.0/examples/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -HD:/cssp/dlib-19.0/examples -BD:/cssp/dlib-19.0/examples/build --check-stamp-file D:\cssp\dlib-19.0\examples\build\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:/cssp/dlib-19.0/examples/CMakeLists.txt;D:\cssp\dlib-19.0\examples\CMakeLists.txt;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInitialize.cmake;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeCCompiler.cmake;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeCXXCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeRCCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;D:\cssp\dlib-19.0\dlib\cmake;D:\cssp\dlib-19.0\dlib\add_global_compiler_switch.cmake;D:\cssp\dlib-19.0\dlib\use_cpp_11.cmake;D:\cssp\dlib-19.0\dlib\add_global_compiler_switch.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CheckIncludeFileCXX.cmake;D:\cssp\dlib-19.0\dlib\release_build_by_default;C:\opencv310\build\OpenCVConfig-version.cmake;C:\opencv310\build\OpenCVConfig.cmake;D:\cssp\dlib-19.0\examples\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\cssp\dlib-19.0\examples\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule D:/cssp/dlib-19.0/examples/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -HD:/cssp/dlib-19.0/examples -BD:/cssp/dlib-19.0/examples/build --check-stamp-file D:\cssp\dlib-19.0\examples\build\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:/cssp/dlib-19.0/examples/CMakeLists.txt;D:\cssp\dlib-19.0\examples\CMakeLists.txt;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInitialize.cmake;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeCCompiler.cmake;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeCXXCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeRCCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;D:\cssp\dlib-19.0\dlib\cmake;D:\cssp\dlib-19.0\dlib\add_global_compiler_switch.cmake;D:\cssp\dlib-19.0\dlib\use_cpp_11.cmake;D:\cssp\dlib-19.0\dlib\add_global_compiler_switch.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CheckIncludeFileCXX.cmake;D:\cssp\dlib-19.0\dlib\release_build_by_default;C:\opencv310\build\OpenCVConfig-version.cmake;C:\opencv310\build\OpenCVConfig.cmake;D:\cssp\dlib-19.0\examples\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\cssp\dlib-19.0\examples\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule D:/cssp/dlib-19.0/examples/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -HD:/cssp/dlib-19.0/examples -BD:/cssp/dlib-19.0/examples/build --check-stamp-file D:\cssp\dlib-19.0\examples\build\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:/cssp/dlib-19.0/examples/CMakeLists.txt;D:\cssp\dlib-19.0\examples\CMakeLists.txt;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInitialize.cmake;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeCCompiler.cmake;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeCXXCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeRCCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;D:\cssp\dlib-19.0\dlib\cmake;D:\cssp\dlib-19.0\dlib\add_global_compiler_switch.cmake;D:\cssp\dlib-19.0\dlib\use_cpp_11.cmake;D:\cssp\dlib-19.0\dlib\add_global_compiler_switch.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CheckIncludeFileCXX.cmake;D:\cssp\dlib-19.0\dlib\release_build_by_default;C:\opencv310\build\OpenCVConfig-version.cmake;C:\opencv310\build\OpenCVConfig.cmake;D:\cssp\dlib-19.0\examples\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:\cssp\dlib-19.0\examples\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule D:/cssp/dlib-19.0/examples/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -HD:/cssp/dlib-19.0/examples -BD:/cssp/dlib-19.0/examples/build --check-stamp-file D:\cssp\dlib-19.0\examples\build\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:/cssp/dlib-19.0/examples/CMakeLists.txt;D:\cssp\dlib-19.0\examples\CMakeLists.txt;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInitialize.cmake;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeCCompiler.cmake;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeCXXCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;D:\cssp\dlib-19.0\examples\build\CMakeFiles\3.6.0-rc1\CMakeRCCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;D:\cssp\dlib-19.0\dlib\cmake;D:\cssp\dlib-19.0\dlib\add_global_compiler_switch.cmake;D:\cssp\dlib-19.0\dlib\use_cpp_11.cmake;D:\cssp\dlib-19.0\dlib\add_global_compiler_switch.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CheckTypeSize.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CheckIncludeFileCXX.cmake;D:\cssp\dlib-19.0\dlib\release_build_by_default;C:\opencv310\build\OpenCVConfig-version.cmake;C:\opencv310\build\OpenCVConfig.cmake;D:\cssp\dlib-19.0\examples\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:\cssp\dlib-19.0\examples\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/ZERO_CHECK.vcxproj">
+      <Project>82EAA6C6-EB91-327A-8B56-C2A428A91930</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/3d_point_cloud_ex.vcxproj">
+      <Project>B8B1626D-37AC-36A7-A185-60B6DA9BBDCB</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/assignment_learning_ex.vcxproj">
+      <Project>60C61E55-328A-300A-9C31-9D434DF0262A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/bayes_net_ex.vcxproj">
+      <Project>C85FA426-12B5-3747-84CE-754DA935FA19</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/bayes_net_from_disk_ex.vcxproj">
+      <Project>68D37922-C012-3FD6-947F-73C7B4A11CBB</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/bayes_net_gui_ex.vcxproj">
+      <Project>F7414706-DAA1-36B9-9E93-A6E0AA4456AE</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/bridge_ex.vcxproj">
+      <Project>A464B8A6-B5BC-32EF-ADA3-7D8B44F6D2F3</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/bsp_ex.vcxproj">
+      <Project>5B8C5B9B-7CDB-3136-95E9-556DB8296966</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/compress_stream_ex.vcxproj">
+      <Project>1102A567-2859-34F1-BB86-3D770B6AC688</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/config_reader_ex.vcxproj">
+      <Project>F02F9AA0-5833-326C-808D-F26DF39A3E1B</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/custom_trainer_ex.vcxproj">
+      <Project>4A7644A5-AD4D-3B5F-9252-FC0D42AC2546</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/dir_nav_ex.vcxproj">
+      <Project>4B3FFC57-CFC2-35F9-8633-A1E5BD115205</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/dlib_build/dlib.vcxproj">
+      <Project>22F30C74-7A4C-3131-9F45-EBC42D0C5155</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/empirical_kernel_map_ex.vcxproj">
+      <Project>5B1605DC-BC75-3474-8976-DF64022ECB18</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/face_detection_ex.vcxproj">
+      <Project>CCD68744-17A1-33E0-AE28-DA689DF1E6BA</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/face_landmark_detection_ex.vcxproj">
+      <Project>00D3FD66-FFEF-39EA-962A-C06C4FF60551</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/fhog_ex.vcxproj">
+      <Project>3582BB89-42FF-3FF6-AEE1-176AFC1DFF85</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/fhog_object_detector_ex.vcxproj">
+      <Project>B1601F1E-9F68-38F8-A85E-3FC88E96343A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/file_to_code_ex.vcxproj">
+      <Project>06B0B885-FD78-37F4-9189-DD4BFE9E2733</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/graph_labeling_ex.vcxproj">
+      <Project>6417185F-9B18-30F2-AEA9-F5D97A4D2F58</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/gui_api_ex.vcxproj">
+      <Project>0A14BE88-1C77-35EF-B41A-2F9E465692E9</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/hough_transform_ex.vcxproj">
+      <Project>6BAAB625-9B87-338A-BCF9-AC1B48B7101F</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/image_ex.vcxproj">
+      <Project>19F28CE5-8B41-381B-B728-66BC5D5958FF</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/integrate_function_adapt_simp_ex.vcxproj">
+      <Project>D320811D-8118-303E-8FC4-56BA915FBDBC</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/iosockstream_ex.vcxproj">
+      <Project>1F137FB5-4731-3AA5-A910-8E65C23F83BA</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/kcentroid_ex.vcxproj">
+      <Project>F0C0802F-21E9-32C5-ACF9-D6977671A206</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/kkmeans_ex.vcxproj">
+      <Project>ACF36CB0-DC4F-3410-A499-E8A0BA838FF5</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/krls_ex.vcxproj">
+      <Project>4531584A-D0B1-3550-A6EF-7543039DB49C</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/krls_filter_ex.vcxproj">
+      <Project>A8FF8D0E-B787-31AA-A1A5-7C3C759C89F5</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/krr_classification_ex.vcxproj">
+      <Project>206FCB35-A530-38D9-AA1E-440880987401</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/krr_regression_ex.vcxproj">
+      <Project>EAD92547-0D57-3AFA-8F29-0AC1429F7916</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/learning_to_track_ex.vcxproj">
+      <Project>8239560B-2B79-36A4-ABE1-60563BA351B9</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/least_squares_ex.vcxproj">
+      <Project>462269AF-EDD0-335A-B91E-680A6250D923</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/linear_manifold_regularizer_ex.vcxproj">
+      <Project>FC25EC34-1715-33BF-9168-E3101E58B546</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/logger_custom_output_ex.vcxproj">
+      <Project>6C0AD037-23B6-3E07-B405-0FA3DB1C6751</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/logger_ex.vcxproj">
+      <Project>DE461D1F-9063-3658-9C08-63F186025827</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/logger_ex_2.vcxproj">
+      <Project>6E29AA2A-8A04-3DA4-ACC3-05C1E70681F2</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/matrix_ex.vcxproj">
+      <Project>23A6665E-A3D6-3F5F-86F9-F2233401AA6B</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/matrix_expressions_ex.vcxproj">
+      <Project>A2B54FE1-D25D-3965-BC1C-AB8F846960DB</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/max_cost_assignment_ex.vcxproj">
+      <Project>C0D1478C-C225-3CA1-B117-AA40C9053578</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/member_function_pointer_ex.vcxproj">
+      <Project>B72C47A0-32FF-317E-B46A-13B852BFC3C5</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/mlp_ex.vcxproj">
+      <Project>AE01BF54-EF15-32D5-8186-FEC831883B03</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/model_selection_ex.vcxproj">
+      <Project>7B4BA337-F049-38CB-97AC-E07E3B985F7B</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/mpc_ex.vcxproj">
+      <Project>4AEA811F-77D3-3EC1-9E14-923A9C7350BA</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/multiclass_classification_ex.vcxproj">
+      <Project>BBA533AF-3E04-3E11-9856-D558C3D99417</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/multithreaded_object_ex.vcxproj">
+      <Project>2F72559A-D16E-3B62-8904-77EFA3D3EEA1</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/object_detector_advanced_ex.vcxproj">
+      <Project>2B3FD882-3B00-3DA4-BF9A-CAC6510C820D</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/object_detector_ex.vcxproj">
+      <Project>5EFAB98D-B8C0-3556-8451-FD344C8FDA6E</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/one_class_classifiers_ex.vcxproj">
+      <Project>858DC7A0-28ED-3953-AD8B-12632D4D33FE</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/optimization_ex.vcxproj">
+      <Project>ECDF4F0D-E834-36C3-A127-F18CE5FD8F20</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/parallel_for_ex.vcxproj">
+      <Project>182FF162-B440-3B72-B6A9-DE0278CD684D</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/pipe_ex.vcxproj">
+      <Project>9AF409B6-795C-3C34-8A2A-2ABA14A7900B</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/pipe_ex_2.vcxproj">
+      <Project>0438EC93-E394-35D4-81FB-1F865B6DFD82</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/quantum_computing_ex.vcxproj">
+      <Project>FBE7DA89-8D8A-3C25-95AF-9A209406A369</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/queue_ex.vcxproj">
+      <Project>26F69047-E3D6-340D-9A33-10C57B2D0575</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/rank_features_ex.vcxproj">
+      <Project>BCA03771-A32E-3313-A6B3-4621213DFEE0</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/running_stats_ex.vcxproj">
+      <Project>9F343EBC-8C58-36AC-8E2C-4A334D14D048</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/rvm_ex.vcxproj">
+      <Project>5DF746CF-D7E8-36E4-AA87-D196E0C2F4FF</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/rvm_regression_ex.vcxproj">
+      <Project>CA95E787-D4E5-36DD-A1E2-C4944E62FA32</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/sequence_labeler_ex.vcxproj">
+      <Project>33E9E625-4FE3-3B2C-9C40-BAA6F079D173</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/sequence_segmenter_ex.vcxproj">
+      <Project>7CAADA02-BB32-34F2-BD19-6777224EF17F</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/server_http_ex.vcxproj">
+      <Project>F01955E1-8082-3090-90F7-0CF8544F7EC0</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/server_iostream_ex.vcxproj">
+      <Project>66827633-8074-37C1-A35F-C60A88572633</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/sockets_ex.vcxproj">
+      <Project>637B1807-61AF-37DA-B3F6-225BA8E82F5C</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/sockstreambuf_ex.vcxproj">
+      <Project>C57141B9-9185-39C5-8A42-981AD0F839AF</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/std_allocator_ex.vcxproj">
+      <Project>82B5828E-42BA-3BB7-ADBF-29A74C16198A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/surf_ex.vcxproj">
+      <Project>947B9311-96E9-33E6-B902-A661649A004D</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/svm_c_ex.vcxproj">
+      <Project>EFE0CB5B-9540-3385-B6A3-7B86783842C1</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/svm_ex.vcxproj">
+      <Project>43DB59E6-FAAC-34EA-98BC-CCA09A2B8E2E</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/svm_pegasos_ex.vcxproj">
+      <Project>20377CD6-DBBC-3E99-81B9-701F3F494C81</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/svm_rank_ex.vcxproj">
+      <Project>510E18BB-37A1-30B0-9BF8-B72660679EDB</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/svm_sparse_ex.vcxproj">
+      <Project>66764088-9A65-3B3E-B497-91584207285A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/svm_struct_ex.vcxproj">
+      <Project>2B15B124-93D2-3055-A2C7-E70D459160DF</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/svr_ex.vcxproj">
+      <Project>6A1FB82C-A1A1-39EE-AB8B-10E177C6EB26</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/thread_function_ex.vcxproj">
+      <Project>F8FACE7F-393B-3DCD-B406-B6EAB0484356</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/thread_pool_ex.vcxproj">
+      <Project>714AD7AA-8247-3027-BE9B-367C6C2E520E</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/threaded_object_ex.vcxproj">
+      <Project>70B4CED9-56BA-36EB-8B4C-3B6AD34ED682</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/threads_ex.vcxproj">
+      <Project>1CE7BE46-8F59-35C8-BA97-CE0B4978A056</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/timer_ex.vcxproj">
+      <Project>6AB59DCF-FA1C-3806-AC02-DBC522FD304D</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/train_object_detector.vcxproj">
+      <Project>4AF290A9-E014-39D7-AFA9-4B105D392719</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/train_shape_predictor_ex.vcxproj">
+      <Project>17E89C80-4AF8-3F64-B02D-F2D2760E9C6A</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/using_custom_kernels_ex.vcxproj">
+      <Project>644C37ED-E392-3DE5-BE70-252A2EBB9E46</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/video_tracking_ex.vcxproj">
+      <Project>DD939663-DFB2-3438-B686-BDE535A1C11B</Project>
+    </ProjectReference>
+    <ProjectReference Include="D:/cssp/dlib-19.0/examples/build/xml_parser_ex.vcxproj">
+      <Project>6B235DBC-0BE8-3AF9-964B-AACD48469DB4</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
