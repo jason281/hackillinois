@@ -20,8 +20,8 @@ public:
 	void reset();
 	void copyFace(Face* sourceFace);
 	void initDetectors(CascadeClassifier &faceCascade, CascadeClassifier &eyeCascade1, CascadeClassifier &eyeCascade2);
-	void detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* originalRightEye);
-	void faceNormalization(Mat & inputFace);
+	bool detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* originalRightEye);
+	bool faceNormalization(Mat & inputFace);
 	void basicNormalization();	//set mean to zero and set variance to one
 	void show(string windowname);
 	void save(string filename);

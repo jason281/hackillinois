@@ -82,6 +82,8 @@ void PCA_training(vector<Face> trainFace, MatrixXf & trainCoef, MatrixXf & eigen
 int PCA_testing(vector<Face> trainFace, Face* testFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace, float& euclideanDistance_min){
 
 	int TRAINNO = trainFace.size();
+	if(!TRAINNO)
+		return -1;
 	int coefNo = TRAINNO-1;
 	MatrixXf testingset(WIDTH*HEIGHT, 1);
 	for (int j = 0; j < HEIGHT * WIDTH; j++){

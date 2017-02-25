@@ -5,6 +5,7 @@
 MainWindow::MainWindow(QWidget* parent) : QMainWindow(parent), ui(new Ui::MainWindow){
 	ui->setupUi(this);
 	video = new workerThread(this);
+	analyze = new analyzeThread(this);
 	connect(ui->connect_button, SIGNAL(clicked()), this, SLOT(connect_cam()));
 	connect(ui->capture_button, SIGNAL(clicked()), video, SLOT(start()));
 	connect(ui->stop_button,    SIGNAL(clicked()), video, SLOT(terminate()));
@@ -47,13 +48,14 @@ void workerThread::run(){
 void analyzeThread::run(){
 	while(1){
 		Face tmp;
-		tmp.faceNormalization(mw->frame);
-		float distance=-1;
-		PCA_testing(mw->f, &tmp, mw->trainCoef, mw->eigenFace, &mw->meanFace, distance);
-		if(distance<0){
-			mw->f.push_back(tmp);
-			PCA_training(mw->f, mw->trainCoef, mw->eigenFace, &mw->meanFace);
+		if(tmp.faceNormalization(mw->frame)){
+			float distance=-1;
+			PCA_testing(mw->f, &tmp, mw->trainCoef, mw->eigenFace, &mw->meanFace, distance);
+			if(distance<0){
+				mw->f.push_back(tmp);
+				PCA_training(mw->f, mw->trainCoef, mw->eigenFace, &mw->meanFace);
+			}
+			sleep(1);
 		}
-		sleep(1);
 	}
 };

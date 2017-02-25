@@ -108,7 +108,7 @@ void Face::initDetectors(CascadeClassifier &faceCascade, CascadeClassifier &eyeC
 }
 
 // crop and resize the image in order to make the face image have the same size and the same location of eyes
-void Face::detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* originalRightEye)
+bool Face::detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* originalRightEye)
 {
 	CascadeClassifier faceCascade;
 	CascadeClassifier eyeCascade1;
@@ -141,11 +141,17 @@ void Face::detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* orig
 	if (preprocessedFace.data)
 		gotFaceAndEyes = true;
 
+	return gotFaceAndEyes;
+
 }
 
-void Face::faceNormalization(Mat & inputFace){
+bool Face::faceNormalization(Mat & inputFace){
 	Point leftEye, rightEye;
-	detectAndRecognize(inputFace, &leftEye, &rightEye);
+	bool success = detectAndRecognize(inputFace, &leftEye, &rightEye);
+
+	if(!success){
+		return success;
+	}
 
 	Mat normalizedFace;
 	int origin_x = (leftEye.x + rightEye.x) / 2;
@@ -186,6 +192,8 @@ void Face::faceNormalization(Mat & inputFace){
 			this->data2D[i][j] = (float)normalizedFace.data[i * HEIGHT + j];
 		}
 	}
+
+	return success;
 }
 
 void Face::basicNormalization(){
