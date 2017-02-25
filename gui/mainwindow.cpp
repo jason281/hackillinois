@@ -55,18 +55,15 @@ void analyzeThread::run(){
 		Face* tmp = new Face;
 		if(tmp->faceNormalization(mw->frame)){
 			mw->rect_face=tmp->rect_face;
-			float distance=100;
-			cout<<"=========test==========\n";
+			float distance=3000;
 			PCA_testing(mw->f, tmp, mw->trainCoef, mw->eigenFace, mw->meanFace, distance);
-			cout<<"=========HERE==========\n";
-			if(distance>50){
-				std::cout<<"==========train==========\n";
+			if(distance>=3000){
+				std::cout<<"===========New User========\n";
 				mw->f.push_back(tmp);
 				mw->trainCoef = Eigen::MatrixXf(mw->f.size() - 1, mw->f.size() );
 				mw->eigenFace = Eigen::MatrixXf(WIDTH*HEIGHT, mw->f.size() - 1);
 				PCA_training(mw->f, mw->trainCoef, mw->eigenFace, mw->meanFace);
 			}
-			cout<<"=========HERE==========\n";
 			sleep(1);
 		}
 	}

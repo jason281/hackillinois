@@ -102,10 +102,10 @@ int PCA_testing(int TRAINNO, Face* trainFace, Face* testFace, MatrixXf & trainCo
 
 	int coefNo = TRAINNO-1;
 	VectorXf testingset(WIDTH*HEIGHT);
-	int counter = 0;
+	//int counter = 0;
 	for (int j = 0; j < HEIGHT * WIDTH; j++){
-		counter++;
-		cout << "testing" <<counter << endl;
+		//counter++;
+		//cout << "testing" <<counter << endl;
 		testingset(j) = testFace->getdata()[j] - meanFace[j];
 	}
 	VectorXf testCoef(coefNo);

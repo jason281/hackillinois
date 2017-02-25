@@ -26,7 +26,7 @@ public:
 	void show(string windowname);
 	void save(string filename);
 	void saveBright(string filename);
-	void setID(char* ID);
+	void setID(const char* ID);
 	char* getID();
 	float* getdata();
 	float** getdata2D();

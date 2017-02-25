@@ -235,10 +235,8 @@ void Face::saveBright(string filename){
 	imwrite(filename, saveFace * 5);
 }
 
-void Face::setID(char* ID){
-	for (int i = 0; i < IDsize; i++) {
-		this->faceID[i] = ID[i];
-	}
+void Face::setID(const char* ID){
+	strncpy(this->faceID,ID,IDsize);
 }
 
 char* Face::getID(){

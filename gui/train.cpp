@@ -84,12 +84,12 @@ int PCA_testing(vector<Face*>& trainFace, Face* testFace, MatrixXf & trainCoef, 
 	if(TRAINNO<2)
 		return -1;
 	int coefNo = TRAINNO-1;
-	MatrixXf testingset(WIDTH*HEIGHT, 1);
+	VectorXf testingset(WIDTH*HEIGHT);
 	for (int j = 0; j < HEIGHT * WIDTH; j++){
-		testingset(j, 1) = testFace->getdata()[j] - meanFace[j];
+		testingset(j) = testFace->getdata()[j] - meanFace[j];
 	}
-	MatrixXf testCoef(coefNo, 1);
-	testCoef = (eigenFace.transpose() * testingset);
+	VectorXf testCoef(coefNo);
+	testCoef = eigenFace.transpose() * testingset;
 
 	//Calcuate the distance
 	int matchedFace;
