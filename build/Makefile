@@ -135,6 +135,87 @@ run_automoc/fast:
 	$(MAKE) -f CMakeFiles\run_automoc.dir\build.make CMakeFiles/run_automoc.dir/build
 .PHONY : run_automoc/fast
 
+ImageUtils_0.7.obj: ImageUtils_0.7.cpp.obj
+
+.PHONY : ImageUtils_0.7.obj
+
+# target to build an object file
+ImageUtils_0.7.cpp.obj:
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj
+.PHONY : ImageUtils_0.7.cpp.obj
+
+ImageUtils_0.7.i: ImageUtils_0.7.cpp.i
+
+.PHONY : ImageUtils_0.7.i
+
+# target to preprocess a source file
+ImageUtils_0.7.cpp.i:
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/ImageUtils_0.7.cpp.i
+.PHONY : ImageUtils_0.7.cpp.i
+
+ImageUtils_0.7.s: ImageUtils_0.7.cpp.s
+
+.PHONY : ImageUtils_0.7.s
+
+# target to generate assembly for a file
+ImageUtils_0.7.cpp.s:
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/ImageUtils_0.7.cpp.s
+.PHONY : ImageUtils_0.7.cpp.s
+
+detectObject.obj: detectObject.cpp.obj
+
+.PHONY : detectObject.obj
+
+# target to build an object file
+detectObject.cpp.obj:
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/detectObject.cpp.obj
+.PHONY : detectObject.cpp.obj
+
+detectObject.i: detectObject.cpp.i
+
+.PHONY : detectObject.i
+
+# target to preprocess a source file
+detectObject.cpp.i:
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/detectObject.cpp.i
+.PHONY : detectObject.cpp.i
+
+detectObject.s: detectObject.cpp.s
+
+.PHONY : detectObject.s
+
+# target to generate assembly for a file
+detectObject.cpp.s:
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/detectObject.cpp.s
+.PHONY : detectObject.cpp.s
+
+face.obj: face.cpp.obj
+
+.PHONY : face.obj
+
+# target to build an object file
+face.cpp.obj:
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/face.cpp.obj
+.PHONY : face.cpp.obj
+
+face.i: face.cpp.i
+
+.PHONY : face.i
+
+# target to preprocess a source file
+face.cpp.i:
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/face.cpp.i
+.PHONY : face.cpp.i
+
+face.s: face.cpp.s
+
+.PHONY : face.s
+
+# target to generate assembly for a file
+face.cpp.s:
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/face.cpp.s
+.PHONY : face.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -189,6 +270,33 @@ mainwindow.cpp.s:
 	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
+preprocessFace.obj: preprocessFace.cpp.obj
+
+.PHONY : preprocessFace.obj
+
+# target to build an object file
+preprocessFace.cpp.obj:
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/preprocessFace.cpp.obj
+.PHONY : preprocessFace.cpp.obj
+
+preprocessFace.i: preprocessFace.cpp.i
+
+.PHONY : preprocessFace.i
+
+# target to preprocess a source file
+preprocessFace.cpp.i:
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/preprocessFace.cpp.i
+.PHONY : preprocessFace.cpp.i
+
+preprocessFace.s: preprocessFace.cpp.s
+
+.PHONY : preprocessFace.s
+
+# target to generate assembly for a file
+preprocessFace.cpp.s:
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/preprocessFace.cpp.s
+.PHONY : preprocessFace.cpp.s
+
 run_automoc.obj: run_automoc.cpp.obj
 
 .PHONY : run_automoc.obj
@@ -226,12 +334,24 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... run_automoc
+	@echo ... ImageUtils_0.7.obj
+	@echo ... ImageUtils_0.7.i
+	@echo ... ImageUtils_0.7.s
+	@echo ... detectObject.obj
+	@echo ... detectObject.i
+	@echo ... detectObject.s
+	@echo ... face.obj
+	@echo ... face.i
+	@echo ... face.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
 	@echo ... mainwindow.obj
 	@echo ... mainwindow.i
 	@echo ... mainwindow.s
+	@echo ... preprocessFace.obj
+	@echo ... preprocessFace.i
+	@echo ... preprocessFace.s
 	@echo ... run_automoc.obj
 	@echo ... run_automoc.i
 	@echo ... run_automoc.s

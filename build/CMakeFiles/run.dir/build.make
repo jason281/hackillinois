@@ -106,10 +106,110 @@ CMakeFiles/run.dir/mainwindow.cpp.obj.provides: CMakeFiles/run.dir/mainwindow.cp
 CMakeFiles/run.dir/mainwindow.cpp.obj.provides.build: CMakeFiles/run.dir/mainwindow.cpp.obj
 
 
+CMakeFiles/run.dir/face.cpp.obj: CMakeFiles/run.dir/flags.make
+CMakeFiles/run.dir/face.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
+CMakeFiles/run.dir/face.cpp.obj: C:/Users/jason/Desktop/hackillinois/hackillinois/gui/face.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jason\Desktop\hackillinois\hackillinois\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/run.dir/face.cpp.obj"
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\face.cpp.obj -c C:\Users\jason\Desktop\hackillinois\hackillinois\gui\face.cpp
+
+CMakeFiles/run.dir/face.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/face.cpp.i"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jason\Desktop\hackillinois\hackillinois\gui\face.cpp > CMakeFiles\run.dir\face.cpp.i
+
+CMakeFiles/run.dir/face.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/face.cpp.s"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jason\Desktop\hackillinois\hackillinois\gui\face.cpp -o CMakeFiles\run.dir\face.cpp.s
+
+CMakeFiles/run.dir/face.cpp.obj.requires:
+
+.PHONY : CMakeFiles/run.dir/face.cpp.obj.requires
+
+CMakeFiles/run.dir/face.cpp.obj.provides: CMakeFiles/run.dir/face.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/face.cpp.obj.provides.build
+.PHONY : CMakeFiles/run.dir/face.cpp.obj.provides
+
+CMakeFiles/run.dir/face.cpp.obj.provides.build: CMakeFiles/run.dir/face.cpp.obj
+
+
+CMakeFiles/run.dir/preprocessFace.cpp.obj: CMakeFiles/run.dir/flags.make
+CMakeFiles/run.dir/preprocessFace.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
+CMakeFiles/run.dir/preprocessFace.cpp.obj: C:/Users/jason/Desktop/hackillinois/hackillinois/gui/preprocessFace.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jason\Desktop\hackillinois\hackillinois\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/run.dir/preprocessFace.cpp.obj"
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\preprocessFace.cpp.obj -c C:\Users\jason\Desktop\hackillinois\hackillinois\gui\preprocessFace.cpp
+
+CMakeFiles/run.dir/preprocessFace.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/preprocessFace.cpp.i"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jason\Desktop\hackillinois\hackillinois\gui\preprocessFace.cpp > CMakeFiles\run.dir\preprocessFace.cpp.i
+
+CMakeFiles/run.dir/preprocessFace.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/preprocessFace.cpp.s"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jason\Desktop\hackillinois\hackillinois\gui\preprocessFace.cpp -o CMakeFiles\run.dir\preprocessFace.cpp.s
+
+CMakeFiles/run.dir/preprocessFace.cpp.obj.requires:
+
+.PHONY : CMakeFiles/run.dir/preprocessFace.cpp.obj.requires
+
+CMakeFiles/run.dir/preprocessFace.cpp.obj.provides: CMakeFiles/run.dir/preprocessFace.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/preprocessFace.cpp.obj.provides.build
+.PHONY : CMakeFiles/run.dir/preprocessFace.cpp.obj.provides
+
+CMakeFiles/run.dir/preprocessFace.cpp.obj.provides.build: CMakeFiles/run.dir/preprocessFace.cpp.obj
+
+
+CMakeFiles/run.dir/detectObject.cpp.obj: CMakeFiles/run.dir/flags.make
+CMakeFiles/run.dir/detectObject.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
+CMakeFiles/run.dir/detectObject.cpp.obj: C:/Users/jason/Desktop/hackillinois/hackillinois/gui/detectObject.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jason\Desktop\hackillinois\hackillinois\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/run.dir/detectObject.cpp.obj"
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\detectObject.cpp.obj -c C:\Users\jason\Desktop\hackillinois\hackillinois\gui\detectObject.cpp
+
+CMakeFiles/run.dir/detectObject.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/detectObject.cpp.i"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jason\Desktop\hackillinois\hackillinois\gui\detectObject.cpp > CMakeFiles\run.dir\detectObject.cpp.i
+
+CMakeFiles/run.dir/detectObject.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/detectObject.cpp.s"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jason\Desktop\hackillinois\hackillinois\gui\detectObject.cpp -o CMakeFiles\run.dir\detectObject.cpp.s
+
+CMakeFiles/run.dir/detectObject.cpp.obj.requires:
+
+.PHONY : CMakeFiles/run.dir/detectObject.cpp.obj.requires
+
+CMakeFiles/run.dir/detectObject.cpp.obj.provides: CMakeFiles/run.dir/detectObject.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/detectObject.cpp.obj.provides.build
+.PHONY : CMakeFiles/run.dir/detectObject.cpp.obj.provides
+
+CMakeFiles/run.dir/detectObject.cpp.obj.provides.build: CMakeFiles/run.dir/detectObject.cpp.obj
+
+
+CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj: CMakeFiles/run.dir/flags.make
+CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
+CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj: C:/Users/jason/Desktop/hackillinois/hackillinois/gui/ImageUtils_0.7.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jason\Desktop\hackillinois\hackillinois\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj"
+	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\ImageUtils_0.7.cpp.obj -c C:\Users\jason\Desktop\hackillinois\hackillinois\gui\ImageUtils_0.7.cpp
+
+CMakeFiles/run.dir/ImageUtils_0.7.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/ImageUtils_0.7.cpp.i"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jason\Desktop\hackillinois\hackillinois\gui\ImageUtils_0.7.cpp > CMakeFiles\run.dir\ImageUtils_0.7.cpp.i
+
+CMakeFiles/run.dir/ImageUtils_0.7.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/ImageUtils_0.7.cpp.s"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jason\Desktop\hackillinois\hackillinois\gui\ImageUtils_0.7.cpp -o CMakeFiles\run.dir\ImageUtils_0.7.cpp.s
+
+CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj.requires:
+
+.PHONY : CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj.requires
+
+CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj.provides: CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\run.dir\build.make CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj.provides.build
+.PHONY : CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj.provides
+
+CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj.provides.build: CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj
+
+
 CMakeFiles/run.dir/run_automoc.cpp.obj: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/run_automoc.cpp.obj: CMakeFiles/run.dir/includes_CXX.rsp
 CMakeFiles/run.dir/run_automoc.cpp.obj: run_automoc.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jason\Desktop\hackillinois\hackillinois\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/run.dir/run_automoc.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jason\Desktop\hackillinois\hackillinois\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/run.dir/run_automoc.cpp.obj"
 	C:\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\run.dir\run_automoc.cpp.obj -c C:\Users\jason\Desktop\hackillinois\hackillinois\build\run_automoc.cpp
 
 CMakeFiles/run.dir/run_automoc.cpp.i: cmake_force
@@ -135,6 +235,10 @@ CMakeFiles/run.dir/run_automoc.cpp.obj.provides.build: CMakeFiles/run.dir/run_au
 run_OBJECTS = \
 "CMakeFiles/run.dir/main.cpp.obj" \
 "CMakeFiles/run.dir/mainwindow.cpp.obj" \
+"CMakeFiles/run.dir/face.cpp.obj" \
+"CMakeFiles/run.dir/preprocessFace.cpp.obj" \
+"CMakeFiles/run.dir/detectObject.cpp.obj" \
+"CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj" \
 "CMakeFiles/run.dir/run_automoc.cpp.obj"
 
 # External object files for target run
@@ -142,6 +246,10 @@ run_EXTERNAL_OBJECTS =
 
 run.exe: CMakeFiles/run.dir/main.cpp.obj
 run.exe: CMakeFiles/run.dir/mainwindow.cpp.obj
+run.exe: CMakeFiles/run.dir/face.cpp.obj
+run.exe: CMakeFiles/run.dir/preprocessFace.cpp.obj
+run.exe: CMakeFiles/run.dir/detectObject.cpp.obj
+run.exe: CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj
 run.exe: CMakeFiles/run.dir/run_automoc.cpp.obj
 run.exe: CMakeFiles/run.dir/build.make
 run.exe: C:/Qt/5.7/mingw53_32/lib/libQt5Widgets.a
@@ -169,7 +277,7 @@ run.exe: D:/OpenCV/opencv_bin/lib/libopencv_core2413.dll.a
 run.exe: CMakeFiles/run.dir/linklibs.rsp
 run.exe: CMakeFiles/run.dir/objects1.rsp
 run.exe: CMakeFiles/run.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\jason\Desktop\hackillinois\hackillinois\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable run.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\jason\Desktop\hackillinois\hackillinois\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable run.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\run.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -179,6 +287,10 @@ CMakeFiles/run.dir/build: run.exe
 
 CMakeFiles/run.dir/requires: CMakeFiles/run.dir/main.cpp.obj.requires
 CMakeFiles/run.dir/requires: CMakeFiles/run.dir/mainwindow.cpp.obj.requires
+CMakeFiles/run.dir/requires: CMakeFiles/run.dir/face.cpp.obj.requires
+CMakeFiles/run.dir/requires: CMakeFiles/run.dir/preprocessFace.cpp.obj.requires
+CMakeFiles/run.dir/requires: CMakeFiles/run.dir/detectObject.cpp.obj.requires
+CMakeFiles/run.dir/requires: CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj.requires
 CMakeFiles/run.dir/requires: CMakeFiles/run.dir/run_automoc.cpp.obj.requires
 
 .PHONY : CMakeFiles/run.dir/requires

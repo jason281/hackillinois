@@ -19,7 +19,7 @@
 #define USE_HIGHGUI        // Enable this to display graph windows using OpenCV's HighGUI. (Supports Windows, Linux & Mac, but not iPhone).
 
 #include "ImageUtils.h"
-
+#include <cstdio>
 
 
 using namespace std;

@@ -4,8 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/jason/Desktop/hackillinois/hackillinois/gui/ImageUtils_0.7.cpp" "C:/Users/jason/Desktop/hackillinois/hackillinois/build/CMakeFiles/run.dir/ImageUtils_0.7.cpp.obj"
+  "C:/Users/jason/Desktop/hackillinois/hackillinois/gui/detectObject.cpp" "C:/Users/jason/Desktop/hackillinois/hackillinois/build/CMakeFiles/run.dir/detectObject.cpp.obj"
+  "C:/Users/jason/Desktop/hackillinois/hackillinois/gui/face.cpp" "C:/Users/jason/Desktop/hackillinois/hackillinois/build/CMakeFiles/run.dir/face.cpp.obj"
   "C:/Users/jason/Desktop/hackillinois/hackillinois/gui/main.cpp" "C:/Users/jason/Desktop/hackillinois/hackillinois/build/CMakeFiles/run.dir/main.cpp.obj"
   "C:/Users/jason/Desktop/hackillinois/hackillinois/gui/mainwindow.cpp" "C:/Users/jason/Desktop/hackillinois/hackillinois/build/CMakeFiles/run.dir/mainwindow.cpp.obj"
+  "C:/Users/jason/Desktop/hackillinois/hackillinois/gui/preprocessFace.cpp" "C:/Users/jason/Desktop/hackillinois/hackillinois/build/CMakeFiles/run.dir/preprocessFace.cpp.obj"
   "C:/Users/jason/Desktop/hackillinois/hackillinois/build/run_automoc.cpp" "C:/Users/jason/Desktop/hackillinois/hackillinois/build/CMakeFiles/run.dir/run_automoc.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
@@ -44,6 +48,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "D:/OpenCV/opencv/sources/modules/superres/include"
   "D:/OpenCV/opencv/sources/modules/ts/include"
   "D:/OpenCV/opencv/sources/modules/videostab/include"
+  "C:/Users/jason/Desktop/hackillinois/hackillinois/gui/../eigen"
   "C:/Qt/5.7/mingw53_32/include"
   "C:/Qt/5.7/mingw53_32/include/QtWidgets"
   "C:/Qt/5.7/mingw53_32/include/QtGui"

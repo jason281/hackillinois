@@ -1,13 +1,13 @@
 /********************************************************************************
-** Form generated from reading UI file 'mainwindowmU7772.ui'
+** Form generated from reading UI file 'mainwindowHp6964.ui'
 **
 ** Created by: Qt User Interface Compiler version 5.6.2
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
 
-#ifndef MAINWINDOWMU7772_H
-#define MAINWINDOWMU7772_H
+#ifndef MAINWINDOWHP6964_H
+#define MAINWINDOWHP6964_H
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QAction>
@@ -16,6 +16,7 @@
 #include <QtWidgets/QHeaderView>
 #include <QtWidgets/QLabel>
 #include <QtWidgets/QMainWindow>
+#include <QtWidgets/QMenu>
 #include <QtWidgets/QMenuBar>
 #include <QtWidgets/QPushButton>
 #include <QtWidgets/QStatusBar>
@@ -27,6 +28,7 @@ QT_BEGIN_NAMESPACE
 class Ui_MainWindow
 {
 public:
+    QAction *actionReconnect;
     QWidget *centralwidget;
     QLabel *monitor;
     QWidget *verticalLayoutWidget;
@@ -35,6 +37,7 @@ public:
     QPushButton *capture_button;
     QPushButton *stop_button;
     QMenuBar *menubar;
+    QMenu *menuSetting;
     QStatusBar *statusbar;
 
     void setupUi(QMainWindow *MainWindow)
@@ -42,6 +45,8 @@ public:
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName(QStringLiteral("MainWindow"));
         MainWindow->resize(800, 600);
+        actionReconnect = new QAction(MainWindow);
+        actionReconnect->setObjectName(QStringLiteral("actionReconnect"));
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName(QStringLiteral("centralwidget"));
         monitor = new QLabel(centralwidget);
@@ -72,10 +77,15 @@ public:
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName(QStringLiteral("menubar"));
         menubar->setGeometry(QRect(0, 0, 800, 21));
+        menuSetting = new QMenu(menubar);
+        menuSetting->setObjectName(QStringLiteral("menuSetting"));
         MainWindow->setMenuBar(menubar);
         statusbar = new QStatusBar(MainWindow);
         statusbar->setObjectName(QStringLiteral("statusbar"));
         MainWindow->setStatusBar(statusbar);
+
+        menubar->addAction(menuSetting->menuAction());
+        menuSetting->addAction(actionReconnect);
 
         retranslateUi(MainWindow);
 
@@ -85,10 +95,12 @@ public:
     void retranslateUi(QMainWindow *MainWindow)
     {
         MainWindow->setWindowTitle(QApplication::translate("MainWindow", "MainWindow", 0));
+        actionReconnect->setText(QApplication::translate("MainWindow", "Reconnect", 0));
         monitor->setText(QString());
         connect_button->setText(QApplication::translate("MainWindow", "Connect", 0));
         capture_button->setText(QApplication::translate("MainWindow", "Capture", 0));
         stop_button->setText(QApplication::translate("MainWindow", "Stop", 0));
+        menuSetting->setTitle(QApplication::translate("MainWindow", "Setting", 0));
     } // retranslateUi
 
 };
@@ -99,4 +111,4 @@ namespace Ui {
 
 QT_END_NAMESPACE
 
-#endif // MAINWINDOWMU7772_H
+#endif // MAINWINDOWHP6964_H
