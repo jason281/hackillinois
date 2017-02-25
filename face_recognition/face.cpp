@@ -56,6 +56,93 @@ void Face::copyFace(Face* sourceFace){
 	}
 }
 
+// Load the face and 1 or 2 eye detection XML classifiers.
+void Face::initDetectors(CascadeClassifier &faceCascade, CascadeClassifier &eyeCascade1, CascadeClassifier &eyeCascade2)
+{
+	// Cascade Classifier file, used for Face Detection.
+	const char *faceCascadeFilename = "lbpcascade_frontalface.xml";     // LBP face detector.
+	//const char *faceCascadeFilename = "haarcascade_frontalface_alt_tree.xml";  // Haar face detector.
+	//const char *eyeCascadeFilename1 = "haarcascade_lefteye_2splits.xml";   // Best eye detector for open-or-closed eyes.
+	//const char *eyeCascadeFilename2 = "haarcascade_righteye_2splits.xml";   // Best eye detector for open-or-closed eyes.
+	//const char *eyeCascadeFilename1 = "haarcascade_mcs_lefteye.xml";       // Good eye detector for open-or-closed eyes.
+	//const char *eyeCascadeFilename2 = "haarcascade_mcs_righteye.xml";       // Good eye detector for open-or-closed eyes.
+	const char *eyeCascadeFilename1 = "haarcascade_eye.xml";               // Basic eye detector for open eyes only.
+	const char *eyeCascadeFilename2 = "haarcascade_eye_tree_eyeglasses.xml"; // Basic eye detector for open eyes if they might wear glasses.
+
+	// Load the Face Detection cascade classifier xml file.
+	try {   // Surround the OpenCV call by a try/catch block so we can give a useful error message!
+		faceCascade.load(faceCascadeFilename);
+	}
+	catch (cv::Exception &e) {}
+	if (faceCascade.empty()) {
+		cerr << "ERROR: Could not load Face Detection cascade classifier [" << faceCascadeFilename << "]!" << endl;
+		cerr << "Copy the file from your OpenCV data folder (eg: 'C:\\OpenCV\\data\\lbpcascades') into this WebcamFaceRec folder." << endl;
+		exit(1);
+	}
+	//cout << "Loaded the Face Detection cascade classifier [" << faceCascadeFilename << "]." << endl;
+
+	// Load the Eye Detection cascade classifier xml file.
+	try {   // Surround the OpenCV call by a try/catch block so we can give a useful error message!
+		eyeCascade1.load(eyeCascadeFilename1);
+	}
+	catch (cv::Exception &e) {}
+	if (eyeCascade1.empty()) {
+		cerr << "ERROR: Could not load 1st Eye Detection cascade classifier [" << eyeCascadeFilename1 << "]!" << endl;
+		cerr << "Copy the file from your OpenCV data folder (eg: 'C:\\OpenCV\\data\\haarcascades') into this WebcamFaceRec folder." << endl;
+		exit(1);
+	}
+	//cout << "Loaded the 1st Eye Detection cascade classifier [" << eyeCascadeFilename1 << "]." << endl;
+
+	// Load the Eye Detection cascade classifier xml file.
+	try {   // Surround the OpenCV call by a try/catch block so we can give a useful error message!
+		eyeCascade2.load(eyeCascadeFilename2);
+	}
+	catch (cv::Exception &e) {}
+	if (eyeCascade2.empty()) {
+		cerr << "Could not load 2nd Eye Detection cascade classifier [" << eyeCascadeFilename2 << "]." << endl;
+		// Dont exit if the 2nd eye detector did not load, because we have the 1st eye detector at least.
+		//exit(1);
+	}
+	//else
+	//	cout << "Loaded the 2nd Eye Detection cascade classifier [" << eyeCascadeFilename2 << "]." << endl;
+}
+
+// crop and resize the image in order to make the face image have the same size and the same location of eyes
+void Face::detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* originalRightEye)
+{
+	CascadeClassifier faceCascade;
+	CascadeClassifier eyeCascade1;
+	CascadeClassifier eyeCascade2;
+
+	Ptr<FaceRecognizer> model;
+	vector<Mat> preprocessedFaces;
+	vector<int> faceLabels;
+	Mat old_prepreprocessedFace;
+	double old_time = 0;
+
+	// Load the face and 1 or 2 eye detection XML classifiers.
+	initDetectors(faceCascade, eyeCascade1, eyeCascade2);
+
+	// Find a face and preprocess it to have a standard size and contrast & brightness.
+	Rect faceRect;  // Position of detected face.
+	Rect searchedLeftEye, searchedRightEye; // top-left and top-right regions of the face, where eyes were searched.
+	Point leftEye, rightEye;
+	// Set the desired face dimensions. Note that "getPreprocessedFace()" will return a square face.
+	int faceWidth = 70;
+	int faceHeight = faceWidth;
+	bool preprocessLeftAndRightSeparately = true;   // Preprocess left & right sides of the face separately, in case there is stronger light on one side.
+	Mat preprocessedFace = getPreprocessedFace(inputFace, faceWidth, faceCascade, eyeCascade1, eyeCascade2, preprocessLeftAndRightSeparately, &faceRect, &leftEye, &rightEye, &searchedLeftEye, &searchedRightEye);
+	*originalLeftEye = Point(faceRect.x + leftEye.x, faceRect.y + leftEye.y);
+	*originalRightEye = Point(faceRect.x + rightEye.x, faceRect.y + rightEye.y);
+	cout << "Position of left eye:" << originalLeftEye->x << "," << originalLeftEye->y << endl;
+	cout << "Position of right eye:" << originalRightEye->x << "," << originalRightEye->y << endl;
+
+	bool gotFaceAndEyes = false;
+	if (preprocessedFace.data)
+		gotFaceAndEyes = true;
+
+}
+
 void Face::faceNormalization(string filename, Point leftEye, Point rightEye){
 	Mat inputFace;
 	Mat normalizedFace;
@@ -124,83 +211,6 @@ void Face::basicNormalization(){
 	variance /= WIDTH*HEIGHT;
 	for (int i = 0; i < WIDTH*HEIGHT; i++){
 		this->data[i] /= sqrt(variance);
-	}
-}
-
-void Face::gammaCorrection(double gamma){
-	for (int i = 0; i < HEIGHT*WIDTH; i++){
-		this->data[i] = (float)(pow(((double)this->data[i] / 256), gamma) * 256);
-	}
-	for (int i = 0; i < WIDTH; i++){
-		for (int j = 0; j < HEIGHT; j++){
-			this->data2D[i][j] = this->data[i * HEIGHT + j];
-		}
-	}
-}
-
-void Face::DoG(float innerGaussian, float outerGaussian){
-	float face[WIDTH*HEIGHT];
-	for (int i = 0; i < WIDTH * HEIGHT; i++) {
-		face[i] = this->data[i];
-	}
-	Mat face_mat = Mat(WIDTH, HEIGHT, CV_32FC1, face);
-	Mat innerGauss, outerGauss = Mat(WIDTH, HEIGHT, CV_32FC1);
-	float result[WIDTH*HEIGHT];
-	GaussianBlur(face_mat, innerGauss, Size(), innerGaussian, innerGaussian);
-	GaussianBlur(face_mat, outerGauss, Size(), outerGaussian, outerGaussian);
-	for (int i = 0; i < WIDTH * HEIGHT; i++) {
-		result[i] = outerGauss.at<float>(i) - innerGauss.at<float>(i);
-		if (result[i] < 0){
-			result[i] *= -1;
-		}
-	}
-
-	//string filename = "DoG.txt";
-	//ofstream ff(filename.c_str());
-	//if (!ff) {
-	//	std::cout << "Cannot create " << filename << endl;
-	//}
-	//ff << "Face" << endl;
-	//for (int i = 0; i < HEIGHT * WIDTH; i++) {
-	//	ff << (float)result[i] << " ";
-	//}
-	//ff.close();
-
-	for (int i = 0; i < WIDTH * HEIGHT; i++) {
-		this->data[i] = result[i];
-	}
-
-	for (int i = 0; i < WIDTH; i++) {
-		for (int j = 0; j < HEIGHT; j++) {
-			this->data2D[i][j] = result[i * HEIGHT + j];
-		}
-	}
-}
-
-void Face::contrastEqualization(double alpha, double threshold){
-	double sum = 0;
-	double result[WIDTH * HEIGHT];
-	for (int i = 0; i < WIDTH * HEIGHT; i++){
-		if (this->data[i] < threshold){
-			sum += pow((double)this->data[i], alpha);
-		}
-		else{
-			sum += threshold;
-		}
-	}
-	sum /= WIDTH * HEIGHT;
-	cout << "Scalar:" << pow(sum, (double)1 / alpha) << endl;
-	for (int i = 0; i < WIDTH * HEIGHT; i++){
-		result[i] = (double)this->data[i] / pow(sum, (double)1 / alpha);
-		result[i] = (tanh(result[i] / threshold)*threshold);// + threshold)/2/threshold*255;
-	}
-	for (int i = 0; i < WIDTH * HEIGHT; i++) {
-		this->data[i] = (float)result[i];
-	}
-	for (int i = 0; i < WIDTH; i++) {
-		for (int j = 0; j < HEIGHT; j++) {
-			this->data2D[i][j] = this->data[i * HEIGHT + j];
-		}
 	}
 }
 
