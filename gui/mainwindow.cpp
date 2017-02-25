@@ -91,10 +91,9 @@ void analyzeThread::run(){
 			if(count>10){
 				std::cout<<"===========New User==========\n";
 				cv::Mat framesmall;
-				cv::resize(tmp->get_Mat(),framesmall,cv::Size(640,480),CV_INTER_AREA);
+				cv::resize(tmp->get_Mat(),framesmall,cv::Size(89,89),CV_INTER_AREA);
 				cv::cvtColor(framesmall,framesmall,cv::COLOR_BGR2RGB);
-				mw->ui->monitor->setPixmap(QPixmap::fromImage(QImage((const uchar*)framesmall.data, framesmall.cols, framesmall.rows, QImage::Format_RGB888)));
-				//users[f.size()]
+				users[f.size()]->setPixmap(QPixmap::fromImage(QImage((const uchar*)framesmall.data, framesmall.cols, framesmall.rows, QImage::Format_RGB888)));
 				mw->f.push_back(tmp);
 				mw->trainCoef = Eigen::MatrixXf(mw->f.size() - 1, mw->f.size() );
 				mw->eigenFace = Eigen::MatrixXf(WIDTH*HEIGHT, mw->f.size() - 1);
