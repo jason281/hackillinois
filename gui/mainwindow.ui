@@ -42,35 +42,35 @@
        <item>
         <widget class="QLabel" name="user_1">
          <property name="text">
-          <string>TextLabel</string>
+          <string/>
          </property>
         </widget>
        </item>
        <item>
         <widget class="QLabel" name="user_2">
          <property name="text">
-          <string>TextLabel</string>
+          <string/>
          </property>
         </widget>
        </item>
        <item>
         <widget class="QLabel" name="user_3">
          <property name="text">
-          <string>TextLabel</string>
+          <string/>
          </property>
         </widget>
        </item>
        <item>
         <widget class="QLabel" name="user_4">
          <property name="text">
-          <string>TextLabel</string>
+          <string/>
          </property>
         </widget>
        </item>
        <item>
         <widget class="QLabel" name="user_5">
          <property name="text">
-          <string>TextLabel</string>
+          <string/>
          </property>
         </widget>
        </item>
@@ -81,35 +81,35 @@
        <item>
         <widget class="QLabel" name="user_6">
          <property name="text">
-          <string>TextLabel</string>
+          <string/>
          </property>
         </widget>
        </item>
        <item>
         <widget class="QLabel" name="user_7">
          <property name="text">
-          <string>TextLabel</string>
+          <string/>
          </property>
         </widget>
        </item>
        <item>
         <widget class="QLabel" name="user_8">
          <property name="text">
-          <string>TextLabel</string>
+          <string/>
          </property>
         </widget>
        </item>
        <item>
         <widget class="QLabel" name="user_9">
          <property name="text">
-          <string>TextLabel</string>
+          <string/>
          </property>
         </widget>
        </item>
        <item>
         <widget class="QLabel" name="user_10">
          <property name="text">
-          <string>TextLabel</string>
+          <string/>
          </property>
         </widget>
        </item>

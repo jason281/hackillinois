@@ -6,6 +6,16 @@ using namespace dlib;
 
 MainWindow::MainWindow(QWidget* parent) : QMainWindow(parent), ui(new Ui::MainWindow){
 	ui->setupUi(this);
+	users[0]=user_1 ;
+	users[1]=user_2 ;
+	users[2]=user_3 ;
+	users[3]=user_4 ;
+	users[4]=user_5 ;
+	users[5]=user_6 ;
+	users[6]=user_7 ;
+	users[7]=user_8 ;
+	users[8]=user_9 ;
+	users[9]=user_10;
 	video = new workerThread(this);
 	analyze = new analyzeThread(this);
 	meanFace = new float[WIDTH*HEIGHT];
@@ -79,7 +89,8 @@ void analyzeThread::run(){
 			else
 				count = 0;
 			if(count>10){
-				std::cout<<"===========New User========\n";
+				std::cout<<"===========New User==========\n";
+				//users[f.size()]
 				mw->f.push_back(tmp);
 				mw->trainCoef = Eigen::MatrixXf(mw->f.size() - 1, mw->f.size() );
 				mw->eigenFace = Eigen::MatrixXf(WIDTH*HEIGHT, mw->f.size() - 1);

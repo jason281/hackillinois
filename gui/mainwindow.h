@@ -41,6 +41,7 @@ private:
 	Eigen::MatrixXf eigenFace;
 	float*	meanFace;
 	cv::Rect rect_face;
+	QLabel* users[10];
 	
 	dlib::shape_predictor pose_model;//landmark model;
 	
