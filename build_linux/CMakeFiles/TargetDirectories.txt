@@ -1,0 +1,4 @@
+/home/admin/Desktop/hackillinois/build_linux/CMakeFiles/rebuild_cache.dir
+/home/admin/Desktop/hackillinois/build_linux/CMakeFiles/edit_cache.dir
+/home/admin/Desktop/hackillinois/build_linux/CMakeFiles/run.dir
+/home/admin/Desktop/hackillinois/build_linux/CMakeFiles/run_automoc.dir
