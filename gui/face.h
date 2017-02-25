@@ -33,7 +33,7 @@ public:
 	bool savedata(string filename);
 	bool savedata2D(string filename);
 	Rect rect_face;
-
+	Mat get_Mat(){return colorFace;}
 private:
 	/** member functions **/
 

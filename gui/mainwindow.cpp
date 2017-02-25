@@ -6,16 +6,16 @@ using namespace dlib;
 
 MainWindow::MainWindow(QWidget* parent) : QMainWindow(parent), ui(new Ui::MainWindow){
 	ui->setupUi(this);
-	users[0]=user_1 ;
-	users[1]=user_2 ;
-	users[2]=user_3 ;
-	users[3]=user_4 ;
-	users[4]=user_5 ;
-	users[5]=user_6 ;
-	users[6]=user_7 ;
-	users[7]=user_8 ;
-	users[8]=user_9 ;
-	users[9]=user_10;
+	users[0]=ui->user_1 ;
+	users[1]=ui->user_2 ;
+	users[2]=ui->user_3 ;
+	users[3]=ui->user_4 ;
+	users[4]=ui->user_5 ;
+	users[5]=ui->user_6 ;
+	users[6]=ui->user_7 ;
+	users[7]=ui->user_8 ;
+	users[8]=ui->user_9 ;
+	users[9]=ui->user_10;
 	video = new workerThread(this);
 	analyze = new analyzeThread(this);
 	meanFace = new float[WIDTH*HEIGHT];
@@ -90,6 +90,10 @@ void analyzeThread::run(){
 				count = 0;
 			if(count>10){
 				std::cout<<"===========New User==========\n";
+				cv::Mat framesmall;
+				cv::resize(tmp->get_Mat(),framesmall,cv::Size(640,480),CV_INTER_AREA);
+				cv::cvtColor(framesmall,framesmall,cv::COLOR_BGR2RGB);
+				mw->ui->monitor->setPixmap(QPixmap::fromImage(QImage((const uchar*)framesmall.data, framesmall.cols, framesmall.rows, QImage::Format_RGB888)));
 				//users[f.size()]
 				mw->f.push_back(tmp);
 				mw->trainCoef = Eigen::MatrixXf(mw->f.size() - 1, mw->f.size() );
