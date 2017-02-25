@@ -7,6 +7,7 @@
 
 // Include OpenCV's C++ Interface
 #include <opencv2/opencv.hpp>
+#include "preprocessFace.h"     // Easily preprocess face images, for face recognition.
 
 using namespace cv;
 using namespace std;
@@ -18,11 +19,10 @@ public:
 	Face(float* faceData);
 	void reset();
 	void copyFace(Face* sourceFace);
-	void faceNormalization(string filename, Point leftEye, Point rightEye);
+	void initDetectors(CascadeClassifier &faceCascade, CascadeClassifier &eyeCascade1, CascadeClassifier &eyeCascade2);
+	void detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* originalRightEye);
+	void faceNormalization(mat inputFace, Point leftEye, Point rightEye);
 	void basicNormalization();	//set mean to zero and set variance to one
-	void gammaCorrection(double gamma);
-	void DoG(float innerGaussian, float outerGaussian);
-	void contrastEqualization(double alpha, double threshold);
 	void show(string windowname);
 	void save(string filename);
 	void saveBright(string filename);
