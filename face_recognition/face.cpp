@@ -108,7 +108,7 @@ void Face::initDetectors(CascadeClassifier &faceCascade, CascadeClassifier &eyeC
 }
 
 // crop and resize the image in order to make the face image have the same size and the same location of eyes
-void Face::detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* originalRightEye)
+bool Face::detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* originalRightEye)
 {
 	CascadeClassifier faceCascade;
 	CascadeClassifier eyeCascade1;
@@ -136,16 +136,23 @@ void Face::detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* orig
 	*originalRightEye = Point(faceRect.x + rightEye.x, faceRect.y + rightEye.y);
 	cout << "Position of left eye:" << originalLeftEye->x << "," << originalLeftEye->y << endl;
 	cout << "Position of right eye:" << originalRightEye->x << "," << originalRightEye->y << endl;
-
+	rect_face=faceRect;
+	
 	bool gotFaceAndEyes = false;
 	if (preprocessedFace.data)
 		gotFaceAndEyes = true;
 
+	return gotFaceAndEyes;
+
 }
 
-void Face::faceNormalization(Mat & inputFace){
+bool Face::faceNormalization(Mat & inputFace){
 	Point leftEye, rightEye;
-	detectAndRecognize(inputFace, &leftEye, &rightEye);
+	bool success = detectAndRecognize(inputFace, &leftEye, &rightEye);
+
+	if(!success){
+		return success;
+	}
 
 	Mat normalizedFace;
 	int origin_x = (leftEye.x + rightEye.x) / 2;
@@ -160,12 +167,14 @@ void Face::faceNormalization(Mat & inputFace){
 	warpAffine(inputFace, normalizedFace, rot_mat, inputFace.size());
 	normalizedFace = cv::Mat(normalizedFace, cv::Rect((origin_x - eyeDistance * 1), (origin_y - eyeDistance * 0.5), eyeDistance * 2, eyeDistance * 2));
 	cv::resize(normalizedFace, normalizedFace, cv::Size(HEIGHT, WIDTH), 0, 0, CV_INTER_LINEAR);
+	colorFace = normalizedFace;
+	cvtColor(colorFace,normalizedFace,CV_RGB2GRAY);
 
-	//// Show the camera frame on the screen.
+	// Show the camera frame on the screen.
 	//imshow("face", normalizedFace);
-	//// IMPORTANT: Wait for at least 20 milliseconds, so that the image can be displayed on the screen!
-	//// Also checks if a key was pressed in the GUI window. Note that it should be a "char" to support Linux.
-	//char keypress = waitKey(20);  // This is needed if you want to see anything!
+	// IMPORTANT: Wait for at least 20 milliseconds, so that the image can be displayed on the screen!
+	// Also checks if a key was pressed in the GUI window. Note that it should be a "char" to support Linux.
+	//char keypress = waitKey(1);  // This is needed if you want to see anything!
 	
 	//float* p;
 	//for (int i = 0; i < WIDTH; i++) {
@@ -184,6 +193,8 @@ void Face::faceNormalization(Mat & inputFace){
 			this->data2D[i][j] = (float)normalizedFace.data[i * HEIGHT + j];
 		}
 	}
+
+	return success;
 }
 
 void Face::basicNormalization(){
@@ -211,7 +222,7 @@ void Face::show(string windowname){
 	imshow(windowname, showFace/255);
 	// IMPORTANT: Wait for at least 20 milliseconds, so that the image can be displayed on the screen!
 	// Also checks if a key was pressed in the GUI window. Note that it should be a "char" to support Linux.
-	char keypress = waitKey(2);  // This is needed if you want to see anything!
+	char keypress = waitKey(40);  // This is needed if you want to see anything!
 }
 
 void Face::save(string filename){

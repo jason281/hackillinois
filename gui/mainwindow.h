@@ -30,7 +30,7 @@ private:
 	cv::Mat frame;
 	workerThread* video;
 	analyzeThread* analyze;
-	std::vector<Face> f;
+	std::vector<Face*> f;
 	Eigen::MatrixXf trainCoef;
 	Eigen::MatrixXf eigenFace;
 	float*	meanFace;

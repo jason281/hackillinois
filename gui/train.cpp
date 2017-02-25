@@ -7,8 +7,10 @@
 using namespace std;
 using namespace Eigen;
 
-void PCA_training(vector<Face> trainFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace){
+void PCA_training(vector<Face*>& trainFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace){
 	int TRAINNO=trainFace.size();
+	if(TRAINNO<2)
+		return;
 	//dimension of trainCoef is (TRAINNO-1,TRAINNO), dimension of trainCoef is (TRAINNO-1,TESTNO)
 	for (int i = 0; i < HEIGHT*WIDTH; i++){
 		meanFace[i] = 0;
@@ -16,8 +18,8 @@ void PCA_training(vector<Face> trainFace, MatrixXf & trainCoef, MatrixXf & eigen
 	std::vector<std::vector<float>> demeanedFace(TRAINNO, std::vector<float>(HEIGHT*WIDTH));
 	for (int i = 0; i < TRAINNO; i++){
 		for (int j = 0; j < HEIGHT*WIDTH; j++){
-			meanFace[j] += trainFace[i].getdata()[j];
-			demeanedFace[i][j] = trainFace[i].getdata()[j];
+			meanFace[j] += trainFace[i]->getdata()[j];
+			demeanedFace[i][j] = trainFace[i]->getdata()[j];
 		}
 	}
 
@@ -76,10 +78,10 @@ void PCA_training(vector<Face> trainFace, MatrixXf & trainCoef, MatrixXf & eigen
 	
 }
 
-int PCA_testing(vector<Face> trainFace, Face* testFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace, float& euclideanDistance_min){
+int PCA_testing(vector<Face*>& trainFace, Face* testFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace, float& euclideanDistance_min){
 
 	int TRAINNO = trainFace.size();
-	if(!TRAINNO)
+	if(TRAINNO<2)
 		return -1;
 	int coefNo = TRAINNO-1;
 	MatrixXf testingset(WIDTH*HEIGHT, 1);
@@ -107,11 +109,11 @@ int PCA_testing(vector<Face> trainFace, Face* testFace, MatrixXf & trainCoef, Ma
 			euclideanDistance_min = euclideanDistance;
 		}
 	}
-	if (!strcmp(trainFace[matchedFace].getID(), testFace->getID())){
+	if (!strcmp(trainFace[matchedFace]->getID(), testFace->getID())){
 		correct = true;
 	}
 
-	cout << "Test face  :\t " << testFace->getID() << "\t" << trainFace[matchedFace].getID() << "\t Distance:\t" << euclideanDistance_min <<endl;
+	cout << "Test face  :\t " << testFace->getID() << "\t" << trainFace[matchedFace]->getID() << "\t Distance:\t" << euclideanDistance_min <<endl;
 
 	return matchedFace;
 }

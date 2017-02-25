@@ -20,8 +20,8 @@ public:
 	void reset();
 	void copyFace(Face* sourceFace);
 	void initDetectors(CascadeClassifier &faceCascade, CascadeClassifier &eyeCascade1, CascadeClassifier &eyeCascade2);
-	void detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* originalRightEye);
-	void faceNormalization(Mat & inputFace);
+	bool detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* originalRightEye);
+	bool faceNormalization(Mat & inputFace);
 	void basicNormalization();	//set mean to zero and set variance to one
 	void show(string windowname);
 	void save(string filename);
@@ -32,6 +32,7 @@ public:
 	float** getdata2D();
 	bool savedata(string filename);
 	bool savedata2D(string filename);
+	Rect rect_face;
 
 private:
 	/** member functions **/
@@ -40,7 +41,7 @@ private:
 	char faceID[IDsize];
 	float* data;
 	float** data2D;
-	
+	Mat colorFace;
 };
 
 #endif /* FACE_H_ */

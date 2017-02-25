@@ -275,7 +275,7 @@ int main()
 	// 	printf("\nafter detection time=%d\ncorrect=%d %d",time_det,frame_det*100/frame_process,frame_process);
 
 		//testing the functions of face recognition
-		int TRAINNO = 6;
+		int TRAINNO = 4;
 		Face * trainFace = new Face[TRAINNO];
 		for(int i=0; i<TRAINNO; i++){
 			string filename = "./trainingFaces/" + std::to_string(i) + ".jpg";
@@ -290,6 +290,8 @@ int main()
 				exit(1);
 			}
 			trainFace[i].faceNormalization(face);
+			filename = "./PCA/" + std::to_string(i) + ".jpg";
+			trainFace[i].save(filename);
 		}
 
 		Face * testFace = new Face;
@@ -297,13 +299,15 @@ int main()
 		try {   // Surround the OpenCV call by a try/catch block so we can give a useful error message!
 			 string filename = "./testingFaces/0.jpg";
 			 face = imread(filename, CV_LOAD_IMAGE_COLOR);   // Read the file
-			 testFace->faceNormalization(face);
 		}
 		catch (cv::Exception &e) {}
 		if (!face.data){                              // Check for invalid input
 			cout << "Could not open or find the image" << endl;
 			exit(1);
 		}
+		testFace->faceNormalization(face);
+		string filename = "./PCA/test.jpg";
+		testFace->save(filename);
 
 		// PCA + Euclidean Distance Calculation
 		//Get the low-dimenstional face images

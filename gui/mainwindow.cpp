@@ -52,12 +52,12 @@ void workerThread::run(){
 
 void analyzeThread::run(){
 	while(1){
-		Face tmp;
-		if(tmp.faceNormalization(mw->frame)){
-			mw->rect_face=tmp.rect_face;
+		Face* tmp = new Face;
+		if(tmp->faceNormalization(mw->frame)){
+			mw->rect_face=tmp->rect_face;
 			float distance=100;
 			cout<<"=========test==========\n";
-			PCA_testing(mw->f, &tmp, mw->trainCoef, mw->eigenFace, mw->meanFace, distance);
+			PCA_testing(mw->f, tmp, mw->trainCoef, mw->eigenFace, mw->meanFace, distance);
 			cout<<"=========HERE==========\n";
 			if(distance>50){
 				std::cout<<"==========train==========\n";
