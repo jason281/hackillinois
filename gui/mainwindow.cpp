@@ -14,6 +14,9 @@ MainWindow::MainWindow(QWidget* parent) : QMainWindow(parent), ui(new Ui::MainWi
 	connect(ui->stop_button,    SIGNAL(clicked()), video, SLOT(terminate()));
 	connect(ui->capture_button, SIGNAL(clicked()), analyze, SLOT(start()));
 	connect(ui->stop_button,    SIGNAL(clicked()), analyze, SLOT(terminate()));
+	
+	string LandMarkModelName = "shape_predictor_68_face_landmarks.dat";
+	deserialize(model_path.c_str()) >> pose_model;
 }
 
 MainWindow::~MainWindow(){

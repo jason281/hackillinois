@@ -41,6 +41,9 @@ private:
 	Eigen::MatrixXf eigenFace;
 	float*	meanFace;
 	cv::Rect rect_face;
+	
+	dlib::shape_predictor pose_model;//landmark model;
+	
 private slots:
 	void connect_cam();
 };
