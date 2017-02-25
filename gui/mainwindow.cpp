@@ -7,7 +7,9 @@ MainWindow::MainWindow(QWidget* parent) : QMainWindow(parent), ui(new Ui::MainWi
 	video = new workerThread(this);
 	connect(ui->connect_button, SIGNAL(clicked()), this, SLOT(connect_cam()));
 	connect(ui->capture_button, SIGNAL(clicked()), video, SLOT(start()));
-	connect(ui->stop_button,    SIGNAL(clicked()), this, SLOT(ana()));
+	connect(ui->stop_button,    SIGNAL(clicked()), video, SLOT(terminate()));
+	connect(ui->capture_button, SIGNAL(clicked()), analyze, SLOT(start()));
+	connect(ui->stop_button,    SIGNAL(clicked()), analyze, SLOT(terminate()));
 }
 
 MainWindow::~MainWindow(){
@@ -27,16 +29,6 @@ void MainWindow::connect_cam(){
         camera.set( CV_CAP_PROP_FRAME_HEIGHT,480);
     }
 }
-void MainWindow::ana(){
-	imshow(std::string("Origin"), frame);
-	char keypress = waitKey(40);
-	f.faceNormalization(frame);
-	char c[10]="abcd";
-	f.setID(c);
-	f.show("Show");
-	f.save("face.bmp");
-	f.savedata2D("face.txt");
-}
 
 void workerThread::run(){
 	cv::Mat framesmall;
@@ -54,7 +46,14 @@ void workerThread::run(){
 
 void analyzeThread::run(){
 	while(1){
-		
+		Face tmp;
+		tmp.faceNormalization(mw->frame);
+		float distance=-1;
+		PCA_testing(mw->f, &tmp, mw->trainCoef, mw->eigenFace, &mw->meanFace, distance);
+		if(distance<0){
+			mw->f.push_back(tmp);
+			PCA_training(mw->f, mw->trainCoef, mw->eigenFace, &mw->meanFace);
+		}
 		sleep(1);
 	}
 };

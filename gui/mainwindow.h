@@ -6,6 +6,7 @@
 #include <opencv2/opencv.hpp>
 #include <QTimer>
 #include <QDateTime>
+#include <Eigen/Dense>
 #include <vector>
 #include "face.h"
 
@@ -30,9 +31,11 @@ private:
 	workerThread* video;
 	analyzeThread* analyze;
 	std::vector<Face> f;
+	Eigen::MatrixXf trainCoef;
+	Eigen::MatrixXf eigenFace;
+	float	meanFace;
 private slots:
 	void connect_cam();
-	void ana();
 };
 
 class workerThread : public QThread{

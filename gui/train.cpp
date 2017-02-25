@@ -79,7 +79,7 @@ void PCA_training(vector<Face> trainFace, MatrixXf & trainCoef, MatrixXf & eigen
 	delete demeanedFace;
 }
 
-int PCA_testing(vector<Face> trainFace, Face* testFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace){
+int PCA_testing(vector<Face> trainFace, Face* testFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace, float& euclideanDistance_min){
 
 	int TRAINNO = trainFace.size();
 	int coefNo = TRAINNO-1;
@@ -93,7 +93,6 @@ int PCA_testing(vector<Face> trainFace, Face* testFace, MatrixXf & trainCoef, Ma
 	//Calcuate the distance
 	int matchedFace;
 	bool correct = 0;
-	float euclideanDistance_min;
 
 	euclideanDistance_min = 1000000000;
 	for (int j = 0; j < TRAINNO; j++){
@@ -113,7 +112,7 @@ int PCA_testing(vector<Face> trainFace, Face* testFace, MatrixXf & trainCoef, Ma
 		correct = true;
 	}
 
-	cout << "Test face  :\t " << testFace->getID() << "\t" << trainFace[matchedFace].getID() << "\t Distance:\t" << euclideanDistance<<endl;
+	cout << "Test face  :\t " << testFace->getID() << "\t" << trainFace[matchedFace].getID() << "\t Distance:\t" << euclideanDistance_min <<endl;
 
 	return matchedFace;
 }
