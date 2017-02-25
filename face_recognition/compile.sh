@@ -1,0 +1,1 @@
+g++ -lopencv_highgui -lopencv_imgproc -lopencv_core -lopencv_objdetect -Wall -o main main.cpp face.cpp preprocessFace.cpp -lwiringPi -I/usr/include/python2.7/ -I/home/pi/Desktop/hackathon/eigen/ -lpython2.7 -w -pthread -std=c++11
