@@ -51,13 +51,29 @@ void workerThread::run(){
 };
 
 void analyzeThread::run(){
+	int count=0;
 	while(1){
 		Face* tmp = new Face;
 		if(tmp->faceNormalization(mw->frame)){
 			mw->rect_face=tmp->rect_face;
+
+			cv_image<bgr_pixel> cimg(mw->frame);
+ 			dlib::rectangle face(
+ 				tmp->rect_face.x,
+ 				tmp->rect_face.y,
+ 				tmp->rect_face.x + tmp->rect_face.width,
+ 				tmp->rect_face.y + tmp->rect_face.height);
+ 			full_object_detection shape;
+ 			shape = pose_model(cimg, face);
+
 			float distance=3000;
 			PCA_testing(mw->f, tmp, mw->trainCoef, mw->eigenFace, mw->meanFace, distance);
-			if(distance>=3000){
+			std::cout<<count<<":\t"<<distance<<std::endl;
+			if(distance>=1000)
+				count++;
+			else
+				count = 0;
+			if(count>10){
 				std::cout<<"===========New User========\n";
 				mw->f.push_back(tmp);
 				mw->trainCoef = Eigen::MatrixXf(mw->f.size() - 1, mw->f.size() );
