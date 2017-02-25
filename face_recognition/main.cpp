@@ -275,7 +275,7 @@ int main()
 	// 	printf("\nafter detection time=%d\ncorrect=%d %d",time_det,frame_det*100/frame_process,frame_process);
 
 		//testing the functions of face recognition
-		int TRAINNO = 7;
+		int TRAINNO = 6;
 		Face * trainFace = new Face[TRAINNO];
 		for(int i=0; i<TRAINNO; i++){
 			string filename = "./trainingFaces/" + std::to_string(i) + ".jpg";
