@@ -113,7 +113,7 @@ int PCA_testing(vector<Face> trainFace, Face* testFace, MatrixXf & trainCoef, Ma
 		correct = true;
 	}
 
-	cout << "Test face  :\t " << testFace->getID() << "    " << trainFace[matchedFace].getID() << endl;
+	cout << "Test face  :\t " << testFace->getID() << "\t" << trainFace[matchedFace].getID() << "\t Distance:\t" << euclideanDistance<<endl;
 
 	return matchedFace;
 }

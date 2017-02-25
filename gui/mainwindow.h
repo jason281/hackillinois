@@ -6,6 +6,7 @@
 #include <opencv2/opencv.hpp>
 #include <QTimer>
 #include <QDateTime>
+#include <vector>
 #include "face.h"
 
 namespace Ui{
@@ -28,7 +29,7 @@ private:
 	cv::Mat frame;
 	workerThread* video;
 	analyzeThread* analyze;
-	Face f;
+	std::vector<Face> f;
 private slots:
 	void connect_cam();
 	void ana();
