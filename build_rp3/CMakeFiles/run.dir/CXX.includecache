@@ -1149,6 +1149,8 @@ iostream
 -
 string.h
 -
+vector
+-
 
 /home/pi/Desktop/hackillinois/gui/ui_mainwindow.h
 QtCore/QVariant

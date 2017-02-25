@@ -51,3 +51,10 @@ void workerThread::run(){
 		usleep(16667);
 	}
 };
+
+void analyzeThread::run(){
+	while(1){
+		
+		sleep(1);
+	}
+};

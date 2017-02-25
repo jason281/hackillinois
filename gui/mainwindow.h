@@ -12,10 +12,12 @@ namespace Ui{
 	class MainWindow;
 }
 class workerThread;
+class analyzeThread;
 
 class MainWindow : public QMainWindow{
 	Q_OBJECT
 	friend class workerThread;
+	friend class analyzeThread;
 public:
 	explicit MainWindow(QWidget* parent = 0);
 	~MainWindow();
@@ -25,6 +27,7 @@ private:
 	cv::VideoCapture camera;
 	cv::Mat frame;
 	workerThread* video;
+	analyzeThread* analyze;
 	Face f;
 private slots:
 	void connect_cam();
@@ -39,5 +42,12 @@ public:
 private:
 	MainWindow* mw;
 };
-
+class analyzeThread : public QThread{
+	Q_OBJECT
+public:
+	analyzeThread(MainWindow* mw_):mw(mw_){};
+	void run();
+private:
+	MainWindow* mw;
+};
 #endif

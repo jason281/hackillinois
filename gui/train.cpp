@@ -2,11 +2,13 @@
 #include <Eigen/Dense>
 #include <iostream>
 #include <string.h>
+#include <vector>
 
 using namespace std;
 using namespace Eigen;
 
-void PCA_training(int TRAINNO, Face* trainFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace){
+void PCA_training(vector<Face> trainFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace){
+	int TRAINNO=trainFace.size();
 	//dimension of trainCoef is (TRAINNO-1,TRAINNO), dimension of trainCoef is (TRAINNO-1,TESTNO)
 	for (int i = 0; i < HEIGHT*WIDTH; i++){
 		meanFace[i] = 0;
@@ -77,8 +79,9 @@ void PCA_training(int TRAINNO, Face* trainFace, MatrixXf & trainCoef, MatrixXf &
 	delete demeanedFace;
 }
 
-int PCA_testing(int TRAINNO, Face* trainFace, Face* testFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace){
+int PCA_testing(vector<Face> trainFace, Face* testFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace){
 
+	int TRAINNO = trainFace.size();
 	int coefNo = TRAINNO-1;
 	MatrixXf testingset(WIDTH*HEIGHT, 1);
 	for (int j = 0; j < HEIGHT * WIDTH; j++){
