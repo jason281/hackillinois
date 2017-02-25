@@ -6,6 +6,7 @@
 #include <opencv2/opencv.hpp>
 #include <QTimer>
 #include <QDateTime>
+#include "face.h"
 
 namespace Ui{
 	class MainWindow;
@@ -24,6 +25,7 @@ private:
 	cv::VideoCapture camera;
 	cv::Mat frame;
 	workerThread* video;
+  Face f;
 private slots:
 	void connect_cam();
 };
