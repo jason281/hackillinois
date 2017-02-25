@@ -1077,12 +1077,8 @@ face.h
 /home/pi/Desktop/hackillinois/gui/face.h
 
 /home/pi/Desktop/hackillinois/gui/preprocessFace.cpp
-detectObject.h
-/home/pi/Desktop/hackillinois/gui/detectObject.h
 preprocessFace.h
 /home/pi/Desktop/hackillinois/gui/preprocessFace.h
-ImageUtils.h
-/home/pi/Desktop/hackillinois/gui/ImageUtils.h
 
 /home/pi/Desktop/hackillinois/gui/preprocessFace.h
 stdio.h

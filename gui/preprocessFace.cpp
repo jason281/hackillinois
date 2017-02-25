@@ -21,10 +21,8 @@ const double FACE_ELLIPSE_W = 0.50;         // Should be atleast 0.5
 const double FACE_ELLIPSE_H = 0.80;         // Controls how tall the face mask is.
 
 
-#include "detectObject.h"       // Easily detect faces or eyes (using LBP or Haar Cascades).
 #include "preprocessFace.h"     // Easily preprocess face images, for face recognition.
 
-#include "ImageUtils.h"      // Shervin's handy OpenCV utility functions.
 
 /*
 // Remove the outer border of the face, so it doesn't include the background & hair.
