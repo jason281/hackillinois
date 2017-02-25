@@ -5,6 +5,7 @@
 #include<wiringPi.h>
 #include<string.h>
 #include<stdlib.h>
+#include <sstream>
 //#include<cv.h>
 #include "opencv2/objdetect/objdetect.hpp"
 #include "opencv2/highgui/highgui.hpp"
@@ -92,7 +93,7 @@ void PCA_training(int TRAINNO, Face* trainFace, MatrixXf & trainCoef, MatrixXf &
 	//	cout << "The eigenvectors of covFace are:\n" << eigenVector(i, 0) << endl;
 	//}
 
-	trainCoef = (eigenVector.transpose() * trainingset).block(0, 0, TRAINNO - 1, TRAINNO);;
+	trainCoef = eigenVector.transpose() * trainingset;
 	eigenFace = eigenVector;
 	delete demeanedFace;
 }
@@ -100,12 +101,15 @@ void PCA_training(int TRAINNO, Face* trainFace, MatrixXf & trainCoef, MatrixXf &
 int PCA_testing(int TRAINNO, Face* trainFace, Face* testFace, MatrixXf & trainCoef, MatrixXf & eigenFace, float* meanFace){
 
 	int coefNo = TRAINNO-1;
-	MatrixXf testingset(WIDTH*HEIGHT, 1);
+	VectorXf testingset(WIDTH*HEIGHT);
+	int counter = 0;
 	for (int j = 0; j < HEIGHT * WIDTH; j++){
-		testingset(j, 1) = testFace->getdata()[j] - meanFace[j];
+		counter++;
+		cout << "testing" <<counter << endl;
+		testingset(j) = testFace->getdata()[j] - meanFace[j];
 	}
-	MatrixXf testCoef(coefNo, 1);
-	testCoef = (eigenFace.transpose() * testingset).block(0, 0, TRAINNO - 1, 1);;
+	VectorXf testCoef(coefNo);
+	testCoef = eigenFace.transpose() * testingset;
 
 	//Calcuate the distance
 	int matchedFace;
@@ -292,6 +296,7 @@ int main()
 			trainFace[i].faceNormalization(face);
 			filename = "./PCA/" + std::to_string(i) + ".jpg";
 			trainFace[i].save(filename);
+			trainFace[i].setID((std::to_string(i)).c_str());
 		}
 
 		Face * testFace = new Face;
@@ -308,6 +313,7 @@ int main()
 		testFace->faceNormalization(face);
 		string filename = "./PCA/test.jpg";
 		testFace->save(filename);
+		testFace->setID("0");
 
 		// PCA + Euclidean Distance Calculation
 		//Get the low-dimenstional face images
