@@ -41,7 +41,7 @@ void workerThread::run(){
 		}
 		if(mw->rect_face.x!=0)
  		{
- 			cv::rectangle(mw->frame,cv::Point(mw->rect_face.x,mw->rect_face.y),cv::Point(mw->rect_face.x+mw->rect_face.width,mw->rect_face.y+mw->rect_face.height));
+ 			cv::rectangle(mw->frame,cv::Point(mw->rect_face.x,mw->rect_face.y),cv::Point(mw->rect_face.x+mw->rect_face.width,mw->rect_face.y+mw->rect_face.height), cvScalar(255,64,64), 1,8);
  		}
 		cv::resize(mw->frame,framesmall,cv::Size(640,480),CV_INTER_AREA);
 		cv::cvtColor(framesmall,framesmall,cv::COLOR_BGR2RGB);
