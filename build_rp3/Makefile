@@ -136,6 +136,33 @@ run_automoc/fast:
 	$(MAKE) -f CMakeFiles/run_automoc.dir/build.make CMakeFiles/run_automoc.dir/build
 .PHONY : run_automoc/fast
 
+face.o: face.cpp.o
+
+.PHONY : face.o
+
+# target to build an object file
+face.cpp.o:
+	$(MAKE) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/face.cpp.o
+.PHONY : face.cpp.o
+
+face.i: face.cpp.i
+
+.PHONY : face.i
+
+# target to preprocess a source file
+face.cpp.i:
+	$(MAKE) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/face.cpp.i
+.PHONY : face.cpp.i
+
+face.s: face.cpp.s
+
+.PHONY : face.s
+
+# target to generate assembly for a file
+face.cpp.s:
+	$(MAKE) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/face.cpp.s
+.PHONY : face.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -190,6 +217,33 @@ mainwindow.cpp.s:
 	$(MAKE) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
+preprocessFace.o: preprocessFace.cpp.o
+
+.PHONY : preprocessFace.o
+
+# target to build an object file
+preprocessFace.cpp.o:
+	$(MAKE) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/preprocessFace.cpp.o
+.PHONY : preprocessFace.cpp.o
+
+preprocessFace.i: preprocessFace.cpp.i
+
+.PHONY : preprocessFace.i
+
+# target to preprocess a source file
+preprocessFace.cpp.i:
+	$(MAKE) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/preprocessFace.cpp.i
+.PHONY : preprocessFace.cpp.i
+
+preprocessFace.s: preprocessFace.cpp.s
+
+.PHONY : preprocessFace.s
+
+# target to generate assembly for a file
+preprocessFace.cpp.s:
+	$(MAKE) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/preprocessFace.cpp.s
+.PHONY : preprocessFace.cpp.s
+
 run_automoc.o: run_automoc.cpp.o
 
 .PHONY : run_automoc.o
@@ -227,12 +281,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... run"
 	@echo "... run_automoc"
+	@echo "... face.o"
+	@echo "... face.i"
+	@echo "... face.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
 	@echo "... mainwindow.o"
 	@echo "... mainwindow.i"
 	@echo "... mainwindow.s"
+	@echo "... preprocessFace.o"
+	@echo "... preprocessFace.i"
+	@echo "... preprocessFace.s"
 	@echo "... run_automoc.o"
 	@echo "... run_automoc.i"
 	@echo "... run_automoc.s"

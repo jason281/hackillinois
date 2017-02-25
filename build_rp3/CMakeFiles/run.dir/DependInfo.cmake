@@ -4,8 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/pi/Desktop/hackillinois/gui/face.cpp" "/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles/run.dir/face.cpp.o"
   "/home/pi/Desktop/hackillinois/gui/main.cpp" "/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles/run.dir/main.cpp.o"
   "/home/pi/Desktop/hackillinois/gui/mainwindow.cpp" "/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles/run.dir/mainwindow.cpp.o"
+  "/home/pi/Desktop/hackillinois/gui/preprocessFace.cpp" "/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles/run.dir/preprocessFace.cpp.o"
   "/home/pi/Desktop/hackillinois/build_rp3/run_automoc.cpp" "/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles/run.dir/run_automoc.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
@@ -23,6 +25,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "."
   "/home/pi/Desktop/hackillinois/gui"
   "/usr/include/opencv"
+  "/home/pi/Desktop/hackillinois/gui/../eigen"
   "/usr/include/arm-linux-gnueabihf/qt5"
   "/usr/include/arm-linux-gnueabihf/qt5/QtWidgets"
   "/usr/include/arm-linux-gnueabihf/qt5/QtGui"

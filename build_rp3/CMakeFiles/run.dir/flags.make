@@ -6,5 +6,5 @@ CXX_FLAGS = -fPIE   -std=c++11
 
 CXX_DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB
 
-CXX_INCLUDES = -I/home/pi/Desktop/hackillinois/build_rp3 -I/home/pi/Desktop/hackillinois/gui -I/usr/include/opencv -isystem /usr/include/arm-linux-gnueabihf/qt5 -isystem /usr/include/arm-linux-gnueabihf/qt5/QtWidgets -isystem /usr/include/arm-linux-gnueabihf/qt5/QtGui -isystem /usr/include/arm-linux-gnueabihf/qt5/QtCore -isystem /usr/lib/arm-linux-gnueabihf/qt5/mkspecs/linux-g++ 
+CXX_INCLUDES = -I/home/pi/Desktop/hackillinois/build_rp3 -I/home/pi/Desktop/hackillinois/gui -I/usr/include/opencv -I/home/pi/Desktop/hackillinois/gui/../eigen -isystem /usr/include/arm-linux-gnueabihf/qt5 -isystem /usr/include/arm-linux-gnueabihf/qt5/QtWidgets -isystem /usr/include/arm-linux-gnueabihf/qt5/QtGui -isystem /usr/include/arm-linux-gnueabihf/qt5/QtCore -isystem /usr/lib/arm-linux-gnueabihf/qt5/mkspecs/linux-g++ 
 

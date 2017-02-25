@@ -105,9 +105,57 @@ CMakeFiles/run.dir/mainwindow.cpp.o.provides: CMakeFiles/run.dir/mainwindow.cpp.
 CMakeFiles/run.dir/mainwindow.cpp.o.provides.build: CMakeFiles/run.dir/mainwindow.cpp.o
 
 
+CMakeFiles/run.dir/face.cpp.o: CMakeFiles/run.dir/flags.make
+CMakeFiles/run.dir/face.cpp.o: /home/pi/Desktop/hackillinois/gui/face.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/run.dir/face.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run.dir/face.cpp.o -c /home/pi/Desktop/hackillinois/gui/face.cpp
+
+CMakeFiles/run.dir/face.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/face.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pi/Desktop/hackillinois/gui/face.cpp > CMakeFiles/run.dir/face.cpp.i
+
+CMakeFiles/run.dir/face.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/face.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pi/Desktop/hackillinois/gui/face.cpp -o CMakeFiles/run.dir/face.cpp.s
+
+CMakeFiles/run.dir/face.cpp.o.requires:
+
+.PHONY : CMakeFiles/run.dir/face.cpp.o.requires
+
+CMakeFiles/run.dir/face.cpp.o.provides: CMakeFiles/run.dir/face.cpp.o.requires
+	$(MAKE) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/face.cpp.o.provides.build
+.PHONY : CMakeFiles/run.dir/face.cpp.o.provides
+
+CMakeFiles/run.dir/face.cpp.o.provides.build: CMakeFiles/run.dir/face.cpp.o
+
+
+CMakeFiles/run.dir/preprocessFace.cpp.o: CMakeFiles/run.dir/flags.make
+CMakeFiles/run.dir/preprocessFace.cpp.o: /home/pi/Desktop/hackillinois/gui/preprocessFace.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/run.dir/preprocessFace.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run.dir/preprocessFace.cpp.o -c /home/pi/Desktop/hackillinois/gui/preprocessFace.cpp
+
+CMakeFiles/run.dir/preprocessFace.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/run.dir/preprocessFace.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pi/Desktop/hackillinois/gui/preprocessFace.cpp > CMakeFiles/run.dir/preprocessFace.cpp.i
+
+CMakeFiles/run.dir/preprocessFace.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/run.dir/preprocessFace.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pi/Desktop/hackillinois/gui/preprocessFace.cpp -o CMakeFiles/run.dir/preprocessFace.cpp.s
+
+CMakeFiles/run.dir/preprocessFace.cpp.o.requires:
+
+.PHONY : CMakeFiles/run.dir/preprocessFace.cpp.o.requires
+
+CMakeFiles/run.dir/preprocessFace.cpp.o.provides: CMakeFiles/run.dir/preprocessFace.cpp.o.requires
+	$(MAKE) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/preprocessFace.cpp.o.provides.build
+.PHONY : CMakeFiles/run.dir/preprocessFace.cpp.o.provides
+
+CMakeFiles/run.dir/preprocessFace.cpp.o.provides.build: CMakeFiles/run.dir/preprocessFace.cpp.o
+
+
 CMakeFiles/run.dir/run_automoc.cpp.o: CMakeFiles/run.dir/flags.make
 CMakeFiles/run.dir/run_automoc.cpp.o: run_automoc.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/run.dir/run_automoc.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/run.dir/run_automoc.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/run.dir/run_automoc.cpp.o -c /home/pi/Desktop/hackillinois/build_rp3/run_automoc.cpp
 
 CMakeFiles/run.dir/run_automoc.cpp.i: cmake_force
@@ -133,6 +181,8 @@ CMakeFiles/run.dir/run_automoc.cpp.o.provides.build: CMakeFiles/run.dir/run_auto
 run_OBJECTS = \
 "CMakeFiles/run.dir/main.cpp.o" \
 "CMakeFiles/run.dir/mainwindow.cpp.o" \
+"CMakeFiles/run.dir/face.cpp.o" \
+"CMakeFiles/run.dir/preprocessFace.cpp.o" \
 "CMakeFiles/run.dir/run_automoc.cpp.o"
 
 # External object files for target run
@@ -140,6 +190,8 @@ run_EXTERNAL_OBJECTS =
 
 run: CMakeFiles/run.dir/main.cpp.o
 run: CMakeFiles/run.dir/mainwindow.cpp.o
+run: CMakeFiles/run.dir/face.cpp.o
+run: CMakeFiles/run.dir/preprocessFace.cpp.o
 run: CMakeFiles/run.dir/run_automoc.cpp.o
 run: CMakeFiles/run.dir/build.make
 run: /usr/lib/arm-linux-gnueabihf/libQt5Widgets.so.5.3.2
@@ -164,7 +216,7 @@ run: /usr/lib/arm-linux-gnueabihf/libopencv_imgproc.so.2.4.9
 run: /usr/lib/arm-linux-gnueabihf/libopencv_flann.so.2.4.9
 run: /usr/lib/arm-linux-gnueabihf/libopencv_core.so.2.4.9
 run: CMakeFiles/run.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable run"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable run"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/run.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -174,6 +226,8 @@ CMakeFiles/run.dir/build: run
 
 CMakeFiles/run.dir/requires: CMakeFiles/run.dir/main.cpp.o.requires
 CMakeFiles/run.dir/requires: CMakeFiles/run.dir/mainwindow.cpp.o.requires
+CMakeFiles/run.dir/requires: CMakeFiles/run.dir/face.cpp.o.requires
+CMakeFiles/run.dir/requires: CMakeFiles/run.dir/preprocessFace.cpp.o.requires
 CMakeFiles/run.dir/requires: CMakeFiles/run.dir/run_automoc.cpp.o.requires
 
 .PHONY : CMakeFiles/run.dir/requires
