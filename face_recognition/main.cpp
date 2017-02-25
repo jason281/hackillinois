@@ -138,155 +138,183 @@ int PCA_testing(int TRAINNO, Face* trainFace, Face* testFace, MatrixXf & trainCo
 
 int main()
 {
-	//************************setting of camera*********************************************************
-	//**choose the camera module(-1) or the webcam(0)												  **
-	//**if can't switch between cammodule/webcam    use the folling command:sudo modprobe bcm2835-v4l2**
-	//**************************************************************************************************
-	VideoCapture cap(-1);			
-	cap.set(CV_CAP_PROP_FPS,30);
-	cap.set(CV_CAP_PROP_FRAME_WIDTH,320);
-	cap.set(CV_CAP_PROP_FRAME_HEIGHT,240);
-	if(!cap.isOpened())
-		printf("Cannot open the video file\n");
+	// //************************setting of camera*********************************************************
+	// //**choose the camera module(-1) or the webcam(0)												  **
+	// //**if can't switch between cammodule/webcam    use the folling command:sudo modprobe bcm2835-v4l2**
+	// //**************************************************************************************************
+	// VideoCapture cap(-1);			
+	// cap.set(CV_CAP_PROP_FPS,30);
+	// cap.set(CV_CAP_PROP_FRAME_WIDTH,320);
+	// cap.set(CV_CAP_PROP_FRAME_HEIGHT,240);
+	// if(!cap.isOpened())
+	// 	printf("Cannot open the video file\n");
 	
-	//
- 	vector<Rect> faces1;
-	int oldX,oldY;
-	int maxW=0;// using the widest width to be the face.
-	int maxH=0;
-	int xFace;//center of face.
-	int yFace;
-	Mat image1;
-	Mat image_roi;
-	Mat frame;
-	CvRect Rect;
-	int xFace_OLD=0,yFace_OLD=0;
+	// //
+ // 	vector<Rect> faces1;
+	// int oldX,oldY;
+	// int maxW=0;// using the widest width to be the face.
+	// int maxH=0;
+	// int xFace;//center of face.
+	// int yFace;
+	// Mat image1;
+	// Mat image_roi;
+	// Mat frame;
+	// CvRect Rect;
+	// int xFace_OLD=0,yFace_OLD=0;
 	
-	int roix,roiy,roiw,roih;
+	// int roix,roiy,roiw,roih;
 
 	
-	//time duration accounting.
-	int time_s=0;				//start
-	int time_e=0;				//end
-	int time_no_show=0;		
-	int time_det=0;
+	// //time duration accounting.
+	// int time_s=0;				//start
+	// int time_e=0;				//end
+	// int time_no_show=0;		
+	// int time_det=0;
 	
-	//counter
-	int frame_det=0,frame_process=0;
-	
-	
-	//flag
-	int The_Last_Time_Found=0;
-	
-	//cascader
-  	CascadeClassifier face_cascade1; 
-	face_cascade1.load("haarcascade_frontalface_alt.xml");
-	//face_cascade1.load("lbpcascade_frontalface.xml"); //choice of model.
+	// //counter
+	// int frame_det=0,frame_process=0;
 	
 	
-	//camera module specific variable.
-	cv::Mat gray;
-	vector<string> codes;
-	Mat corners;	
-	bool bSuccess1;
-	for(;;)
-	{
+	// //flag
+	// int The_Last_Time_Found=0;
+	
+	// //cascader
+ //  	CascadeClassifier face_cascade1; 
+	// face_cascade1.load("haarcascade_frontalface_alt.xml");
+	// //face_cascade1.load("lbpcascade_frontalface.xml"); //choice of model.
+	
+	
+	// //camera module specific variable.
+	// cv::Mat gray;
+	// vector<string> codes;
+	// Mat corners;	
+	// bool bSuccess1;
+	// for(;;)
+	// {
 
-		//Time Counting Start
-		time_s=micros();
+	// 	//Time Counting Start
+	// 	time_s=micros();
 		
-		//Input Frame
-		bSuccess1=cap.read(frame);
-		if(!bSuccess1)
-			cout<<"cannot read the frame from video file"<< endl;			
+	// 	//Input Frame
+	// 	bSuccess1=cap.read(frame);
+	// 	if(!bSuccess1)
+	// 		cout<<"cannot read the frame from video file"<< endl;			
 		
-		//Setting ROI
-		if(The_Last_Time_Found)
-		{
-			roix=xFace-MIN_((maxW>>1),xFace);
-			roiy=yFace-MIN_((maxH>>1),yFace);
-			roiw=MIN_((maxW>>1)+maxW,Width-xFace)-1+MIN_((maxW>>1),xFace);
-			roih=MIN_((maxH>>1)+maxH,Height-yFace)-1+MIN_((maxH>>1),yFace);
-			image_roi=frame(cvRect(roix,roiy,roiw,roih));				
+	// 	//Setting ROI
+	// 	if(The_Last_Time_Found)
+	// 	{
+	// 		roix=xFace-MIN_((maxW>>1),xFace);
+	// 		roiy=yFace-MIN_((maxH>>1),yFace);
+	// 		roiw=MIN_((maxW>>1)+maxW,Width-xFace)-1+MIN_((maxW>>1),xFace);
+	// 		roih=MIN_((maxH>>1)+maxH,Height-yFace)-1+MIN_((maxH>>1),yFace);
+	// 		image_roi=frame(cvRect(roix,roiy,roiw,roih));				
 			
-		}
-		//////////////////////////////Before Optimization
-		//Rect=cvRect(xFace-MIN_(maxW,xFace),yFace-MIN_(maxH,yFace),MIN_(maxW,xFace)+(xFace>>1),MIN_(maxH,yFace)+(yFace>>1));
-		//image_roi=image_roi(Rect);
+	// 	}
+	// 	//////////////////////////////Before Optimization
+	// 	//Rect=cvRect(xFace-MIN_(maxW,xFace),yFace-MIN_(maxH,yFace),MIN_(maxW,xFace)+(xFace>>1),MIN_(maxH,yFace)+(yFace>>1));
+	// 	//image_roi=image_roi(Rect);
 		
-		//Classification.
-		face_cascade1.detectMultiScale((The_Last_Time_Found)?image_roi:frame,faces1,1.1,1,0|CV_HAAR_SCALE_IMAGE,cv::Size(50,50),cv::Size(100,100));		//set the size of the target face 
+	// 	//Classification.
+	// 	face_cascade1.detectMultiScale((The_Last_Time_Found)?image_roi:frame,faces1,1.1,1,0|CV_HAAR_SCALE_IMAGE,cv::Size(50,50),cv::Size(100,100));		//set the size of the target face 
 		
 		
-		//Figuring out the target face, which is the biggest.
-		maxW=0;
-		maxH=0;
-		for (int i =0;i<faces1.size();i++)
-		{		
-			if (faces1[i].width>maxW)
-			{
-				maxW=faces1[i].width;
-				maxH=faces1[i].height;
-				xFace=faces1[i].x;
-				yFace=faces1[i].y;
-			}
-		}
+	// 	//Figuring out the target face, which is the biggest.
+	// 	maxW=0;
+	// 	maxH=0;
+	// 	for (int i =0;i<faces1.size();i++)
+	// 	{		
+	// 		if (faces1[i].width>maxW)
+	// 		{
+	// 			maxW=faces1[i].width;
+	// 			maxH=faces1[i].height;
+	// 			xFace=faces1[i].x;
+	// 			yFace=faces1[i].y;
+	// 		}
+	// 	}
 	
 
-		findDataMatrix(gray, codes, corners);
+	// 	findDataMatrix(gray, codes, corners);
 		
-		if(maxW!=0) //Face is found.
-		{	
-			frame_det++;
-			if(The_Last_Time_Found){ 
-				xFace+=roix;
-				yFace+=roiy;
-				//xFace=(xFace+xFace_OLD)>>1;//moving with 2.
-				//yFace=(yFace+yFace_OLD)>>1;
-			}
-			//time_e=micros();
-			//time_no_show+=(time_e-time_s)/1000;
+	// 	if(maxW!=0) //Face is found.
+	// 	{	
+	// 		frame_det++;
+	// 		if(The_Last_Time_Found){ 
+	// 			xFace+=roix;
+	// 			yFace+=roiy;
+	// 			//xFace=(xFace+xFace_OLD)>>1;//moving with 2.
+	// 			//yFace=(yFace+yFace_OLD)>>1;
+	// 		}
+	// 		//time_e=micros();
+	// 		//time_no_show+=(time_e-time_s)/1000;
 				
-			Rect=cvRect(xFace,yFace,maxW,maxH);
-			image_roi=image_roi(Rect);
-			Point leftEye,rightEye;
-			detectAndRecognize(image_roi,leftEye,rightEye);
-			cout<<a->x<<" "<<a.y<<","<<b.x<<" "<<b.y<<endl;
+	// 		Rect=cvRect(xFace,yFace,maxW,maxH);
+	// 		image_roi=image_roi(Rect);
+	// 		Point leftEye,rightEye;
+	// 		detectAndRecognize(image_roi,leftEye,rightEye);
+	// 		cout<<a->x<<" "<<a.y<<","<<b.x<<" "<<b.y<<endl;
 
 
- 			(The_Last_Time_Found)?rectangle( frame, Point(xFace,yFace),Point(xFace+maxW,yFace+maxH), cvScalar(255,64,64), 1,8 ):rectangle( frame, Point(xFace,yFace),Point(xFace+maxW,yFace+maxH), cvScalar(0,255,255), 1,8 );
+ // 			(The_Last_Time_Found)?rectangle( frame, Point(xFace,yFace),Point(xFace+maxW,yFace+maxH), cvScalar(255,64,64), 1,8 ):rectangle( frame, Point(xFace,yFace),Point(xFace+maxW,yFace+maxH), cvScalar(0,255,255), 1,8 );
 			
-			xFace_OLD=xFace;
-			yFace_OLD=yFace;
-			The_Last_Time_Found=1;
+	// 		xFace_OLD=xFace;
+	// 		yFace_OLD=yFace;
+	// 		The_Last_Time_Found=1;
 
 			
-		}else{
-			The_Last_Time_Found=0;
+	// 	}else{
+	// 		The_Last_Time_Found=0;
+	// 	}
+		
+		
+			
+	// 	cv::imshow("test",frame);	
+	// 	waitKey(2);								
+	// 	time_e=micros();
+	// 	time_det+=(time_e-time_s)/1000.0;
+	// 	//delay N millis, usually long enough to display and capture input
+	// 	printf("\nafter detection time=%d\ncorrect=%d %d",time_det,frame_det*100/frame_process,frame_process);
+
+		//testing the functions of face recognition
+		int TRAINNO = 10;
+		Face * trainFace = new Face[TRAINNO];
+		for(int i=0; i<TRAINNO; i++){
+			string filename = "./trainingFaces/" + itoa(i) + ".jpg";
+			//open an image and load it to the Mat inputFace
+			try {   // Surround the OpenCV call by a try/catch block so we can give a useful error message!
+				 Mat face = imread(filename, CV_LOAD_IMAGE_COLOR);   // Read the file
+				 trainFace[i].faceNormalization(face);
+			}
+			catch (cv::Exception &e) {}
+			if (!inputFace.data){                              // Check for invalid input
+				cout << "Could not open or find the image" << endl;
+				exit(1);
+			}
 		}
-		
-		
-			
-		cv::imshow("test",frame);	
-		waitKey(2);								
-		time_e=micros();
-		time_det+=(time_e-time_s)/1000.0;
-		//delay N millis, usually long enough to display and capture input
-		printf("\nafter detection time=%d\ncorrect=%d %d",time_det,frame_det*100/frame_process,frame_process);
 
-		int TRAINNO = 20;
-		int TESTNO = 20;
+		Face * testFace = new Face;
+		try {   // Surround the OpenCV call by a try/catch block so we can give a useful error message!
+			 string filename = "./testingFaces/0.jpg";
+			 Mat face = imread(filename, CV_LOAD_IMAGE_COLOR);   // Read the file
+			 testFace->faceNormalization(face);
+		}
+		catch (cv::Exception &e) {}
+		if (!inputFace.data){                              // Check for invalid input
+			cout << "Could not open or find the image" << endl;
+			exit(1);
+		}
 
 		// PCA + Euclidean Distance Calculation
-		float accuracy;
 		//Get the low-dimenstional face images
-		MatrixXf *trainCoef = new MatrixXf(TRAINNO - 1 - i, TRAINNO);
-		MatrixXf *testCoef = new MatrixXf(TRAINNO - 1 - i, TESTNO);
-		FR_onlyPCA(TRAINNO, TESTNO, trainFace, testFace, i, true, trainCoef, testCoef);
-		accuracy[i] = FR_euclideanDistance(TRAINNO, TESTNO,trainFace, testFace, trainCoef, testCoef);
-		delete trainCoef, testCoef;
+		MatrixXf trainCoef(TRAINNO - 1 - i, TRAINNO);
+		MatrixXf eigenFace(WIDTH*HEIGHT, TRAINNO - 1);
+		float* meanFace = new float[WIDTH*HEIGHT];
+		PCA_training(TRAINNO, trainFace, trainCoef, eigenFace, meanFace);
+		int match = PCA_training(TRAINNO, trainFace, testFace, trainCoef, eigenFace, meanFace);
 
-		cout << "Accuracy: " << accuracy << endl;
+		cout << match << endl;
+
+		delete [] trainFace, meanFace;
+		delete testFace;
 
 	}//while			 		 
 	
