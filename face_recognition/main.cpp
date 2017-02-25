@@ -92,7 +92,7 @@ void PCA_training(int TRAINNO, Face* trainFace, MatrixXf & trainCoef, MatrixXf &
 	//	cout << "The eigenvectors of covFace are:\n" << eigenVector(i, 0) << endl;
 	//}
 
-	trainCoef = eigenVector.transpose() * trainingset;
+	trainCoef = (eigenVector.transpose() * trainingset).block(0, 0, TRAINNO - 1, TRAINNO);;
 	eigenFace = eigenVector;
 	delete demeanedFace;
 }
@@ -105,7 +105,7 @@ int PCA_testing(int TRAINNO, Face* trainFace, Face* testFace, MatrixXf & trainCo
 		testingset(j, 1) = testFace->getdata()[j] - meanFace[j];
 	}
 	MatrixXf testCoef(coefNo, 1);
-	testCoef = (eigenFace.transpose() * testingset);
+	testCoef = (eigenFace.transpose() * testingset).block(0, 0, TRAINNO - 1, 1);;
 
 	//Calcuate the distance
 	int matchedFace;
