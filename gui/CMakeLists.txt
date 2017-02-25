@@ -16,9 +16,9 @@ find_package(Qt5Core)
 
 find_package( OpenCV REQUIRED )
 
-find_package( Eigen3 REQUIRED )
 
 ADD_EXECUTABLE(run main.cpp mainwindow.cpp face.cpp)
 TARGET_LINK_LIBRARIES(run Qt5::Widgets)
 TARGET_LINK_LIBRARIES(run Qt5::Core)
 TARGET_LINK_LIBRARIES(run ${OpenCV_LIBS} )
+INCLUDE_DIRECTORIES("../eigen")
