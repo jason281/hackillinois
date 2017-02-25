@@ -1,0 +1,4 @@
+/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles/run.dir
+/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles/run_automoc.dir
