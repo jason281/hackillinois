@@ -39,9 +39,9 @@ void workerThread::run(){
 			mw->statusBar()->showMessage("camera error");
 			return;
 		}
-		if(rect_face.x!=0)
+		if(mw->rect_face.x!=0)
  		{
- 			rectangle(mw->frame,cv::Point(rect_face.x,rect_face.y),cv::Point(rect_face.x+rect_face.width,rect_face.y+rect_face.height));
+ 			cv::rectangle(mw->frame,cv::Point(mw->rect_face.x,mw->rect_face.y),cv::Point(mw->rect_face.x+mw->rect_face.width,mw->rect_face.y+mw->rect_face.height));
  		}
 		cv::resize(mw->frame,framesmall,cv::Size(640,480),CV_INTER_AREA);
 		cv::cvtColor(framesmall,framesmall,cv::COLOR_BGR2RGB);
@@ -54,7 +54,7 @@ void analyzeThread::run(){
 	while(1){
 		Face tmp;
 		if(tmp.faceNormalization(mw->frame)){
-			rect_face=new Rect(0,0);
+			mw->rect_face=new cv::Rect(0,0);
 			float distance=100;
 			cout<<"=========test==========\n";
 			PCA_testing(mw->f, &tmp, mw->trainCoef, mw->eigenFace, mw->meanFace, distance);
