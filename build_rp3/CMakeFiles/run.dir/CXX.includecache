@@ -1028,6 +1028,50 @@ Eigen/src/Core/util/MKL_support.h
 
 /home/pi/Desktop/hackillinois/gui/../eigen/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 
+/home/pi/Desktop/hackillinois/gui/ImageUtils.h
+opencv2/opencv.hpp
+-
+stdio.h
+-
+conio.h
+-
+direct.h
+-
+stdio.h
+-
+termios.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+vector
+-
+string
+-
+iostream
+-
+
+/home/pi/Desktop/hackillinois/gui/ImageUtils_0.7.cpp
+ImageUtils.h
+/home/pi/Desktop/hackillinois/gui/ImageUtils.h
+
+/home/pi/Desktop/hackillinois/gui/detectObject.cpp
+detectObject.h
+/home/pi/Desktop/hackillinois/gui/detectObject.h
+
+/home/pi/Desktop/hackillinois/gui/detectObject.h
+stdio.h
+-
+iostream
+-
+vector
+-
+opencv2/opencv.hpp
+/home/pi/Desktop/hackillinois/gui/opencv2/opencv.hpp
+
 /home/pi/Desktop/hackillinois/gui/face.cpp
 face.h
 /home/pi/Desktop/hackillinois/gui/face.h
@@ -1077,8 +1121,12 @@ face.h
 /home/pi/Desktop/hackillinois/gui/face.h
 
 /home/pi/Desktop/hackillinois/gui/preprocessFace.cpp
+detectObject.h
+/home/pi/Desktop/hackillinois/gui/detectObject.h
 preprocessFace.h
 /home/pi/Desktop/hackillinois/gui/preprocessFace.h
+ImageUtils.h
+/home/pi/Desktop/hackillinois/gui/ImageUtils.h
 
 /home/pi/Desktop/hackillinois/gui/preprocessFace.h
 stdio.h

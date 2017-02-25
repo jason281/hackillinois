@@ -25,9 +25,10 @@ private:
 	cv::VideoCapture camera;
 	cv::Mat frame;
 	workerThread* video;
-  Face f;
+	Face f;
 private slots:
 	void connect_cam();
+	void ana();
 };
 
 class workerThread : public QThread{

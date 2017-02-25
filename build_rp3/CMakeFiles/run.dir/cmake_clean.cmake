@@ -4,6 +4,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/run.dir/mainwindow.cpp.o"
   "CMakeFiles/run.dir/face.cpp.o"
   "CMakeFiles/run.dir/preprocessFace.cpp.o"
+  "CMakeFiles/run.dir/detectObject.cpp.o"
+  "CMakeFiles/run.dir/ImageUtils_0.7.cpp.o"
   "CMakeFiles/run.dir/run_automoc.cpp.o"
   "run.pdb"
   "run"

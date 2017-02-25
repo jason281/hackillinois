@@ -1,4 +1,4 @@
-set(AM_SOURCES "/home/pi/Desktop/hackillinois/gui/main.cpp;/home/pi/Desktop/hackillinois/gui/mainwindow.cpp;/home/pi/Desktop/hackillinois/gui/face.cpp;/home/pi/Desktop/hackillinois/gui/preprocessFace.cpp" )
+set(AM_SOURCES "/home/pi/Desktop/hackillinois/gui/main.cpp;/home/pi/Desktop/hackillinois/gui/mainwindow.cpp;/home/pi/Desktop/hackillinois/gui/face.cpp;/home/pi/Desktop/hackillinois/gui/preprocessFace.cpp;/home/pi/Desktop/hackillinois/gui/detectObject.cpp;/home/pi/Desktop/hackillinois/gui/ImageUtils_0.7.cpp" )
 set(AM_RCC_SOURCES  )
 set(AM_RCC_INPUTS )
 set(AM_SKIP_MOC "" )

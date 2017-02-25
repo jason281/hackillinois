@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/pi/Desktop/hackillinois/gui/ImageUtils_0.7.cpp" "/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles/run.dir/ImageUtils_0.7.cpp.o"
+  "/home/pi/Desktop/hackillinois/gui/detectObject.cpp" "/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles/run.dir/detectObject.cpp.o"
   "/home/pi/Desktop/hackillinois/gui/face.cpp" "/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles/run.dir/face.cpp.o"
   "/home/pi/Desktop/hackillinois/gui/main.cpp" "/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles/run.dir/main.cpp.o"
   "/home/pi/Desktop/hackillinois/gui/mainwindow.cpp" "/home/pi/Desktop/hackillinois/build_rp3/CMakeFiles/run.dir/mainwindow.cpp.o"

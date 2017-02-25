@@ -6,7 +6,7 @@ MainWindow::MainWindow(QWidget* parent) : QMainWindow(parent), ui(new Ui::MainWi
 	video = new workerThread(this);
 	connect(ui->connect_button, SIGNAL(clicked()), this, SLOT(connect_cam()));
 	connect(ui->capture_button, SIGNAL(clicked()), video, SLOT(start()));
-	connect(ui->stop_button,    SIGNAL(clicked()), video, SLOT(terminate()));
+	connect(ui->stop_button,    SIGNAL(clicked()), this, SLOT(ana()));
 }
 
 MainWindow::~MainWindow(){
@@ -25,6 +25,12 @@ void MainWindow::connect_cam(){
         camera.set( CV_CAP_PROP_FRAME_WIDTH,640);
         camera.set( CV_CAP_PROP_FRAME_HEIGHT,480);
     }
+}
+void MainWindow::ana(){
+	f.faceNormalization(frame);
+	char c[10]="abcd";
+	f.setID(c);
+	f.show("Show");
 }
 
 void workerThread::run(){

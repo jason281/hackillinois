@@ -17,7 +17,7 @@ find_package(Qt5Core)
 find_package( OpenCV REQUIRED )
 
 
-ADD_EXECUTABLE(run main.cpp mainwindow.cpp face.cpp preprocessFace.cpp)
+ADD_EXECUTABLE(run main.cpp mainwindow.cpp face.cpp preprocessFace.cpp detectObject.cpp ImageUtils_0.7.cpp)
 TARGET_LINK_LIBRARIES(run Qt5::Widgets)
 TARGET_LINK_LIBRARIES(run Qt5::Core)
 TARGET_LINK_LIBRARIES(run ${OpenCV_LIBS} )
