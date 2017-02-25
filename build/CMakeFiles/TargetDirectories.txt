@@ -1,0 +1,4 @@
+C:/Users/jason/Desktop/hackillinois/hackillinois/build/CMakeFiles/run.dir
+C:/Users/jason/Desktop/hackillinois/hackillinois/build/CMakeFiles/edit_cache.dir
+C:/Users/jason/Desktop/hackillinois/hackillinois/build/CMakeFiles/rebuild_cache.dir
+C:/Users/jason/Desktop/hackillinois/hackillinois/build/CMakeFiles/run_automoc.dir
