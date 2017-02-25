@@ -34,7 +34,7 @@ void workerThread::run(){
 			mw->statusBar()->showMessage("camera error");
 			return;
 		}
-		cv::resize(mw->frame,framesmall,cv::Size(mw->ui->monitor->height(),mw->ui->monitor->width()),CV_INTER_AREA);
+		cv::resize(mw->frame,framesmall,cv::Size(640,480),CV_INTER_AREA);
 		cv::cvtColor(framesmall,framesmall,cv::COLOR_BGR2RGB);
 		mw->ui->monitor->setPixmap(QPixmap::fromImage(QImage((const uchar*)framesmall.data, framesmall.cols, framesmall.rows, QImage::Format_RGB888)));
 		usleep(16667);
