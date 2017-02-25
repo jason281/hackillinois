@@ -27,10 +27,14 @@ void MainWindow::connect_cam(){
     }
 }
 void MainWindow::ana(){
+	imshow(std::string("Origin"), frame);
+	char keypress = waitKey(40); 
 	f.faceNormalization(frame);
 	char c[10]="abcd";
 	f.setID(c);
 	f.show("Show");
+	f.save("face.bmp");
+	f.savedata2D("face.txt");
 }
 
 void workerThread::run(){
