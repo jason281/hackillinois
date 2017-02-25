@@ -27,18 +27,38 @@
      <string/>
     </property>
    </widget>
-   <widget class="QPushButton" name="connect_button">
+   <widget class="QWidget" name="verticalLayoutWidget">
     <property name="geometry">
      <rect>
-      <x>670</x>
-      <y>490</y>
-      <width>75</width>
-      <height>23</height>
+      <x>660</x>
+      <y>340</y>
+      <width>101</width>
+      <height>83</height>
      </rect>
     </property>
-    <property name="text">
-     <string>Connect</string>
-    </property>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QPushButton" name="connect_button">
+       <property name="text">
+        <string>Connect</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="capture_button">
+       <property name="text">
+        <string>Capture</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="stop_button">
+       <property name="text">
+        <string>Stop</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">

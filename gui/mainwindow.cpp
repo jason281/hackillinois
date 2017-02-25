@@ -12,6 +12,9 @@ MainWindow::MainWindow(QWidget* parent) : QMainWindow(parent), ui(new Ui::MainWi
 MainWindow::~MainWindow(){
 	delete ui;
 }
+void MainWindow::resizeEvent(QResizeEvent* event){
+	QMainWindow::resizeEvent(event);
+}
 
 void MainWindow::connect_cam(){
 	camera.open(0);
@@ -31,7 +34,7 @@ void workerThread::run(){
 			mw->statusBar()->showMessage("camera error");
 			return;
 		}
-		cv::resize(mw->frame,framesmall,cv::Size(640,360),CV_INTER_AREA);
+		cv::resize(mw->frame,framesmall,cv::Size(mw->ui->monitor.height(),mw->ui->monitor.width()),CV_INTER_AREA);
 		cv::cvtColor(framesmall,framesmall,cv::COLOR_BGR2RGB);
 		mw->ui->monitor->setPixmap(QPixmap::fromImage(QImage((const uchar*)framesmall.data, framesmall.cols, framesmall.rows, QImage::Format_RGB888)));
 		usleep(16667);

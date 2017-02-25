@@ -18,6 +18,7 @@ class MainWindow : public QMainWindow{
 public:
 	explicit MainWindow(QWidget* parent = 0);
 	~MainWindow();
+	void resizeEvent(QResizeEvent*);
 private:
 	Ui::MainWindow* ui;
 	cv::VideoCapture camera;
