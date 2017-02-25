@@ -1068,9 +1068,12 @@ CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtGui/qvecto
 CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtGui/qwindowdefs.h
 CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtGui/qwindowdefs_win.h
 CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QApplication
+CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QLabel
 CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QMainWindow
 CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qapplication.h
 CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qdesktopwidget.h
+CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qframe.h
+CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qlabel.h
 CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qmainwindow.h
 CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qsizepolicy.h
 CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qtabwidget.h
@@ -2139,9 +2142,11 @@ CMakeFiles/run.dir/mainwindow.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtGui/
 CMakeFiles/run.dir/mainwindow.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QAction
 CMakeFiles/run.dir/mainwindow.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QApplication
 CMakeFiles/run.dir/mainwindow.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QButtonGroup
+CMakeFiles/run.dir/mainwindow.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QHBoxLayout
 CMakeFiles/run.dir/mainwindow.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QHeaderView
 CMakeFiles/run.dir/mainwindow.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QLabel
 CMakeFiles/run.dir/mainwindow.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QMainWindow
+CMakeFiles/run.dir/mainwindow.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QMenu
 CMakeFiles/run.dir/mainwindow.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QMenuBar
 CMakeFiles/run.dir/mainwindow.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QPushButton
 CMakeFiles/run.dir/mainwindow.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QStatusBar
@@ -3239,7 +3244,10 @@ CMakeFiles/run.dir/run_automoc.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtGui
 CMakeFiles/run.dir/run_automoc.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtGui/qvector2d.h
 CMakeFiles/run.dir/run_automoc.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtGui/qwindowdefs.h
 CMakeFiles/run.dir/run_automoc.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtGui/qwindowdefs_win.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QLabel
 CMakeFiles/run.dir/run_automoc.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QMainWindow
+CMakeFiles/run.dir/run_automoc.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qframe.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qlabel.h
 CMakeFiles/run.dir/run_automoc.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qmainwindow.h
 CMakeFiles/run.dir/run_automoc.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qsizepolicy.h
 CMakeFiles/run.dir/run_automoc.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qtabwidget.h

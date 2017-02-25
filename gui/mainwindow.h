@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include <QtCore>
+#include <QLabel>
 #include <opencv2/opencv.hpp>
 #include <QTimer>
 #include <QDateTime>

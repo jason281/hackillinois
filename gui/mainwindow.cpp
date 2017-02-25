@@ -79,7 +79,7 @@ void analyzeThread::run(){
  				tmp->rect_face.x + tmp->rect_face.width,
  				tmp->rect_face.y + tmp->rect_face.height);
  			full_object_detection shape;
- 			shape = pose_model(cimg, face);
+ 			shape = (*pose_model)(cimg, face);
 
 			float distance=3000;
 			PCA_testing(mw->f, tmp, mw->trainCoef, mw->eigenFace, mw->meanFace, distance);

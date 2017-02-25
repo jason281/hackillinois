@@ -7931,6 +7931,8 @@ iostream
 /home/pi/Desktop/hackillinois/gui/ImageUtils_0.7.cpp
 ImageUtils.h
 /home/pi/Desktop/hackillinois/gui/ImageUtils.h
+cstdio
+-
 
 /home/pi/Desktop/hackillinois/gui/detectObject.cpp
 detectObject.h
@@ -7986,6 +7988,8 @@ train.cpp
 QMainWindow
 -
 QtCore
+-
+QLabel
 -
 opencv2/opencv.hpp
 -
@@ -8049,11 +8053,15 @@ QtWidgets/QApplication
 -
 QtWidgets/QButtonGroup
 -
+QtWidgets/QHBoxLayout
+-
 QtWidgets/QHeaderView
 -
 QtWidgets/QLabel
 -
 QtWidgets/QMainWindow
+-
+QtWidgets/QMenu
 -
 QtWidgets/QMenuBar
 -
@@ -9996,6 +10004,10 @@ qapplication.h
 qbuttongroup.h
 /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qbuttongroup.h
 
+/usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QHBoxLayout
+qboxlayout.h
+/usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qboxlayout.h
+
 /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QHeaderView
 qheaderview.h
 /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qheaderview.h
@@ -10007,6 +10019,10 @@ qlabel.h
 /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QMainWindow
 qmainwindow.h
 /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qmainwindow.h
+
+/usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QMenu
+qmenu.h
+/usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qmenu.h
 
 /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QMenuBar
 qmenubar.h

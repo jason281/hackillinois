@@ -1069,9 +1069,12 @@ CMakeFiles/run.dir/main.cpp.o
  /usr/include/arm-linux-gnueabihf/qt5/QtGui/qwindowdefs.h
  /usr/include/arm-linux-gnueabihf/qt5/QtGui/qwindowdefs_win.h
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QApplication
+ /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QLabel
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QMainWindow
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qapplication.h
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qdesktopwidget.h
+ /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qframe.h
+ /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qlabel.h
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qmainwindow.h
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qsizepolicy.h
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qtabwidget.h
@@ -2140,9 +2143,11 @@ CMakeFiles/run.dir/mainwindow.cpp.o
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QAction
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QApplication
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QButtonGroup
+ /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QHBoxLayout
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QHeaderView
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QLabel
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QMainWindow
+ /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QMenu
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QMenuBar
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QPushButton
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QStatusBar
@@ -3240,7 +3245,10 @@ CMakeFiles/run.dir/run_automoc.cpp.o
  /usr/include/arm-linux-gnueabihf/qt5/QtGui/qvector2d.h
  /usr/include/arm-linux-gnueabihf/qt5/QtGui/qwindowdefs.h
  /usr/include/arm-linux-gnueabihf/qt5/QtGui/qwindowdefs_win.h
+ /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QLabel
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/QMainWindow
+ /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qframe.h
+ /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qlabel.h
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qmainwindow.h
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qsizepolicy.h
  /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qtabwidget.h
