@@ -194,6 +194,12 @@ Qt5Gui_DIR:PATH=/usr/lib/arm-linux-gnueabihf/cmake/Qt5Gui
 //The directory containing a CMake configuration file for Qt5Widgets.
 Qt5Widgets_DIR:PATH=/usr/lib/arm-linux-gnueabihf/cmake/Qt5Widgets
 
+//The directory containing a CMake configuration file for dlib.
+dlib_DIR:PATH=/usr/local/lib/cmake/dlib
+
+//Path to a library.
+dlib_LIBRARIES:FILEPATH=/usr/local/lib/libdlib.so
+
 //Value Computed by CMake
 hackIllinois_BINARY_DIR:STATIC=/home/pi/Desktop/hackillinois/build_rp3
 

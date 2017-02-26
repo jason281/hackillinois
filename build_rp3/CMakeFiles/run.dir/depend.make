@@ -11,646 +11,646 @@ CMakeFiles/run.dir/face.cpp.o: /home/pi/Desktop/hackillinois/gui/face.cpp
 CMakeFiles/run.dir/face.cpp.o: /home/pi/Desktop/hackillinois/gui/face.h
 CMakeFiles/run.dir/face.cpp.o: /home/pi/Desktop/hackillinois/gui/preprocessFace.h
 
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/algs.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_decision_function.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_decision_function_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_function.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_function_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_function_impl.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_function_impl2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array/array_kernel.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array/array_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array/array_tools.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array/array_tools_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d/array2d_generic_image.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d/array2d_kernel.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d/array2d_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d/serialize_pixel_overloads.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/assert.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/base64.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/base64/base64_kernel_1.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/base64/base64_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/base64/base64_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree/binary_search_tree_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree/binary_search_tree_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree/binary_search_tree_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree/binary_search_tree_kernel_c.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/bound_function_pointer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/bound_function_pointer/bound_function_pointer_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/bound_function_pointer/bound_function_pointer_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/byte_orderer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/byte_orderer/byte_orderer_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/byte_orderer/byte_orderer_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/cmd_line_parser/get_option.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/cmd_line_parser/get_option_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream/compress_stream_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream/compress_stream_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream/compress_stream_kernel_3.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream/compress_stream_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_3.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_4.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_c.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader/config_reader_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader/config_reader_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader/config_reader_thread_safe_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader/config_reader_thread_safe_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/console_progress_indicator.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/crc32.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/crc32/crc32_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/crc32/crc32_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_extensions.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_extensions.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_extensions_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_1.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_2.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/posix.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/windows.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/disjoint_subsets.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/disjoint_subsets/disjoint_subsets.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/disjoint_subsets/disjoint_subsets_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dlib_basic_cpp_build_tutorial.txt
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/enable_if.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_c.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_3.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_4.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_5.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_6.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_c.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_3.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_4.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_5.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_6.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_c.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/error.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/float_details.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/count_bits.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/hash.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/hash_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/murmur_hash3.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/murmur_hash3_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/random_hashing.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/random_hashing_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/border_enumerator.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/border_enumerator_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/drectangle.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/drectangle_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/point_transforms.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/point_transforms_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/rectangle.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/rectangle_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/vector.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/vector_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/edge_list_graphs.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/edge_list_graphs_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/ordered_sample_pair.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/ordered_sample_pair_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/sample_pair.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/sample_pair_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_1.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_2.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/windows.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/xlib.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/base_widgets.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/base_widgets.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/base_widgets_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/canvas_drawing.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/canvas_drawing.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/canvas_drawing_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/drawable.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/drawable.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/drawable_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/fonts.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/fonts.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/fonts_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/nativefont.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/style.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/style.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/style_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/widgets.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/widgets.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/widgets_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/hash.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/binned_vector_feature_image.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/binned_vector_feature_image_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/build_separable_poly_filters.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/fine_hog_image.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/fine_hog_image_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hashed_feature_image.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hashed_feature_image_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hessian_pyramid.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hessian_pyramid_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hog.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hog_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/nearest_neighbor_feature_image.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/nearest_neighbor_feature_image_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/poly_image.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/poly_image_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/surf.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/surf_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/box_overlap_testing.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/box_overlap_testing_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/correlation_tracker.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/correlation_tracker_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/detection_template_tools.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/detection_template_tools_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/frontal_face_detector.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/frontal_face_detector_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/full_object_detection.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/full_object_detection_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/generic_image.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/object_detector.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/object_detector_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/remove_unobtainable_rectangles.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/remove_unobtainable_rectangles_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/render_face_detections.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/render_face_detections_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_fhog_pyramid.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_fhog_pyramid_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_boxes.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_boxes_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_custom.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_custom_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_pyramid.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_pyramid_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_pyramid_tools.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_pyramid_tools_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/setup_hashed_features.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/setup_hashed_features_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/shape_predictor.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/shape_predictor_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/assign_image.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/assign_image_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/colormaps.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/colormaps_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/draw.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/draw_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/edge_detector.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/edge_detector_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/equalize_histogram.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/equalize_histogram_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/fhog.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/fhog_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/hough_transform.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/hough_transform_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/image_pyramid.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/image_pyramid_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/integral_image.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/integral_image_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/interpolation.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/interpolation_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/label_connected_blobs.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/label_connected_blobs_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/lbp.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/lbp_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/morphological_operations.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/morphological_operations_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/random_color_transform.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/random_color_transform_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/segment_image.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/segment_image_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/spatial_filtering.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/spatial_filtering_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/thresholding.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/thresholding_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/interfaces/enumerable.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/interfaces/map_pair.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/interfaces/remover.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/is_kind.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/extra_logger_headers.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/extra_logger_headers.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_config_file.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_config_file.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_kernel_1.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/create_random_projection_hash.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/create_random_projection_hash_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/hashes.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/hashes_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/projection_hash.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/projection_hash_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer/lz77_buffer_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer/lz77_buffer_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer/lz77_buffer_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer/lz77_buffer_kernel_c.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer/lzp_buffer_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer/lzp_buffer_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer/lzp_buffer_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer/lzp_buffer_kernel_c.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/map.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/map/map_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/map/map_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/map/map_kernel_c.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/cblas_constants.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/fortran_id.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/geev.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/geqrf.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/gesdd.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/gesvd.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/getrf.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/ormqr.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/potrf.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/syev.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/syevr.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_assign.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_assign_fwd.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_blas_bindings.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_cholesky.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_conj_trans.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_conv.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_conv_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_data_layout.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_data_layout_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_default_mul.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_eigenvalue.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_exp.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_exp_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_expressions.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_fft.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_fft_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_fwd.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_generic_image.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_la.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_la_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_lu.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_mat.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_mat_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_math_functions.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_math_functions_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_op.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_qr.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_read_from_istream.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_subexp.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_subexp_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_trsm.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_utilities.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_utilities_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/symmetric_matrix_cache.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/symmetric_matrix_cache_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer/make_mfp.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer/make_mfp_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer/member_function_pointer_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer/member_function_pointer_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager/memory_manager_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager/memory_manager_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager/memory_manager_kernel_3.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager/memory_manager_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager_stateless/memory_manager_stateless_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager_stateless/memory_manager_stateless_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_1.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_2.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_shared.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/posix.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/windows.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/noncopyable.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/numeric_constants.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv/cv_image.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv/cv_image_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv/to_open_cv.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv/to_open_cv_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_factor_graph_nmplp.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_factor_graph_nmplp_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_factor_graph_viterbi.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_factor_graph_viterbi_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_parse_cky.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_parse_cky_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/max_cost_assignment.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/max_cost_assignment_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/max_sum_submatrix.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/max_sum_submatrix_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_bobyqa.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_bobyqa_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_least_squares.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_least_squares_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_line_search.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_line_search_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_oca.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_oca_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_search_strategies.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_search_strategies_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp2_using_smo.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp2_using_smo_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp3_using_smo.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp3_using_smo_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp_using_smo.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp_using_smo_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_stop_strategies.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_stop_strategies_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_trust_region.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_trust_region_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/pixel.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/platform.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_kernel_c.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_sort_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_sort_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/rand.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/rand/mersenne_twister.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/rand/rand_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/rand/rand_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_compare_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_compare_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_kernel_c.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_sort_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_sort_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_sort_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/serialize.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_compare_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_compare_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_kernel_c.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd4f.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd4i.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd8f.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd8i.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd_check.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/circular_buffer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/circular_buffer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/sliding_buffer_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/sliding_buffer_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/sliding_buffer_kernel_c.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/scoped_ptr.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/scoped_ptr_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/shared_ptr.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/shared_ptr_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/shared_ptr_thread_safe.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/shared_ptr_thread_safe_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/weak_ptr.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/weak_ptr_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers_thread_safe.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sort.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sparse_vector.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/stack_trace.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/average_precision.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/average_precision_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/cca.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/cca_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/dpca.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/dpca_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/image_feature_sampling.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/image_feature_sampling_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/lda.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/lda_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/random_subset_selector.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/random_subset_selector_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/sammon.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/sammon_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/statistics.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/statistics_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/vector_normalizer_frobmetric.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/vector_normalizer_frobmetric_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/std_allocator.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/stl_checked.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/stl_checked/std_vector_c.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/stl_checked/std_vector_c_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/string.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/string/string.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/string/string_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/active_learning.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/active_learning_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/assignment_function.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/assignment_function_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_assignment_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_assignment_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_multiclass_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_multiclass_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_object_detection_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_object_detection_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_regression_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_regression_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_sequence_labeler.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_sequence_labeler_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_sequence_segmenter.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_sequence_segmenter_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/empirical_kernel_map.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/empirical_kernel_map_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/feature_ranking.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/feature_ranking_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/function.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/function_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kcentroid.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kcentroid_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kcentroid_overloads.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kernel.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kernel_matrix.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kernel_matrix_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kkmeans.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kkmeans_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/krls.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/krls_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/krr_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/krr_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/linearly_independent_subset_finder.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/linearly_independent_subset_finder_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/multiclass_tools.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/multiclass_tools_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/null_df.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/null_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/null_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_all_decision_function.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_all_decision_function_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_all_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_one_decision_function.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_one_decision_function_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_one_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/pegasos.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/pegasos_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/ranking_tools.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/ranking_tools_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rbf_network.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rbf_network_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/reduced.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/reduced_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rls.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rls_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/roc_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/roc_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rr_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rr_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rvm.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rvm_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sequence_labeler.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sequence_labeler_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sequence_segmenter.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sequence_segmenter_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/simplify_linear_decision_function.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/simplify_linear_decision_function_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sort_basis_vectors.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sort_basis_vectors_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sparse_kernel.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sparse_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sparse_vector.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sparse_vector_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_object_detection_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_object_detection_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_object_detection_problem.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_object_detection_problem_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_problem.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_problem_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_problem_threaded.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_problem_threaded_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_ekm_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_ekm_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_linear_dcd_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_linear_dcd_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_linear_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_linear_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_nu_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_nu_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_one_class_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_one_class_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_rank_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_rank_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svr_linear_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svr_linear_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svr_trainer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svr_trainer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/track_association_function.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/track_association_function_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sync_extension.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sync_extension/sync_extension_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sync_extension/sync_extension_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/auto_mutex_extension.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/auto_mutex_extension_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/auto_unlock_extension.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/auto_unlock_extension_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/create_new_thread_extension.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/create_new_thread_extension_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/multithreaded_object_extension.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/multithreaded_object_extension.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/multithreaded_object_extension_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/parallel_for_extension.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/parallel_for_extension_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/posix.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/read_write_mutex_extension.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/read_write_mutex_extension_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/rmutex_extension.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/rmutex_extension_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/rsignaler_extension.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/rsignaler_extension_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_function_extension.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_function_extension_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_pool_extension.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_pool_extension.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_pool_extension_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_specific_data_extension.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_specific_data_extension_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threaded_object_extension.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threaded_object_extension.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threaded_object_extension_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_2.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_2.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_shared.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_shared.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer/timer.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer/timer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer/timer_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer/timer_heavy.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer/tokenizer_kernel_1.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer/tokenizer_kernel_1.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer/tokenizer_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer/tokenizer_kernel_c.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/type_safe_union.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/type_safe_union/type_safe_union_kernel.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/type_safe_union/type_safe_union_kernel_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/uintn.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unicode.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unicode/unicode.cpp
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unicode/unicode.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unicode/unicode_abstract.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unordered_pair.h
-CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/windows_magic.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/algs.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_decision_function.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_decision_function_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_function.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_function_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_function_impl.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_function_impl2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array/array_kernel.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array/array_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array/array_tools.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array/array_tools_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d/array2d_generic_image.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d/array2d_kernel.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d/array2d_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d/serialize_pixel_overloads.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/assert.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/base64.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/base64/base64_kernel_1.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/base64/base64_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/base64/base64_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree/binary_search_tree_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree/binary_search_tree_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree/binary_search_tree_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree/binary_search_tree_kernel_c.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/bound_function_pointer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/bound_function_pointer/bound_function_pointer_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/bound_function_pointer/bound_function_pointer_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/byte_orderer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/byte_orderer/byte_orderer_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/byte_orderer/byte_orderer_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/cmd_line_parser/get_option.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/cmd_line_parser/get_option_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream/compress_stream_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream/compress_stream_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream/compress_stream_kernel_3.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream/compress_stream_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_3.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_4.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_c.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader/config_reader_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader/config_reader_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader/config_reader_thread_safe_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader/config_reader_thread_safe_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/console_progress_indicator.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/crc32.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/crc32/crc32_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/crc32/crc32_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_extensions.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_extensions.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_extensions_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_1.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_2.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/posix.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/windows.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/disjoint_subsets.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/disjoint_subsets/disjoint_subsets.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/disjoint_subsets/disjoint_subsets_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dlib_basic_cpp_build_tutorial.txt
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/enable_if.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_c.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_3.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_4.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_5.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_6.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_c.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_3.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_4.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_5.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_6.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_c.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/error.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/float_details.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/count_bits.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/hash.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/hash_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/murmur_hash3.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/murmur_hash3_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/random_hashing.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/random_hashing_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/border_enumerator.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/border_enumerator_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/drectangle.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/drectangle_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/point_transforms.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/point_transforms_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/rectangle.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/rectangle_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/vector.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/vector_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/edge_list_graphs.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/edge_list_graphs_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/ordered_sample_pair.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/ordered_sample_pair_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/sample_pair.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/sample_pair_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_1.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_2.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/windows.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/xlib.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/base_widgets.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/base_widgets.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/base_widgets_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/canvas_drawing.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/canvas_drawing.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/canvas_drawing_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/drawable.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/drawable.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/drawable_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/fonts.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/fonts.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/fonts_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/nativefont.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/style.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/style.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/style_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/widgets.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/widgets.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/widgets_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/hash.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/binned_vector_feature_image.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/binned_vector_feature_image_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/build_separable_poly_filters.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/fine_hog_image.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/fine_hog_image_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hashed_feature_image.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hashed_feature_image_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hessian_pyramid.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hessian_pyramid_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hog.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hog_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/nearest_neighbor_feature_image.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/nearest_neighbor_feature_image_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/poly_image.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/poly_image_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/surf.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/surf_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/box_overlap_testing.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/box_overlap_testing_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/correlation_tracker.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/correlation_tracker_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/detection_template_tools.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/detection_template_tools_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/frontal_face_detector.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/frontal_face_detector_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/full_object_detection.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/full_object_detection_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/generic_image.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/object_detector.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/object_detector_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/remove_unobtainable_rectangles.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/remove_unobtainable_rectangles_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/render_face_detections.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/render_face_detections_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_fhog_pyramid.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_fhog_pyramid_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_boxes.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_boxes_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_custom.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_custom_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_pyramid.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_pyramid_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_pyramid_tools.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_pyramid_tools_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/setup_hashed_features.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/setup_hashed_features_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/shape_predictor.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/shape_predictor_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/assign_image.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/assign_image_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/colormaps.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/colormaps_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/draw.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/draw_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/edge_detector.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/edge_detector_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/equalize_histogram.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/equalize_histogram_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/fhog.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/fhog_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/hough_transform.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/hough_transform_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/image_pyramid.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/image_pyramid_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/integral_image.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/integral_image_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/interpolation.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/interpolation_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/label_connected_blobs.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/label_connected_blobs_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/lbp.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/lbp_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/morphological_operations.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/morphological_operations_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/random_color_transform.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/random_color_transform_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/segment_image.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/segment_image_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/spatial_filtering.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/spatial_filtering_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/thresholding.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/thresholding_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/interfaces/enumerable.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/interfaces/map_pair.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/interfaces/remover.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/is_kind.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/extra_logger_headers.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/extra_logger_headers.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_config_file.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_config_file.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_kernel_1.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/create_random_projection_hash.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/create_random_projection_hash_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/hashes.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/hashes_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/projection_hash.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/projection_hash_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer/lz77_buffer_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer/lz77_buffer_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer/lz77_buffer_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer/lz77_buffer_kernel_c.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer/lzp_buffer_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer/lzp_buffer_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer/lzp_buffer_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer/lzp_buffer_kernel_c.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/map.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/map/map_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/map/map_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/map/map_kernel_c.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/cblas_constants.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/fortran_id.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/geev.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/geqrf.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/gesdd.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/gesvd.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/getrf.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/ormqr.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/potrf.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/syev.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/syevr.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_assign.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_assign_fwd.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_blas_bindings.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_cholesky.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_conj_trans.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_conv.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_conv_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_data_layout.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_data_layout_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_default_mul.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_eigenvalue.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_exp.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_exp_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_expressions.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_fft.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_fft_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_fwd.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_generic_image.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_la.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_la_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_lu.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_mat.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_mat_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_math_functions.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_math_functions_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_op.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_qr.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_read_from_istream.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_subexp.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_subexp_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_trsm.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_utilities.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_utilities_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/symmetric_matrix_cache.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/symmetric_matrix_cache_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer/make_mfp.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer/make_mfp_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer/member_function_pointer_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer/member_function_pointer_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager/memory_manager_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager/memory_manager_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager/memory_manager_kernel_3.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager/memory_manager_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager_stateless/memory_manager_stateless_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager_stateless/memory_manager_stateless_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_1.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_2.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_shared.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/posix.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/windows.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/noncopyable.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/numeric_constants.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv/cv_image.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv/cv_image_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv/to_open_cv.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv/to_open_cv_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_factor_graph_nmplp.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_factor_graph_nmplp_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_factor_graph_viterbi.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_factor_graph_viterbi_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_parse_cky.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_parse_cky_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/max_cost_assignment.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/max_cost_assignment_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/max_sum_submatrix.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/max_sum_submatrix_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_bobyqa.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_bobyqa_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_least_squares.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_least_squares_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_line_search.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_line_search_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_oca.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_oca_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_search_strategies.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_search_strategies_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp2_using_smo.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp2_using_smo_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp3_using_smo.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp3_using_smo_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp_using_smo.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp_using_smo_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_stop_strategies.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_stop_strategies_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_trust_region.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_trust_region_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/pixel.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/platform.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_kernel_c.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_sort_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_sort_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/rand.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/rand/mersenne_twister.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/rand/rand_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/rand/rand_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_compare_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_compare_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_kernel_c.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_sort_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_sort_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_sort_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/serialize.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_compare_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_compare_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_kernel_c.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd4f.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd4i.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd8f.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd8i.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd_check.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/circular_buffer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/circular_buffer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/sliding_buffer_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/sliding_buffer_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/sliding_buffer_kernel_c.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/scoped_ptr.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/scoped_ptr_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/shared_ptr.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/shared_ptr_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/shared_ptr_thread_safe.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/shared_ptr_thread_safe_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/weak_ptr.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/weak_ptr_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers_thread_safe.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sort.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sparse_vector.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/stack_trace.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/average_precision.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/average_precision_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/cca.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/cca_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/dpca.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/dpca_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/image_feature_sampling.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/image_feature_sampling_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/lda.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/lda_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/random_subset_selector.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/random_subset_selector_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/sammon.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/sammon_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/statistics.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/statistics_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/vector_normalizer_frobmetric.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/vector_normalizer_frobmetric_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/std_allocator.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/stl_checked.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/stl_checked/std_vector_c.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/stl_checked/std_vector_c_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/string.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/string/string.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/string/string_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/active_learning.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/active_learning_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/assignment_function.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/assignment_function_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_assignment_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_assignment_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_multiclass_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_multiclass_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_object_detection_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_object_detection_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_regression_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_regression_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_sequence_labeler.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_sequence_labeler_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_sequence_segmenter.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_sequence_segmenter_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/empirical_kernel_map.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/empirical_kernel_map_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/feature_ranking.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/feature_ranking_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/function.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/function_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kcentroid.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kcentroid_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kcentroid_overloads.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kernel.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kernel_matrix.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kernel_matrix_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kkmeans.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kkmeans_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/krls.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/krls_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/krr_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/krr_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/linearly_independent_subset_finder.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/linearly_independent_subset_finder_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/multiclass_tools.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/multiclass_tools_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/null_df.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/null_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/null_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_all_decision_function.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_all_decision_function_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_all_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_one_decision_function.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_one_decision_function_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_one_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/pegasos.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/pegasos_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/ranking_tools.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/ranking_tools_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rbf_network.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rbf_network_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/reduced.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/reduced_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rls.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rls_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/roc_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/roc_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rr_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rr_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rvm.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rvm_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sequence_labeler.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sequence_labeler_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sequence_segmenter.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sequence_segmenter_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/simplify_linear_decision_function.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/simplify_linear_decision_function_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sort_basis_vectors.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sort_basis_vectors_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sparse_kernel.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sparse_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sparse_vector.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sparse_vector_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_object_detection_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_object_detection_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_object_detection_problem.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_object_detection_problem_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_problem.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_problem_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_problem_threaded.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_problem_threaded_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_ekm_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_ekm_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_linear_dcd_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_linear_dcd_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_linear_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_linear_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_nu_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_nu_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_one_class_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_one_class_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_rank_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_rank_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svr_linear_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svr_linear_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svr_trainer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svr_trainer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/track_association_function.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/track_association_function_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sync_extension.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sync_extension/sync_extension_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sync_extension/sync_extension_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/auto_mutex_extension.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/auto_mutex_extension_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/auto_unlock_extension.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/auto_unlock_extension_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/create_new_thread_extension.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/create_new_thread_extension_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/multithreaded_object_extension.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/multithreaded_object_extension.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/multithreaded_object_extension_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/parallel_for_extension.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/parallel_for_extension_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/posix.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/read_write_mutex_extension.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/read_write_mutex_extension_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/rmutex_extension.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/rmutex_extension_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/rsignaler_extension.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/rsignaler_extension_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_function_extension.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_function_extension_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_pool_extension.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_pool_extension.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_pool_extension_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_specific_data_extension.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_specific_data_extension_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threaded_object_extension.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threaded_object_extension.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threaded_object_extension_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_2.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_2.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_shared.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_shared.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer/timer.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer/timer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer/timer_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer/timer_heavy.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer/tokenizer_kernel_1.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer/tokenizer_kernel_1.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer/tokenizer_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer/tokenizer_kernel_c.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/type_safe_union.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/type_safe_union/type_safe_union_kernel.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/type_safe_union/type_safe_union_kernel_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/uintn.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unicode.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unicode/unicode.cpp
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unicode/unicode.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unicode/unicode_abstract.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unordered_pair.h
+CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/windows_magic.h
 CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/gui/../eigen/Eigen/Cholesky
 CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/gui/../eigen/Eigen/Core
 CMakeFiles/run.dir/main.cpp.o: /home/pi/Desktop/hackillinois/gui/../eigen/Eigen/Dense
@@ -1079,646 +1079,646 @@ CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qs
 CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qtabwidget.h
 CMakeFiles/run.dir/main.cpp.o: /usr/include/arm-linux-gnueabihf/qt5/QtWidgets/qwidget.h
 
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/algs.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_decision_function.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_decision_function_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_function.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_function_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_function_impl.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_function_impl2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array/array_kernel.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array/array_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array/array_tools.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array/array_tools_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d/array2d_generic_image.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d/array2d_kernel.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d/array2d_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d/serialize_pixel_overloads.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/assert.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/base64.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/base64/base64_kernel_1.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/base64/base64_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/base64/base64_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree/binary_search_tree_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree/binary_search_tree_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree/binary_search_tree_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree/binary_search_tree_kernel_c.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/bound_function_pointer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/bound_function_pointer/bound_function_pointer_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/bound_function_pointer/bound_function_pointer_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/byte_orderer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/byte_orderer/byte_orderer_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/byte_orderer/byte_orderer_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/cmd_line_parser/get_option.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/cmd_line_parser/get_option_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream/compress_stream_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream/compress_stream_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream/compress_stream_kernel_3.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream/compress_stream_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_3.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_4.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_c.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader/config_reader_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader/config_reader_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader/config_reader_thread_safe_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader/config_reader_thread_safe_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/console_progress_indicator.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/crc32.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/crc32/crc32_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/crc32/crc32_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_extensions.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_extensions.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_extensions_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_1.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_2.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/posix.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/windows.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/disjoint_subsets.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/disjoint_subsets/disjoint_subsets.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/disjoint_subsets/disjoint_subsets_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dlib_basic_cpp_build_tutorial.txt
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/enable_if.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_c.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_3.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_4.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_5.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_6.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_c.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_3.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_4.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_5.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_6.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_c.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/error.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/float_details.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/count_bits.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/hash.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/hash_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/murmur_hash3.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/murmur_hash3_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/random_hashing.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/random_hashing_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/border_enumerator.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/border_enumerator_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/drectangle.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/drectangle_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/point_transforms.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/point_transforms_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/rectangle.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/rectangle_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/vector.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/vector_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/edge_list_graphs.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/edge_list_graphs_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/ordered_sample_pair.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/ordered_sample_pair_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/sample_pair.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/sample_pair_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_1.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_2.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/windows.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/xlib.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/base_widgets.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/base_widgets.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/base_widgets_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/canvas_drawing.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/canvas_drawing.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/canvas_drawing_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/drawable.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/drawable.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/drawable_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/fonts.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/fonts.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/fonts_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/nativefont.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/style.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/style.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/style_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/widgets.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/widgets.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/widgets_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/hash.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/binned_vector_feature_image.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/binned_vector_feature_image_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/build_separable_poly_filters.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/fine_hog_image.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/fine_hog_image_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hashed_feature_image.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hashed_feature_image_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hessian_pyramid.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hessian_pyramid_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hog.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hog_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/nearest_neighbor_feature_image.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/nearest_neighbor_feature_image_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/poly_image.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/poly_image_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/surf.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/surf_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/box_overlap_testing.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/box_overlap_testing_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/correlation_tracker.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/correlation_tracker_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/detection_template_tools.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/detection_template_tools_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/frontal_face_detector.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/frontal_face_detector_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/full_object_detection.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/full_object_detection_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/generic_image.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/object_detector.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/object_detector_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/remove_unobtainable_rectangles.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/remove_unobtainable_rectangles_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/render_face_detections.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/render_face_detections_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_fhog_pyramid.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_fhog_pyramid_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_boxes.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_boxes_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_custom.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_custom_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_pyramid.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_pyramid_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_pyramid_tools.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_pyramid_tools_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/setup_hashed_features.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/setup_hashed_features_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/shape_predictor.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/shape_predictor_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/assign_image.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/assign_image_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/colormaps.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/colormaps_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/draw.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/draw_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/edge_detector.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/edge_detector_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/equalize_histogram.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/equalize_histogram_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/fhog.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/fhog_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/hough_transform.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/hough_transform_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/image_pyramid.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/image_pyramid_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/integral_image.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/integral_image_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/interpolation.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/interpolation_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/label_connected_blobs.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/label_connected_blobs_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/lbp.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/lbp_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/morphological_operations.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/morphological_operations_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/random_color_transform.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/random_color_transform_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/segment_image.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/segment_image_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/spatial_filtering.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/spatial_filtering_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/thresholding.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/thresholding_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/interfaces/enumerable.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/interfaces/map_pair.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/interfaces/remover.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/is_kind.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/extra_logger_headers.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/extra_logger_headers.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_config_file.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_config_file.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_kernel_1.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/create_random_projection_hash.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/create_random_projection_hash_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/hashes.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/hashes_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/projection_hash.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/projection_hash_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer/lz77_buffer_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer/lz77_buffer_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer/lz77_buffer_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer/lz77_buffer_kernel_c.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer/lzp_buffer_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer/lzp_buffer_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer/lzp_buffer_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer/lzp_buffer_kernel_c.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/map.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/map/map_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/map/map_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/map/map_kernel_c.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/cblas_constants.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/fortran_id.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/geev.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/geqrf.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/gesdd.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/gesvd.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/getrf.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/ormqr.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/potrf.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/syev.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/syevr.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_assign.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_assign_fwd.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_blas_bindings.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_cholesky.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_conj_trans.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_conv.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_conv_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_data_layout.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_data_layout_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_default_mul.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_eigenvalue.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_exp.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_exp_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_expressions.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_fft.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_fft_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_fwd.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_generic_image.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_la.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_la_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_lu.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_mat.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_mat_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_math_functions.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_math_functions_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_op.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_qr.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_read_from_istream.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_subexp.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_subexp_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_trsm.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_utilities.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_utilities_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/symmetric_matrix_cache.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/symmetric_matrix_cache_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer/make_mfp.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer/make_mfp_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer/member_function_pointer_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer/member_function_pointer_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager/memory_manager_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager/memory_manager_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager/memory_manager_kernel_3.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager/memory_manager_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager_stateless/memory_manager_stateless_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager_stateless/memory_manager_stateless_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_1.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_2.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_shared.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/posix.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/windows.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/noncopyable.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/numeric_constants.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv/cv_image.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv/cv_image_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv/to_open_cv.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv/to_open_cv_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_factor_graph_nmplp.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_factor_graph_nmplp_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_factor_graph_viterbi.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_factor_graph_viterbi_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_parse_cky.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_parse_cky_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/max_cost_assignment.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/max_cost_assignment_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/max_sum_submatrix.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/max_sum_submatrix_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_bobyqa.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_bobyqa_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_least_squares.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_least_squares_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_line_search.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_line_search_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_oca.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_oca_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_search_strategies.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_search_strategies_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp2_using_smo.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp2_using_smo_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp3_using_smo.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp3_using_smo_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp_using_smo.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp_using_smo_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_stop_strategies.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_stop_strategies_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_trust_region.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_trust_region_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/pixel.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/platform.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_kernel_c.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_sort_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_sort_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/rand.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/rand/mersenne_twister.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/rand/rand_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/rand/rand_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_compare_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_compare_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_kernel_c.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_sort_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_sort_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_sort_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/serialize.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_compare_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_compare_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_kernel_c.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd4f.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd4i.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd8f.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd8i.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd_check.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/circular_buffer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/circular_buffer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/sliding_buffer_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/sliding_buffer_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/sliding_buffer_kernel_c.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/scoped_ptr.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/scoped_ptr_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/shared_ptr.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/shared_ptr_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/shared_ptr_thread_safe.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/shared_ptr_thread_safe_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/weak_ptr.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/weak_ptr_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers_thread_safe.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sort.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sparse_vector.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/stack_trace.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/average_precision.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/average_precision_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/cca.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/cca_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/dpca.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/dpca_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/image_feature_sampling.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/image_feature_sampling_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/lda.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/lda_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/random_subset_selector.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/random_subset_selector_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/sammon.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/sammon_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/statistics.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/statistics_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/vector_normalizer_frobmetric.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/vector_normalizer_frobmetric_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/std_allocator.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/stl_checked.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/stl_checked/std_vector_c.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/stl_checked/std_vector_c_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/string.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/string/string.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/string/string_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/active_learning.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/active_learning_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/assignment_function.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/assignment_function_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_assignment_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_assignment_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_multiclass_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_multiclass_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_object_detection_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_object_detection_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_regression_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_regression_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_sequence_labeler.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_sequence_labeler_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_sequence_segmenter.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_sequence_segmenter_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/empirical_kernel_map.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/empirical_kernel_map_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/feature_ranking.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/feature_ranking_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/function.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/function_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kcentroid.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kcentroid_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kcentroid_overloads.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kernel.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kernel_matrix.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kernel_matrix_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kkmeans.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kkmeans_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/krls.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/krls_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/krr_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/krr_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/linearly_independent_subset_finder.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/linearly_independent_subset_finder_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/multiclass_tools.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/multiclass_tools_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/null_df.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/null_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/null_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_all_decision_function.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_all_decision_function_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_all_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_one_decision_function.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_one_decision_function_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_one_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/pegasos.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/pegasos_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/ranking_tools.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/ranking_tools_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rbf_network.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rbf_network_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/reduced.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/reduced_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rls.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rls_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/roc_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/roc_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rr_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rr_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rvm.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rvm_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sequence_labeler.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sequence_labeler_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sequence_segmenter.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sequence_segmenter_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/simplify_linear_decision_function.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/simplify_linear_decision_function_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sort_basis_vectors.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sort_basis_vectors_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sparse_kernel.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sparse_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sparse_vector.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sparse_vector_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_object_detection_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_object_detection_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_object_detection_problem.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_object_detection_problem_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_problem.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_problem_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_problem_threaded.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_problem_threaded_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_ekm_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_ekm_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_linear_dcd_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_linear_dcd_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_linear_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_linear_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_nu_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_nu_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_one_class_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_one_class_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_rank_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_rank_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svr_linear_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svr_linear_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svr_trainer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svr_trainer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/track_association_function.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/track_association_function_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sync_extension.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sync_extension/sync_extension_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sync_extension/sync_extension_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/auto_mutex_extension.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/auto_mutex_extension_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/auto_unlock_extension.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/auto_unlock_extension_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/create_new_thread_extension.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/create_new_thread_extension_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/multithreaded_object_extension.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/multithreaded_object_extension.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/multithreaded_object_extension_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/parallel_for_extension.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/parallel_for_extension_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/posix.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/read_write_mutex_extension.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/read_write_mutex_extension_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/rmutex_extension.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/rmutex_extension_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/rsignaler_extension.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/rsignaler_extension_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_function_extension.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_function_extension_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_pool_extension.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_pool_extension.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_pool_extension_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_specific_data_extension.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_specific_data_extension_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threaded_object_extension.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threaded_object_extension.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threaded_object_extension_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_2.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_2.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_shared.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_shared.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer/timer.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer/timer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer/timer_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer/timer_heavy.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer/tokenizer_kernel_1.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer/tokenizer_kernel_1.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer/tokenizer_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer/tokenizer_kernel_c.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/type_safe_union.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/type_safe_union/type_safe_union_kernel.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/type_safe_union/type_safe_union_kernel_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/uintn.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unicode.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unicode/unicode.cpp
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unicode/unicode.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unicode/unicode_abstract.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unordered_pair.h
-CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/windows_magic.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/algs.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_decision_function.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_decision_function_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_function.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_function_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_function_impl.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_function_impl2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array/array_kernel.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array/array_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array/array_tools.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array/array_tools_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d/array2d_generic_image.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d/array2d_kernel.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d/array2d_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d/serialize_pixel_overloads.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/assert.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/base64.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/base64/base64_kernel_1.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/base64/base64_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/base64/base64_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree/binary_search_tree_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree/binary_search_tree_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree/binary_search_tree_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree/binary_search_tree_kernel_c.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/bound_function_pointer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/bound_function_pointer/bound_function_pointer_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/bound_function_pointer/bound_function_pointer_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/byte_orderer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/byte_orderer/byte_orderer_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/byte_orderer/byte_orderer_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/cmd_line_parser/get_option.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/cmd_line_parser/get_option_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream/compress_stream_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream/compress_stream_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream/compress_stream_kernel_3.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream/compress_stream_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_3.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_4.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_c.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader/config_reader_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader/config_reader_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader/config_reader_thread_safe_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader/config_reader_thread_safe_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/console_progress_indicator.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/crc32.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/crc32/crc32_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/crc32/crc32_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_extensions.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_extensions.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_extensions_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_1.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_2.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/posix.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/windows.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/disjoint_subsets.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/disjoint_subsets/disjoint_subsets.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/disjoint_subsets/disjoint_subsets_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dlib_basic_cpp_build_tutorial.txt
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/enable_if.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_c.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_3.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_4.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_5.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_6.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_c.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_3.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_4.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_5.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_6.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_c.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/error.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/float_details.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/count_bits.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/hash.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/hash_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/murmur_hash3.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/murmur_hash3_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/random_hashing.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/random_hashing_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/border_enumerator.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/border_enumerator_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/drectangle.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/drectangle_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/point_transforms.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/point_transforms_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/rectangle.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/rectangle_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/vector.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/vector_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/edge_list_graphs.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/edge_list_graphs_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/ordered_sample_pair.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/ordered_sample_pair_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/sample_pair.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/sample_pair_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_1.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_2.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/windows.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/xlib.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/base_widgets.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/base_widgets.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/base_widgets_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/canvas_drawing.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/canvas_drawing.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/canvas_drawing_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/drawable.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/drawable.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/drawable_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/fonts.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/fonts.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/fonts_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/nativefont.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/style.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/style.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/style_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/widgets.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/widgets.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/widgets_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/hash.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/binned_vector_feature_image.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/binned_vector_feature_image_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/build_separable_poly_filters.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/fine_hog_image.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/fine_hog_image_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hashed_feature_image.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hashed_feature_image_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hessian_pyramid.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hessian_pyramid_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hog.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hog_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/nearest_neighbor_feature_image.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/nearest_neighbor_feature_image_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/poly_image.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/poly_image_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/surf.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/surf_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/box_overlap_testing.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/box_overlap_testing_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/correlation_tracker.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/correlation_tracker_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/detection_template_tools.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/detection_template_tools_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/frontal_face_detector.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/frontal_face_detector_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/full_object_detection.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/full_object_detection_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/generic_image.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/object_detector.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/object_detector_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/remove_unobtainable_rectangles.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/remove_unobtainable_rectangles_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/render_face_detections.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/render_face_detections_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_fhog_pyramid.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_fhog_pyramid_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_boxes.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_boxes_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_custom.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_custom_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_pyramid.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_pyramid_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_pyramid_tools.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_pyramid_tools_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/setup_hashed_features.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/setup_hashed_features_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/shape_predictor.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/shape_predictor_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/assign_image.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/assign_image_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/colormaps.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/colormaps_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/draw.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/draw_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/edge_detector.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/edge_detector_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/equalize_histogram.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/equalize_histogram_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/fhog.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/fhog_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/hough_transform.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/hough_transform_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/image_pyramid.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/image_pyramid_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/integral_image.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/integral_image_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/interpolation.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/interpolation_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/label_connected_blobs.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/label_connected_blobs_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/lbp.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/lbp_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/morphological_operations.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/morphological_operations_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/random_color_transform.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/random_color_transform_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/segment_image.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/segment_image_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/spatial_filtering.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/spatial_filtering_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/thresholding.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/thresholding_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/interfaces/enumerable.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/interfaces/map_pair.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/interfaces/remover.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/is_kind.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/extra_logger_headers.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/extra_logger_headers.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_config_file.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_config_file.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_kernel_1.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/create_random_projection_hash.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/create_random_projection_hash_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/hashes.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/hashes_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/projection_hash.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/projection_hash_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer/lz77_buffer_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer/lz77_buffer_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer/lz77_buffer_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer/lz77_buffer_kernel_c.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer/lzp_buffer_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer/lzp_buffer_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer/lzp_buffer_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer/lzp_buffer_kernel_c.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/map.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/map/map_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/map/map_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/map/map_kernel_c.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/cblas_constants.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/fortran_id.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/geev.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/geqrf.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/gesdd.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/gesvd.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/getrf.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/ormqr.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/potrf.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/syev.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/syevr.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_assign.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_assign_fwd.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_blas_bindings.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_cholesky.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_conj_trans.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_conv.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_conv_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_data_layout.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_data_layout_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_default_mul.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_eigenvalue.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_exp.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_exp_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_expressions.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_fft.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_fft_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_fwd.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_generic_image.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_la.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_la_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_lu.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_mat.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_mat_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_math_functions.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_math_functions_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_op.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_qr.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_read_from_istream.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_subexp.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_subexp_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_trsm.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_utilities.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_utilities_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/symmetric_matrix_cache.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/symmetric_matrix_cache_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer/make_mfp.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer/make_mfp_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer/member_function_pointer_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer/member_function_pointer_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager/memory_manager_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager/memory_manager_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager/memory_manager_kernel_3.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager/memory_manager_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager_stateless/memory_manager_stateless_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager_stateless/memory_manager_stateless_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_1.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_2.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_shared.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/posix.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/windows.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/noncopyable.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/numeric_constants.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv/cv_image.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv/cv_image_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv/to_open_cv.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv/to_open_cv_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_factor_graph_nmplp.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_factor_graph_nmplp_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_factor_graph_viterbi.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_factor_graph_viterbi_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_parse_cky.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_parse_cky_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/max_cost_assignment.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/max_cost_assignment_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/max_sum_submatrix.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/max_sum_submatrix_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_bobyqa.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_bobyqa_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_least_squares.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_least_squares_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_line_search.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_line_search_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_oca.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_oca_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_search_strategies.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_search_strategies_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp2_using_smo.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp2_using_smo_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp3_using_smo.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp3_using_smo_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp_using_smo.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp_using_smo_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_stop_strategies.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_stop_strategies_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_trust_region.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_trust_region_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/pixel.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/platform.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_kernel_c.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_sort_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_sort_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/rand.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/rand/mersenne_twister.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/rand/rand_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/rand/rand_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_compare_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_compare_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_kernel_c.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_sort_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_sort_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_sort_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/serialize.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_compare_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_compare_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_kernel_c.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd4f.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd4i.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd8f.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd8i.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd_check.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/circular_buffer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/circular_buffer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/sliding_buffer_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/sliding_buffer_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/sliding_buffer_kernel_c.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/scoped_ptr.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/scoped_ptr_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/shared_ptr.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/shared_ptr_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/shared_ptr_thread_safe.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/shared_ptr_thread_safe_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/weak_ptr.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/weak_ptr_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers_thread_safe.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sort.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sparse_vector.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/stack_trace.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/average_precision.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/average_precision_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/cca.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/cca_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/dpca.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/dpca_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/image_feature_sampling.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/image_feature_sampling_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/lda.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/lda_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/random_subset_selector.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/random_subset_selector_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/sammon.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/sammon_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/statistics.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/statistics_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/vector_normalizer_frobmetric.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/vector_normalizer_frobmetric_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/std_allocator.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/stl_checked.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/stl_checked/std_vector_c.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/stl_checked/std_vector_c_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/string.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/string/string.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/string/string_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/active_learning.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/active_learning_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/assignment_function.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/assignment_function_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_assignment_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_assignment_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_multiclass_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_multiclass_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_object_detection_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_object_detection_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_regression_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_regression_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_sequence_labeler.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_sequence_labeler_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_sequence_segmenter.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_sequence_segmenter_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/empirical_kernel_map.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/empirical_kernel_map_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/feature_ranking.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/feature_ranking_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/function.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/function_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kcentroid.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kcentroid_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kcentroid_overloads.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kernel.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kernel_matrix.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kernel_matrix_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kkmeans.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kkmeans_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/krls.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/krls_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/krr_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/krr_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/linearly_independent_subset_finder.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/linearly_independent_subset_finder_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/multiclass_tools.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/multiclass_tools_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/null_df.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/null_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/null_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_all_decision_function.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_all_decision_function_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_all_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_one_decision_function.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_one_decision_function_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_one_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/pegasos.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/pegasos_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/ranking_tools.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/ranking_tools_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rbf_network.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rbf_network_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/reduced.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/reduced_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rls.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rls_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/roc_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/roc_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rr_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rr_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rvm.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rvm_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sequence_labeler.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sequence_labeler_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sequence_segmenter.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sequence_segmenter_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/simplify_linear_decision_function.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/simplify_linear_decision_function_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sort_basis_vectors.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sort_basis_vectors_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sparse_kernel.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sparse_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sparse_vector.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sparse_vector_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_object_detection_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_object_detection_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_object_detection_problem.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_object_detection_problem_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_problem.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_problem_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_problem_threaded.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_problem_threaded_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_ekm_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_ekm_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_linear_dcd_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_linear_dcd_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_linear_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_linear_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_nu_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_nu_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_one_class_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_one_class_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_rank_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_rank_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svr_linear_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svr_linear_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svr_trainer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svr_trainer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/track_association_function.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/track_association_function_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sync_extension.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sync_extension/sync_extension_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sync_extension/sync_extension_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/auto_mutex_extension.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/auto_mutex_extension_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/auto_unlock_extension.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/auto_unlock_extension_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/create_new_thread_extension.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/create_new_thread_extension_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/multithreaded_object_extension.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/multithreaded_object_extension.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/multithreaded_object_extension_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/parallel_for_extension.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/parallel_for_extension_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/posix.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/read_write_mutex_extension.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/read_write_mutex_extension_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/rmutex_extension.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/rmutex_extension_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/rsignaler_extension.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/rsignaler_extension_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_function_extension.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_function_extension_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_pool_extension.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_pool_extension.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_pool_extension_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_specific_data_extension.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_specific_data_extension_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threaded_object_extension.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threaded_object_extension.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threaded_object_extension_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_2.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_2.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_shared.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_shared.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer/timer.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer/timer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer/timer_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer/timer_heavy.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer/tokenizer_kernel_1.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer/tokenizer_kernel_1.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer/tokenizer_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer/tokenizer_kernel_c.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/type_safe_union.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/type_safe_union/type_safe_union_kernel.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/type_safe_union/type_safe_union_kernel_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/uintn.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unicode.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unicode/unicode.cpp
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unicode/unicode.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unicode/unicode_abstract.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unordered_pair.h
+CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/windows_magic.h
 CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/gui/../eigen/Eigen/Cholesky
 CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/gui/../eigen/Eigen/Core
 CMakeFiles/run.dir/mainwindow.cpp.o: /home/pi/Desktop/hackillinois/gui/../eigen/Eigen/Dense
@@ -2191,646 +2191,646 @@ CMakeFiles/run.dir/preprocessFace.cpp.o: /home/pi/Desktop/hackillinois/gui/prepr
 
 CMakeFiles/run.dir/run_automoc.cpp.o: moc_mainwindow.cpp
 CMakeFiles/run.dir/run_automoc.cpp.o: run_automoc.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/algs.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_decision_function.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_decision_function_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_function.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_function_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_function_impl.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_function_impl2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/any/any_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array/array_kernel.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array/array_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array/array_tools.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array/array_tools_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d/array2d_generic_image.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d/array2d_kernel.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d/array2d_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/array2d/serialize_pixel_overloads.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/assert.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/base64.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/base64/base64_kernel_1.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/base64/base64_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/base64/base64_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree/binary_search_tree_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree/binary_search_tree_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree/binary_search_tree_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/binary_search_tree/binary_search_tree_kernel_c.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/bound_function_pointer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/bound_function_pointer/bound_function_pointer_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/bound_function_pointer/bound_function_pointer_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/byte_orderer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/byte_orderer/byte_orderer_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/byte_orderer/byte_orderer_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/cmd_line_parser/get_option.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/cmd_line_parser/get_option_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream/compress_stream_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream/compress_stream_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream/compress_stream_kernel_3.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/compress_stream/compress_stream_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_3.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_4.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/conditioning_class/conditioning_class_kernel_c.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader/config_reader_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader/config_reader_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader/config_reader_thread_safe_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/config_reader/config_reader_thread_safe_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/console_progress_indicator.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/crc32.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/crc32/crc32_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/crc32/crc32_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_extensions.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_extensions.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_extensions_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_1.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_2.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/dir_nav_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/posix.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dir_nav/windows.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/disjoint_subsets.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/disjoint_subsets/disjoint_subsets.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/disjoint_subsets/disjoint_subsets_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/dlib_basic_cpp_build_tutorial.txt
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/enable_if.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder/entropy_decoder_kernel_c.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_3.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_4.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_5.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_6.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_decoder_model/entropy_decoder_model_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder/entropy_encoder_kernel_c.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_3.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_4.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_5.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_6.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/entropy_encoder_model/entropy_encoder_model_kernel_c.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/error.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/float_details.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/count_bits.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/hash.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/hash_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/murmur_hash3.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/murmur_hash3_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/random_hashing.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/general_hash/random_hashing_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/border_enumerator.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/border_enumerator_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/drectangle.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/drectangle_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/point_transforms.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/point_transforms_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/rectangle.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/rectangle_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/vector.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/geometry/vector_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/edge_list_graphs.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/edge_list_graphs_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/ordered_sample_pair.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/ordered_sample_pair_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/sample_pair.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/graph_utils/sample_pair_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_1.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_2.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/gui_core_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/windows.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_core/xlib.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/base_widgets.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/base_widgets.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/base_widgets_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/canvas_drawing.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/canvas_drawing.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/canvas_drawing_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/drawable.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/drawable.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/drawable_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/fonts.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/fonts.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/fonts_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/nativefont.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/style.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/style.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/style_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/widgets.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/widgets.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/gui_widgets/widgets_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/hash.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/binned_vector_feature_image.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/binned_vector_feature_image_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/build_separable_poly_filters.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/fine_hog_image.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/fine_hog_image_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hashed_feature_image.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hashed_feature_image_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hessian_pyramid.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hessian_pyramid_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hog.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/hog_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/nearest_neighbor_feature_image.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/nearest_neighbor_feature_image_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/poly_image.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/poly_image_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/surf.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_keypoint/surf_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/box_overlap_testing.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/box_overlap_testing_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/correlation_tracker.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/correlation_tracker_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/detection_template_tools.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/detection_template_tools_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/frontal_face_detector.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/frontal_face_detector_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/full_object_detection.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/full_object_detection_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/generic_image.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/object_detector.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/object_detector_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/remove_unobtainable_rectangles.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/remove_unobtainable_rectangles_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/render_face_detections.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/render_face_detections_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_fhog_pyramid.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_fhog_pyramid_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_boxes.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_boxes_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_custom.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_custom_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_pyramid.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_pyramid_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_pyramid_tools.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/scan_image_pyramid_tools_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/setup_hashed_features.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/setup_hashed_features_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/shape_predictor.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_processing/shape_predictor_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/assign_image.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/assign_image_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/colormaps.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/colormaps_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/draw.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/draw_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/edge_detector.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/edge_detector_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/equalize_histogram.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/equalize_histogram_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/fhog.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/fhog_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/hough_transform.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/hough_transform_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/image_pyramid.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/image_pyramid_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/integral_image.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/integral_image_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/interpolation.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/interpolation_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/label_connected_blobs.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/label_connected_blobs_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/lbp.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/lbp_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/morphological_operations.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/morphological_operations_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/random_color_transform.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/random_color_transform_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/segment_image.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/segment_image_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/spatial_filtering.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/spatial_filtering_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/thresholding.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/image_transforms/thresholding_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/interfaces/enumerable.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/interfaces/map_pair.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/interfaces/remover.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/is_kind.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/extra_logger_headers.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/extra_logger_headers.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_config_file.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_config_file.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_kernel_1.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/logger/logger_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/create_random_projection_hash.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/create_random_projection_hash_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/hashes.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/hashes_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/projection_hash.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lsh/projection_hash_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer/lz77_buffer_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer/lz77_buffer_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer/lz77_buffer_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lz77_buffer/lz77_buffer_kernel_c.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer/lzp_buffer_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer/lzp_buffer_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer/lzp_buffer_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/lzp_buffer/lzp_buffer_kernel_c.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/map.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/map/map_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/map/map_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/map/map_kernel_c.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/cblas_constants.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/fortran_id.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/geev.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/geqrf.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/gesdd.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/gesvd.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/getrf.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/ormqr.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/potrf.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/syev.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/lapack/syevr.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_assign.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_assign_fwd.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_blas_bindings.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_cholesky.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_conj_trans.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_conv.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_conv_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_data_layout.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_data_layout_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_default_mul.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_eigenvalue.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_exp.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_exp_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_expressions.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_fft.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_fft_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_fwd.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_generic_image.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_la.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_la_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_lu.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_mat.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_mat_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_math_functions.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_math_functions_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_op.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_qr.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_read_from_istream.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_subexp.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_subexp_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_trsm.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_utilities.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/matrix_utilities_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/symmetric_matrix_cache.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/matrix/symmetric_matrix_cache_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer/make_mfp.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer/make_mfp_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer/member_function_pointer_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/member_function_pointer/member_function_pointer_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager/memory_manager_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager/memory_manager_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager/memory_manager_kernel_3.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager/memory_manager_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager_stateless/memory_manager_stateless_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/memory_manager_stateless/memory_manager_stateless_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_1.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_2.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/misc_api_shared.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/posix.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/misc_api/windows.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/noncopyable.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/numeric_constants.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv/cv_image.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv/cv_image_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv/to_open_cv.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/opencv/to_open_cv_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_factor_graph_nmplp.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_factor_graph_nmplp_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_factor_graph_viterbi.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_factor_graph_viterbi_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_parse_cky.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/find_max_parse_cky_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/max_cost_assignment.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/max_cost_assignment_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/max_sum_submatrix.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/max_sum_submatrix_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_bobyqa.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_bobyqa_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_least_squares.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_least_squares_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_line_search.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_line_search_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_oca.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_oca_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_search_strategies.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_search_strategies_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp2_using_smo.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp2_using_smo_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp3_using_smo.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp3_using_smo_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp_using_smo.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_solve_qp_using_smo_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_stop_strategies.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_stop_strategies_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_trust_region.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/optimization/optimization_trust_region_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/pixel.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/platform.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_kernel_c.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_sort_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/queue/queue_sort_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/rand.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/rand/mersenne_twister.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/rand/rand_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/rand/rand_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_compare_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_compare_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_kernel_c.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_sort_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_sort_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sequence/sequence_sort_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/serialize.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_compare_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_compare_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/set/set_kernel_c.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd4f.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd4i.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd8f.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd8i.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/simd/simd_check.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/circular_buffer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/circular_buffer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/sliding_buffer_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/sliding_buffer_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sliding_buffer/sliding_buffer_kernel_c.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/scoped_ptr.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/scoped_ptr_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/shared_ptr.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/shared_ptr_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/shared_ptr_thread_safe.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/shared_ptr_thread_safe_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/weak_ptr.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers/weak_ptr_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/smart_pointers_thread_safe.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sort.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sparse_vector.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/stack_trace.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/average_precision.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/average_precision_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/cca.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/cca_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/dpca.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/dpca_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/image_feature_sampling.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/image_feature_sampling_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/lda.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/lda_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/random_subset_selector.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/random_subset_selector_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/sammon.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/sammon_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/statistics.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/statistics_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/vector_normalizer_frobmetric.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/statistics/vector_normalizer_frobmetric_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/std_allocator.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/stl_checked.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/stl_checked/std_vector_c.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/stl_checked/std_vector_c_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/string.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/string/string.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/string/string_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/active_learning.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/active_learning_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/assignment_function.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/assignment_function_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_assignment_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_assignment_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_multiclass_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_multiclass_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_object_detection_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_object_detection_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_regression_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_regression_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_sequence_labeler.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_sequence_labeler_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_sequence_segmenter.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/cross_validate_sequence_segmenter_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/empirical_kernel_map.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/empirical_kernel_map_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/feature_ranking.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/feature_ranking_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/function.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/function_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kcentroid.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kcentroid_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kcentroid_overloads.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kernel.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kernel_matrix.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kernel_matrix_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kkmeans.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/kkmeans_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/krls.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/krls_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/krr_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/krr_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/linearly_independent_subset_finder.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/linearly_independent_subset_finder_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/multiclass_tools.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/multiclass_tools_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/null_df.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/null_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/null_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_all_decision_function.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_all_decision_function_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_all_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_one_decision_function.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_one_decision_function_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/one_vs_one_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/pegasos.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/pegasos_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/ranking_tools.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/ranking_tools_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rbf_network.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rbf_network_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/reduced.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/reduced_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rls.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rls_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/roc_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/roc_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rr_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rr_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rvm.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/rvm_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sequence_labeler.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sequence_labeler_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sequence_segmenter.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sequence_segmenter_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/simplify_linear_decision_function.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/simplify_linear_decision_function_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sort_basis_vectors.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sort_basis_vectors_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sparse_kernel.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sparse_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sparse_vector.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/sparse_vector_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_object_detection_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_object_detection_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_object_detection_problem.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_object_detection_problem_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_problem.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_problem_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_problem_threaded.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/structural_svm_problem_threaded_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_ekm_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_ekm_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_linear_dcd_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_linear_dcd_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_linear_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_linear_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_c_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_nu_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_nu_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_one_class_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_one_class_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_rank_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svm_rank_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svr_linear_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svr_linear_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svr_trainer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/svr_trainer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/track_association_function.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/svm/track_association_function_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sync_extension.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sync_extension/sync_extension_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/sync_extension/sync_extension_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/auto_mutex_extension.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/auto_mutex_extension_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/auto_unlock_extension.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/auto_unlock_extension_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/create_new_thread_extension.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/create_new_thread_extension_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/multithreaded_object_extension.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/multithreaded_object_extension.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/multithreaded_object_extension_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/parallel_for_extension.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/parallel_for_extension_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/posix.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/read_write_mutex_extension.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/read_write_mutex_extension_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/rmutex_extension.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/rmutex_extension_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/rsignaler_extension.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/rsignaler_extension_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_function_extension.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_function_extension_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_pool_extension.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_pool_extension.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_pool_extension_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_specific_data_extension.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/thread_specific_data_extension_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threaded_object_extension.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threaded_object_extension.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threaded_object_extension_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_2.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_2.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_shared.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/threads/threads_kernel_shared.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer/timer.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer/timer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer/timer_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/timer/timer_heavy.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer/tokenizer_kernel_1.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer/tokenizer_kernel_1.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer/tokenizer_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/tokenizer/tokenizer_kernel_c.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/type_safe_union.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/type_safe_union/type_safe_union_kernel.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/type_safe_union/type_safe_union_kernel_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/uintn.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unicode.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unicode/unicode.cpp
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unicode/unicode.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unicode/unicode_abstract.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/unordered_pair.h
-CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib-19.0\ (vc14)/dlib/windows_magic.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/algs.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_decision_function.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_decision_function_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_function.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_function_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_function_impl.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_function_impl2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/any/any_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array/array_kernel.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array/array_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array/array_tools.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array/array_tools_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d/array2d_generic_image.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d/array2d_kernel.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d/array2d_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/array2d/serialize_pixel_overloads.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/assert.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/base64.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/base64/base64_kernel_1.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/base64/base64_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/base64/base64_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree/binary_search_tree_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree/binary_search_tree_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree/binary_search_tree_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/binary_search_tree/binary_search_tree_kernel_c.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/bound_function_pointer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/bound_function_pointer/bound_function_pointer_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/bound_function_pointer/bound_function_pointer_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/byte_orderer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/byte_orderer/byte_orderer_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/byte_orderer/byte_orderer_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/cmd_line_parser/get_option.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/cmd_line_parser/get_option_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream/compress_stream_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream/compress_stream_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream/compress_stream_kernel_3.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/compress_stream/compress_stream_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_3.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_4.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/conditioning_class/conditioning_class_kernel_c.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader/config_reader_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader/config_reader_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader/config_reader_thread_safe_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/config_reader/config_reader_thread_safe_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/console_progress_indicator.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/crc32.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/crc32/crc32_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/crc32/crc32_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_extensions.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_extensions.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_extensions_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_1.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_2.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/dir_nav_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/posix.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dir_nav/windows.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/disjoint_subsets.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/disjoint_subsets/disjoint_subsets.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/disjoint_subsets/disjoint_subsets_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/dlib_basic_cpp_build_tutorial.txt
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/enable_if.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder/entropy_decoder_kernel_c.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_3.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_4.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_5.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_6.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_decoder_model/entropy_decoder_model_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder/entropy_encoder_kernel_c.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_3.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_4.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_5.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_6.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/entropy_encoder_model/entropy_encoder_model_kernel_c.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/error.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/float_details.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/count_bits.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/hash.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/hash_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/murmur_hash3.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/murmur_hash3_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/random_hashing.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/general_hash/random_hashing_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/border_enumerator.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/border_enumerator_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/drectangle.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/drectangle_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/point_transforms.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/point_transforms_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/rectangle.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/rectangle_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/vector.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/geometry/vector_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/edge_list_graphs.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/edge_list_graphs_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/ordered_sample_pair.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/ordered_sample_pair_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/sample_pair.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/graph_utils/sample_pair_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_1.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_2.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/gui_core_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/windows.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_core/xlib.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/base_widgets.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/base_widgets.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/base_widgets_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/canvas_drawing.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/canvas_drawing.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/canvas_drawing_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/drawable.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/drawable.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/drawable_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/fonts.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/fonts.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/fonts_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/nativefont.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/style.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/style.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/style_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/widgets.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/widgets.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets/widgets_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/hash.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/binned_vector_feature_image.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/binned_vector_feature_image_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/build_separable_poly_filters.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/fine_hog_image.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/fine_hog_image_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hashed_feature_image.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hashed_feature_image_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hessian_pyramid.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hessian_pyramid_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hog.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/hog_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/nearest_neighbor_feature_image.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/nearest_neighbor_feature_image_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/poly_image.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/poly_image_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/surf.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_keypoint/surf_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/box_overlap_testing.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/box_overlap_testing_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/correlation_tracker.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/correlation_tracker_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/detection_template_tools.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/detection_template_tools_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/frontal_face_detector.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/frontal_face_detector_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/full_object_detection.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/full_object_detection_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/generic_image.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/object_detector.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/object_detector_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/remove_unobtainable_rectangles.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/remove_unobtainable_rectangles_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/render_face_detections.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/render_face_detections_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_fhog_pyramid.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_fhog_pyramid_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_boxes.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_boxes_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_custom.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_custom_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_pyramid.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_pyramid_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_pyramid_tools.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/scan_image_pyramid_tools_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/setup_hashed_features.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/setup_hashed_features_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/shape_predictor.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_processing/shape_predictor_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/assign_image.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/assign_image_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/colormaps.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/colormaps_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/draw.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/draw_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/edge_detector.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/edge_detector_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/equalize_histogram.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/equalize_histogram_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/fhog.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/fhog_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/hough_transform.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/hough_transform_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/image_pyramid.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/image_pyramid_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/integral_image.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/integral_image_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/interpolation.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/interpolation_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/label_connected_blobs.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/label_connected_blobs_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/lbp.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/lbp_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/morphological_operations.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/morphological_operations_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/random_color_transform.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/random_color_transform_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/segment_image.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/segment_image_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/spatial_filtering.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/spatial_filtering_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/thresholding.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/image_transforms/thresholding_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/interfaces/enumerable.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/interfaces/map_pair.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/interfaces/remover.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/is_kind.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/extra_logger_headers.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/extra_logger_headers.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_config_file.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_config_file.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_kernel_1.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/logger/logger_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/create_random_projection_hash.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/create_random_projection_hash_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/hashes.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/hashes_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/projection_hash.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lsh/projection_hash_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer/lz77_buffer_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer/lz77_buffer_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer/lz77_buffer_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lz77_buffer/lz77_buffer_kernel_c.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer/lzp_buffer_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer/lzp_buffer_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer/lzp_buffer_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/lzp_buffer/lzp_buffer_kernel_c.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/map.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/map/map_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/map/map_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/map/map_kernel_c.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/cblas_constants.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/fortran_id.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/geev.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/geqrf.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/gesdd.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/gesvd.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/getrf.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/ormqr.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/potrf.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/syev.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/lapack/syevr.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_assign.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_assign_fwd.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_blas_bindings.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_cholesky.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_conj_trans.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_conv.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_conv_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_data_layout.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_data_layout_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_default_mul.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_eigenvalue.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_exp.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_exp_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_expressions.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_fft.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_fft_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_fwd.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_generic_image.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_la.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_la_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_lu.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_mat.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_mat_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_math_functions.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_math_functions_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_op.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_qr.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_read_from_istream.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_subexp.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_subexp_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_trsm.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_utilities.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/matrix_utilities_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/symmetric_matrix_cache.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/matrix/symmetric_matrix_cache_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer/make_mfp.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer/make_mfp_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer/member_function_pointer_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/member_function_pointer/member_function_pointer_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager/memory_manager_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager/memory_manager_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager/memory_manager_kernel_3.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager/memory_manager_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager_stateless/memory_manager_stateless_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/memory_manager_stateless/memory_manager_stateless_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_1.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_2.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/misc_api_shared.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/posix.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/misc_api/windows.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/noncopyable.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/numeric_constants.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv/cv_image.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv/cv_image_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv/to_open_cv.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/opencv/to_open_cv_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_factor_graph_nmplp.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_factor_graph_nmplp_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_factor_graph_viterbi.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_factor_graph_viterbi_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_parse_cky.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/find_max_parse_cky_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/max_cost_assignment.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/max_cost_assignment_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/max_sum_submatrix.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/max_sum_submatrix_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_bobyqa.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_bobyqa_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_least_squares.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_least_squares_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_line_search.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_line_search_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_oca.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_oca_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_search_strategies.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_search_strategies_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp2_using_smo.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp2_using_smo_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp3_using_smo.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp3_using_smo_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp_using_smo.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_solve_qp_using_smo_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_stop_strategies.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_stop_strategies_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_trust_region.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/optimization/optimization_trust_region_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/pixel.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/platform.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_kernel_c.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_sort_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/queue/queue_sort_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/rand.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/rand/mersenne_twister.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/rand/rand_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/rand/rand_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_compare_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_compare_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_kernel_c.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_sort_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_sort_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sequence/sequence_sort_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/serialize.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_compare_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_compare_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/set/set_kernel_c.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd4f.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd4i.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd8f.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd8i.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/simd/simd_check.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/circular_buffer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/circular_buffer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/sliding_buffer_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/sliding_buffer_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sliding_buffer/sliding_buffer_kernel_c.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/scoped_ptr.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/scoped_ptr_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/shared_ptr.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/shared_ptr_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/shared_ptr_thread_safe.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/shared_ptr_thread_safe_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/weak_ptr.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers/weak_ptr_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/smart_pointers_thread_safe.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sort.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sparse_vector.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/stack_trace.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/average_precision.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/average_precision_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/cca.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/cca_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/dpca.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/dpca_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/image_feature_sampling.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/image_feature_sampling_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/lda.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/lda_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/random_subset_selector.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/random_subset_selector_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/sammon.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/sammon_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/statistics.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/statistics_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/vector_normalizer_frobmetric.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/statistics/vector_normalizer_frobmetric_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/std_allocator.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/stl_checked.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/stl_checked/std_vector_c.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/stl_checked/std_vector_c_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/string.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/string/string.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/string/string_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/active_learning.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/active_learning_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/assignment_function.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/assignment_function_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_assignment_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_assignment_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_multiclass_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_multiclass_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_object_detection_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_object_detection_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_regression_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_regression_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_sequence_labeler.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_sequence_labeler_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_sequence_segmenter.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/cross_validate_sequence_segmenter_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/empirical_kernel_map.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/empirical_kernel_map_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/feature_ranking.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/feature_ranking_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/function.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/function_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kcentroid.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kcentroid_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kcentroid_overloads.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kernel.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kernel_matrix.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kernel_matrix_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kkmeans.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/kkmeans_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/krls.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/krls_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/krr_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/krr_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/linearly_independent_subset_finder.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/linearly_independent_subset_finder_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/multiclass_tools.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/multiclass_tools_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/null_df.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/null_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/null_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_all_decision_function.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_all_decision_function_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_all_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_one_decision_function.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_one_decision_function_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/one_vs_one_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/pegasos.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/pegasos_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/ranking_tools.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/ranking_tools_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rbf_network.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rbf_network_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/reduced.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/reduced_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rls.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rls_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/roc_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/roc_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rr_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rr_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rvm.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/rvm_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sequence_labeler.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sequence_labeler_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sequence_segmenter.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sequence_segmenter_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/simplify_linear_decision_function.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/simplify_linear_decision_function_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sort_basis_vectors.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sort_basis_vectors_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sparse_kernel.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sparse_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sparse_vector.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/sparse_vector_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_object_detection_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_object_detection_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_object_detection_problem.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_object_detection_problem_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_problem.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_problem_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_problem_threaded.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/structural_svm_problem_threaded_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_ekm_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_ekm_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_linear_dcd_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_linear_dcd_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_linear_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_linear_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_c_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_nu_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_nu_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_one_class_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_one_class_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_rank_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svm_rank_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svr_linear_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svr_linear_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svr_trainer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/svr_trainer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/track_association_function.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/svm/track_association_function_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sync_extension.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sync_extension/sync_extension_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/sync_extension/sync_extension_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/auto_mutex_extension.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/auto_mutex_extension_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/auto_unlock_extension.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/auto_unlock_extension_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/create_new_thread_extension.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/create_new_thread_extension_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/multithreaded_object_extension.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/multithreaded_object_extension.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/multithreaded_object_extension_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/parallel_for_extension.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/parallel_for_extension_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/posix.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/read_write_mutex_extension.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/read_write_mutex_extension_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/rmutex_extension.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/rmutex_extension_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/rsignaler_extension.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/rsignaler_extension_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_function_extension.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_function_extension_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_pool_extension.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_pool_extension.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_pool_extension_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_specific_data_extension.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/thread_specific_data_extension_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threaded_object_extension.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threaded_object_extension.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threaded_object_extension_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_2.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_2.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_shared.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/threads/threads_kernel_shared.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer/timer.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer/timer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer/timer_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/timer/timer_heavy.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer/tokenizer_kernel_1.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer/tokenizer_kernel_1.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer/tokenizer_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/tokenizer/tokenizer_kernel_c.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/type_safe_union.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/type_safe_union/type_safe_union_kernel.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/type_safe_union/type_safe_union_kernel_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/uintn.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unicode.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unicode/unicode.cpp
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unicode/unicode.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unicode/unicode_abstract.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/unordered_pair.h
+CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/dlib/dlib/windows_magic.h
 CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/gui/../eigen/Eigen/Cholesky
 CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/gui/../eigen/Eigen/Core
 CMakeFiles/run.dir/run_automoc.cpp.o: /home/pi/Desktop/hackillinois/gui/../eigen/Eigen/Dense

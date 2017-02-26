@@ -11,11 +11,11 @@
 #include <vector>
 #include "face.h"
 
-#include "../dlib-19.0 (vc14)/dlib/opencv.h"
-#include "../dlib-19.0 (vc14)/dlib/image_processing/frontal_face_detector.h"
-#include "../dlib-19.0 (vc14)/dlib/image_processing/render_face_detections.h"
-#include "../dlib-19.0 (vc14)/dlib/image_processing.h"
-#include "../dlib-19.0 (vc14)/dlib/gui_widgets.h"
+#include "../dlib/dlib/opencv.h"
+#include "../dlib/dlib/image_processing/frontal_face_detector.h"
+#include "../dlib/dlib/image_processing/render_face_detections.h"
+#include "../dlib/dlib/image_processing.h"
+#include "../dlib/dlib/gui_widgets.h"
 
 namespace Ui{
 	class MainWindow;

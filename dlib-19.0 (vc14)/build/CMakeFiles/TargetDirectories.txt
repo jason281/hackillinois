@@ -1,4 +1,0 @@
-D:/cssp/dlib-19.0/build/CMakeFiles/dlib.dir
-D:/cssp/dlib-19.0/build/CMakeFiles/INSTALL.dir
-D:/cssp/dlib-19.0/build/CMakeFiles/ALL_BUILD.dir
-D:/cssp/dlib-19.0/build/CMakeFiles/ZERO_CHECK.dir

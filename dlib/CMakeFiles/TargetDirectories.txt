@@ -1,0 +1,14 @@
+/home/pi/Desktop/hackillinois/dlib-19.0 (vc14)/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/hackillinois/dlib-19.0 (vc14)/CMakeFiles/install/strip.dir
+/home/pi/Desktop/hackillinois/dlib-19.0 (vc14)/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/hackillinois/dlib-19.0 (vc14)/CMakeFiles/list_install_components.dir
+/home/pi/Desktop/hackillinois/dlib-19.0 (vc14)/CMakeFiles/install.dir
+/home/pi/Desktop/hackillinois/dlib-19.0 (vc14)/CMakeFiles/install/local.dir
+/home/pi/Desktop/hackillinois/dlib-19.0 (vc14)/dlib/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/hackillinois/dlib-19.0 (vc14)/dlib/CMakeFiles/install/strip.dir
+/home/pi/Desktop/hackillinois/dlib-19.0 (vc14)/dlib/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/hackillinois/dlib-19.0 (vc14)/dlib/CMakeFiles/list_install_components.dir
+/home/pi/Desktop/hackillinois/dlib-19.0 (vc14)/dlib/CMakeFiles/install.dir
+/home/pi/Desktop/hackillinois/dlib-19.0 (vc14)/dlib/CMakeFiles/install/local.dir
+/home/pi/Desktop/hackillinois/dlib-19.0 (vc14)/dlib/CMakeFiles/dlib_shared.dir
+/home/pi/Desktop/hackillinois/dlib-19.0 (vc14)/dlib/CMakeFiles/dlib.dir

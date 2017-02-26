@@ -13,12 +13,12 @@ SET(CMAKE_AUTOMOC ON)
 find_package(Qt5Widgets)
 find_package(Qt5Core)
 #Qt
-
 find_package( OpenCV REQUIRED )
-
+link_directories(../dlib/dlib)
 
 ADD_EXECUTABLE(run main.cpp mainwindow.cpp face.cpp preprocessFace.cpp detectObject.cpp ImageUtils_0.7.cpp)
 TARGET_LINK_LIBRARIES(run Qt5::Widgets)
 TARGET_LINK_LIBRARIES(run Qt5::Core)
+TARGET_LINK_LIBRARIES(run dlib)
 TARGET_LINK_LIBRARIES(run ${OpenCV_LIBS} )
 INCLUDE_DIRECTORIES("../eigen")
