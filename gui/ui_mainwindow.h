@@ -1,13 +1,13 @@
 /********************************************************************************
-** Form generated from reading UI file 'mainwindowHp6496.ui'
+** Form generated from reading UI file 'mainwindowHp2748.ui'
 **
 ** Created by: Qt User Interface Compiler version 5.6.2
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
 
-#ifndef MAINWINDOWHP6496_H
-#define MAINWINDOWHP6496_H
+#ifndef MAINWINDOWHP2748_H
+#define MAINWINDOWHP2748_H
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QAction>
@@ -60,7 +60,7 @@ public:
     {
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName(QStringLiteral("MainWindow"));
-        MainWindow->resize(800, 600);
+        MainWindow->resize(800, 735);
         actionReconnect = new QAction(MainWindow);
         actionReconnect->setObjectName(QStringLiteral("actionReconnect"));
         actionDisconnect = new QAction(MainWindow);
@@ -69,10 +69,10 @@ public:
         centralwidget->setObjectName(QStringLiteral("centralwidget"));
         monitor = new QLabel(centralwidget);
         monitor->setObjectName(QStringLiteral("monitor"));
-        monitor->setGeometry(QRect(230, 40, 551, 371));
+        monitor->setGeometry(QRect(280, 40, 501, 501));
         horizontalLayoutWidget = new QWidget(centralwidget);
         horizontalLayoutWidget->setObjectName(QStringLiteral("horizontalLayoutWidget"));
-        horizontalLayoutWidget->setGeometry(QRect(30, 30, 191, 471));
+        horizontalLayoutWidget->setGeometry(QRect(0, 0, 271, 671));
         horizontalLayout_2 = new QHBoxLayout(horizontalLayoutWidget);
         horizontalLayout_2->setObjectName(QStringLiteral("horizontalLayout_2"));
         horizontalLayout_2->setContentsMargins(0, 0, 0, 0);
@@ -138,7 +138,7 @@ public:
 
         horizontalLayoutWidget_2 = new QWidget(centralwidget);
         horizontalLayoutWidget_2->setObjectName(QStringLiteral("horizontalLayoutWidget_2"));
-        horizontalLayoutWidget_2->setGeometry(QRect(390, 460, 281, 31));
+        horizontalLayoutWidget_2->setGeometry(QRect(390, 610, 281, 31));
         horizontalLayout_3 = new QHBoxLayout(horizontalLayoutWidget_2);
         horizontalLayout_3->setObjectName(QStringLiteral("horizontalLayout_3"));
         horizontalLayout_3->setContentsMargins(0, 0, 0, 0);
@@ -207,4 +207,4 @@ namespace Ui {
 
 QT_END_NAMESPACE
 
-#endif // MAINWINDOWHP6496_H
+#endif // MAINWINDOWHP2748_H
