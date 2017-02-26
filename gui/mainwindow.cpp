@@ -57,6 +57,9 @@ void workerThread::run(){
 		if(mw->rect_face.x!=0)
  		{
  			cv::rectangle(mw->frame,cv::Point(mw->rect_face.x,mw->rect_face.y),cv::Point(mw->rect_face.x+mw->rect_face.width,mw->rect_face.y+mw->rect_face.height), cvScalar(255,64,64), 1,8);
+	
+			cv::circle(mw->frame,mw->Leye,3,CV_RGB(255,0,0),CV_AA);
+			cv::circle(mw->frame,mw->Reye,3,CV_RGB(255,0,0),CV_AA);
  		}
 		cv::resize(mw->frame,framesmall,cv::Size(640,480),CV_INTER_AREA);
 		cv::cvtColor(framesmall,framesmall,cv::COLOR_BGR2RGB);
@@ -65,21 +68,48 @@ void workerThread::run(){
 	}
 };
 
+cv::Point analyzeThread::calcEye(dlib::full_object_detection shape,int start, int end){
+	//start end: 
+	//left eye: 	36 41
+	//right:  	42 47
+
+	int x_mean=0,y_mean=0;
+	for (int i =start;i<=end;i++)
+	{
+		x_mean+=shape.part(i).x();
+		y_mean+=shape.part(i).y();	
+	}
+	x_mean=cvRound((double)x_mean/6);
+	y_mean=cvRound((double)y_mean/6);
+
+	return Point(x_mean,y_mean);
+}
+
 void analyzeThread::run(){
 	int count=0;
+	
 	while(1){
 		Face* tmp = new Face;
+		tmp->setPoseModel(&(mw->pose_model));
+		if(!mw->frame.rows)
+			continue;
 		if(tmp->faceNormalization(mw->frame)){
 			mw->rect_face=tmp->rect_face;
-
-			cv_image<bgr_pixel> cimg(mw->frame);
+			cout <<"helo"<<endl;
+			/*cv_image<bgr_pixel> cimg(mw->frame);
  			dlib::rectangle face(
  				tmp->rect_face.x,
  				tmp->rect_face.y,
  				tmp->rect_face.x + tmp->rect_face.width,
  				tmp->rect_face.y + tmp->rect_face.height);
  			full_object_detection shape;
- 			shape = mw->pose_model(cimg, face);
+ 			shape = mw->pose_model(cimg, face);*/
+
+			//mw->Leye=calcEye(shape,36,41);
+			//mw->Reye=calcEye(shape,42,47);
+
+			mw->Leye=tmp->Leye;
+			mw->Reye=tmp->Reye;			
 
 			float distance=3000;
 			PCA_testing(mw->f, tmp, mw->trainCoef, mw->eigenFace, mw->meanFace, distance);
@@ -89,6 +119,7 @@ void analyzeThread::run(){
 			else
 				count = 0;
 			if(count>10){
+				count=0;
 				std::cout<<"===========New User==========\n";
 				cv::Mat framesmall;
 				cv::resize(tmp->get_Mat(),framesmall,cv::Size(128,128),CV_INTER_AREA);

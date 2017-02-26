@@ -45,6 +45,8 @@ private:
 	QLabel* users[10];
 	
 	dlib::shape_predictor pose_model;//landmark model;
+	cv::Point Leye;
+	cv::Point Reye;
 	
 private slots:
 	void connect_cam();
@@ -65,5 +67,6 @@ public:
 	void run();
 private:
 	MainWindow* mw;
+	cv::Point calcEye(dlib::full_object_detection shape, int start, int end);
 };
 #endif

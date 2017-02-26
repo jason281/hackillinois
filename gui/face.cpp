@@ -6,6 +6,7 @@
 #include <sstream>
 #include <math.h>
 using namespace std;
+using namespace dlib;
 
 Face::Face() {
 	this->data = new float[HEIGHT * WIDTH];
@@ -13,6 +14,10 @@ Face::Face() {
 	for (int i = 0; i < WIDTH; i++){
 		data2D[i] = new float[HEIGHT];
 	}
+
+	face_cascade1.load("haarcascade_frontalface_alt.xml");
+	//string LandMarkModelName = "shape_predictor_68_face_landmarks.dat";
+	//deserialize(LandMarkModelName.c_str()) >> pose_model;
 }
 
 Face::~Face(){
@@ -115,8 +120,8 @@ bool Face::detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* orig
 	CascadeClassifier eyeCascade2;
 
 	Ptr<FaceRecognizer> model;
-	vector<Mat> preprocessedFaces;
-	vector<int> faceLabels;
+	std::vector<Mat> preprocessedFaces;
+	std::vector<int> faceLabels;
 	Mat old_prepreprocessedFace;
 	double old_time = 0;
 
@@ -138,6 +143,7 @@ bool Face::detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* orig
 	cout << "Position of right eye:" << originalRightEye->x << "," << originalRightEye->y << endl;
 	rect_face=faceRect;
 	
+	
 	bool gotFaceAndEyes = false;
 	if (preprocessedFace.data)
 		gotFaceAndEyes = true;
@@ -145,11 +151,86 @@ bool Face::detectAndRecognize(Mat inputFace, Point* originalLeftEye, Point* orig
 	return gotFaceAndEyes;
 
 }
+void Face::calcROI(Mat InputFace){
+	
+	std::vector<Rect> faces1;
+	//face_cascade1.detectMultiScale(InputFace,faces1,1.1,1,0,0,cv::Size(60,60),cv::Size(120,120));
+	face_cascade1.detectMultiScale(InputFace,faces1,1.1,1,0,cv::Size(50,50),cv::Size(120,120));
+	cout<<"FD 1 end"<<endl;
+	if (faces1.size()==0)
+	{
+		//ROI=new Mat();
+		cout<<"Not find face"<<endl;
+		IsFindFace=false;
+		cout<<"calc ROI end"<<endl;
+		return;
+	}
+	cout<<"find face"<<endl;
+	IsFindFace=true;
 
-bool Face::faceNormalization(Mat & inputFace){
-	Point leftEye, rightEye;
-	bool success = detectAndRecognize(inputFace, &leftEye, &rightEye);
+	int maxW=0;
+	int maxH=0;
+	int x_face;
+	int y_face;
+	for (int i =0;i<faces1.size();i++)
+	{
+		if(faces1[i].width>maxW)
+		{
+			maxW=faces1[i].width;
+			maxH=faces1[i].height;
+			x_face=faces1[i].x;
+			y_face=faces1[i].y;		
+		}
+	}
+	cout<<"FD max end"<<endl;
+	rect_face=cvRect(x_face,y_face,maxW,maxH);
+	ROI=InputFace(rect_face);
+	cout<<"calc ROI end"<<endl;
+}
 
+cv::Point Face::calcEye(dlib::full_object_detection& shape,int start, int end){
+	//start end: 
+	//left eye: 	36 41
+	//right:  	42 47
+
+	int x_mean=0,y_mean=0;
+	for (int i =start;i<=end;i++)
+	{
+		x_mean+=shape.part(i).x();
+		y_mean+=shape.part(i).y();	
+	}
+	x_mean=cvRound((double)x_mean/6);
+	y_mean=cvRound((double)y_mean/6);
+	cout<<"calcEye ENd"<<endl;
+	return Point(x_mean,y_mean);
+}
+bool Face::getEyePoints(Mat inputFace, Point* originalLeftEye, Point* originalRightEye){
+	//namedWindow("2",CV_WINDOW_AUTOSIZE);
+	//imshow("2",inputFace);
+	//char keypress = waitKey(2);
+	calcROI(inputFace);
+	cout<<"FN end"<<endl;
+	if(IsFindFace){
+		cv_image<bgr_pixel> cimg(ROI);
+		dlib::rectangle face(rect_face.x,rect_face.y,rect_face.x + rect_face.width,rect_face.y + rect_face.height);
+		full_object_detection shape;
+		dlib::shape_predictor tmp= *pose_model;
+		shape = tmp(cimg, face);
+		Leye=calcEye(shape,36,41);
+		Reye=calcEye(shape,42,47);	
+		*originalLeftEye=Leye;
+		*originalRightEye=Reye;
+		cout<<"GetEyePoint ENd"<<endl;
+		
+	}
+	return IsFindFace;
+}
+
+bool Face::faceNormalization(Mat  inputFace){
+	Point leftEye, rightEye;	
+	cout<<"FN start"<<endl;
+	bool success = getEyePoints(inputFace, &leftEye, &rightEye);
+	cout<<"FN end"<<endl;
 	if(!success){
 		return success;
 	}

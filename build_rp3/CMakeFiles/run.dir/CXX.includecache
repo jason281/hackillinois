@@ -7963,6 +7963,16 @@ math.h
 -
 
 /home/pi/Desktop/hackillinois/gui/face.h
+../dlib/dlib/opencv.h
+/home/pi/Desktop/hackillinois/dlib/dlib/opencv.h
+../dlib/dlib/image_processing/frontal_face_detector.h
+/home/pi/Desktop/hackillinois/dlib/dlib/image_processing/frontal_face_detector.h
+../dlib/dlib/image_processing/render_face_detections.h
+/home/pi/Desktop/hackillinois/dlib/dlib/image_processing/render_face_detections.h
+../dlib/dlib/image_processing.h
+/home/pi/Desktop/hackillinois/dlib/dlib/image_processing.h
+../dlib/dlib/gui_widgets.h
+/home/pi/Desktop/hackillinois/dlib/dlib/gui_widgets.h
 opencv2/opencv.hpp
 -
 preprocessFace.h
