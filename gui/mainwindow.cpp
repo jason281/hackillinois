@@ -114,7 +114,10 @@ void analyzeThread::run(){
 			mw->Reye=tmp->Reye;			
 
 			float distance=3000;
-			PCA_testing(mw->f, tmp, mw->trainCoef, mw->eigenFace, mw->meanFace, distance);
+			for(int i=0;i<10;i++)
+				mw->users[i]->setStyleSheet(styleSheet());
+			int id_user=PCA_testing(mw->f, tmp, mw->trainCoef, mw->eigenFace, mw->meanFace, distance);
+			mw->users[id_user]->setStyleSheet("border: 20px solid red");
 			std::cout<<count<<":\t"<<distance<<std::endl;
 			if(distance>=1000)
 				count++;
