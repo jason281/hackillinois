@@ -115,9 +115,10 @@ void analyzeThread::run(){
 
 			float distance=3000;
 			for(int i=0;i<10;i++)
-				mw->users[i]->setStyleSheet(styleSheet());
+				mw->users[i]->setStyleSheet("");
 			int id_user=PCA_testing(mw->f, tmp, mw->trainCoef, mw->eigenFace, mw->meanFace, distance);
-			mw->users[id_user]->setStyleSheet("border: 20px solid red");
+			if(id_user>=0 && id_user<10)
+				mw->users[id_user]->setStyleSheet("border: 20px solid red");
 			std::cout<<count<<":\t"<<distance<<std::endl;
 			if(distance>=1000)
 				count++;
