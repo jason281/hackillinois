@@ -37,6 +37,7 @@ void MainWindow::resizeEvent(QResizeEvent* event){
 }
 
 void MainWindow::connect_cam(){
+	
 	camera.open(0);
     if(!camera.isOpened()){
         statusBar()->showMessage("camera error");
@@ -44,6 +45,7 @@ void MainWindow::connect_cam(){
     else{
         camera.set( CV_CAP_PROP_FRAME_WIDTH,640);
         camera.set( CV_CAP_PROP_FRAME_HEIGHT,480);
+	camera.set(CV_CAP_PROP_FPS,30);
     }
 }
 

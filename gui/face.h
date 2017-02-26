@@ -61,6 +61,7 @@ private:
 	bool IsFindFace;
 	void calcROI(Mat InputFace);
 	dlib::shape_predictor* pose_model;//landmark model;
+	int counter;
 	
 	cv::Point calcEye(dlib::full_object_detection& shape, int start, int end);
 };

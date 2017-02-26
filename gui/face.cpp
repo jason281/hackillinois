@@ -18,6 +18,7 @@ Face::Face() {
 	face_cascade1.load("haarcascade_frontalface_alt.xml");
 	//string LandMarkModelName = "shape_predictor_68_face_landmarks.dat";
 	//deserialize(LandMarkModelName.c_str()) >> pose_model;
+	counter=0;
 }
 
 Face::~Face(){
@@ -155,7 +156,7 @@ void Face::calcROI(Mat InputFace){
 	
 	std::vector<Rect> faces1;
 	//face_cascade1.detectMultiScale(InputFace,faces1,1.1,1,0,0,cv::Size(60,60),cv::Size(120,120));
-	face_cascade1.detectMultiScale(InputFace,faces1,1.1,1,0,cv::Size(50,50),cv::Size(120,120));
+	face_cascade1.detectMultiScale(InputFace,faces1,1.3,3,0,cv::Size(120,120),cv::Size(300,300));
 	cout<<"FD 1 end"<<endl;
 	if (faces1.size()==0)
 	{
@@ -182,10 +183,15 @@ void Face::calcROI(Mat InputFace){
 			y_face=faces1[i].y;		
 		}
 	}
-	cout<<"FD max end"<<endl;
+	cout<<"FD max end"<<maxW<<" "<<maxH<<" "<<x_face<<" "<< y_face<<endl;
 	rect_face=cvRect(x_face,y_face,maxW,maxH);
 	ROI=InputFace(rect_face);
+	string str;
+	stringstream ss;ss<<counter;
+	ss>>str;
+	str=str+".jpg";
 	cout<<"calc ROI end"<<endl;
+	imwrite(str, ROI);
 }
 
 cv::Point Face::calcEye(dlib::full_object_detection& shape,int start, int end){
